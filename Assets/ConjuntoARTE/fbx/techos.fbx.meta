@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: faedf75fd093c4f13b42a0f565b567c5
+timeCreated: 1467486379
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pasillo_planta_baja
+    100002: planta_1
+    100004: Planta_1_y_2
+    100006: Planta_2
+    100008: Planta_Baja
+    100010: techo_planta_1
+    100012: techo_planta_2
+    100014: techo_planta_baja
+    100016: //RootNode
+    400000: pasillo_planta_baja
+    400002: planta_1
+    400004: Planta_1_y_2
+    400006: Planta_2
+    400008: Planta_Baja
+    400010: techo_planta_1
+    400012: techo_planta_2
+    400014: techo_planta_baja
+    400016: //RootNode
+    2300000: techo_planta_1
+    2300002: techo_planta_2
+    2300004: techo_planta_baja
+    3300000: techo_planta_1
+    3300002: techo_planta_2
+    3300004: techo_planta_baja
+    4300000: techo_planta_baja
+    4300002: techo_planta_1
+    4300004: techo_planta_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

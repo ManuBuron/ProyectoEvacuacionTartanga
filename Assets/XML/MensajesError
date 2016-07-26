@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<MensajesError>
+  <Riesgo>
+	<Error>
+		<nombre>PersonaWC</nombre>
+		<mensaje1>Te has dejado un alumno en el servicio</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>
+	<Error>
+		<nombre>PersonaMovil</nombre>
+		<mensaje1>Has dejado volver a un alumno a clase</mensaje1>
+		<mensaje2>aaaa</mensaje2>
+	</Error>
+	<Error>
+		<nombre>PersonaTerraza</nombre>
+		<mensaje1>Te has dejado un alumno en la terraza</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>
+	<Error>
+		<nombre>PersonaDespistada</nombre>
+		<mensaje1>Te has dejado un alumno en un aula</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>     
+	<Error>
+		<nombre>PersonaDesordenada</nombre>
+		<mensaje1>Algunos alumnos no han mantenido la fila india</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>
+	<Error>
+		<nombre>PersonaRuidosa</nombre>
+		<mensaje1>No has mandado callar a los alumnos</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>     
+	<Error>
+		<nombre>PersonaCorriendo</nombre>
+		<mensaje1>Has dejado correr por los pasillos</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>
+	<Error>
+		<nombre>PersonaAscensor</nombre>
+		<mensaje1>No has llamado la atencion al alumno que estaba llamando al ascensor</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>  
+	<Error>
+		<nombre>Obstaculo</nombre>
+		<mensaje1>Te has dejado un obstaculo en el camino</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>   
+	<Error>
+		<nombre>Ventana</nombre>
+		<mensaje1>Te has dejado una ventana abierta</mensaje1>
+		<mensaje2>Te has dejado NUMERO ventanas abiertas</mensaje2>
+	</Error>
+	<Error>
+		<nombre>Puerta</nombre>
+		<mensaje1>Te has dejado una puerta abierta</mensaje1>
+		<mensaje2>Te has dejado NUMERO puertas abiertas</mensaje2>
+	</Error>
+	<Error>
+		<nombre>Aula</nombre>
+		<mensaje1>Te has dejado un aula sin revisar</mensaje1>
+		<mensaje2>Te has dejado NUMERO aulas sin revisar</mensaje2>
+	</Error>
+	<Error>
+		<nombre>Aseo</nombre>
+		<mensaje1>Te has dejado una aseo sin revisar</mensaje1>
+		<mensaje2>Te has dejado NUMERO aseos sin revisar</mensaje2>
+	</Error>
+	<Error>
+		<nombre>Profesor</nombre>
+		<mensaje1>Te has dejado un aula sin desalojar</mensaje1>
+		<mensaje2>Te has dejado NUMERO aulas sin desalojar</mensaje2>
+	</Error>
+	<Error>
+		<nombre>TiempoCorrido</nombre>
+		<mensaje1>Has corrido durante un segundo</mensaje1>
+		<mensaje2>Has corrido durante NUMERO segundos</mensaje2>
+	</Error>
+	<Error>
+		<nombre>Tiempo</nombre>
+		<mensaje1>Penalizacion por tiempo</mensaje1>
+		<mensaje2></mensaje2>
+	</Error>
+  </Riesgo>
+</MensajesError>
+	

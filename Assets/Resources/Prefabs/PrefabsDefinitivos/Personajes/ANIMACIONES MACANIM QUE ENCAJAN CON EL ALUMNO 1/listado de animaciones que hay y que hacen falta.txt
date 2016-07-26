@@ -1,0 +1,12 @@
+correr 			 -----> Basic_Run_01.anim
+idle 			 -----> idle_10.anim
+estar subido a una silla -----> idle_01.anim
+andar 			 -----> Walk.anim
+
+estar sentado bien/estar sentado en el muro del hall -----> sit_00.anim
+estar sentado mal frente al ordenador
+
+manipular herramientas
+
+fumar
+

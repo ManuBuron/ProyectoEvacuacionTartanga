@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: a6da5fef965c976418d389448e8f0886
+timeCreated: 1467038837
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: barraInferiorSup
+    100002: barraInferiorSup 1
+    100004: barraInferiorSup 2
+    100006: barraInferiorSup 3
+    100008: barraInferiorSup 4
+    100010: barras_separadoras_1
+    100012: barras_separadoras_2
+    100014: barras_separadoras_3
+    100016: barras_separadoras_4
+    100018: barras_separadoras_5
+    100020: barras_separadoras_6
+    100022: barrasSeparadoras
+    100024: barraSuperiorSup
+    100026: barraSuperiorSup 1
+    100028: barraSuperiorSup 2
+    100030: barraSuperiorSup 3
+    100032: barraSuperiorSup 4
+    100034: cristal_superior_1
+    100036: cristal_superior_2
+    100038: cristal_superior_3
+    100040: cristal_superior_4
+    100042: cristal_superior_5
+    100044: cristales
+    100046: cristales 1
+    100048: cristales 2
+    100050: cristales 3
+    100052: cristales 4
+    100054: cristales1
+    100056: cristales1 1
+    100058: cristales1 2
+    100060: cristales1 3
+    100062: cristales1 4
+    100064: cristalesSuperiores
+    100066: cuerpo
+    100068: espejos_dentro
+    100070: espejos_dentro 1
+    100072: espejos_dentro 2
+    100074: espejos_dentro 3
+    100076: espejos_dentro 4
+    100078: espejos_fuera
+    100080: espejos_fuera 1
+    100082: espejos_fuera 2
+    100084: espejos_fuera 3
+    100086: espejos_fuera 4
+    100088: //RootNode
+    100090: granManilla
+    100092: granManilla 1
+    100094: granManilla 2
+    100096: granManilla 3
+    100098: granManilla 4
+    100100: granManilla 5
+    100102: granManilla 6
+    100104: granManilla 7
+    100106: granManilla 8
+    100108: granManilla 9
+    100110: lateral_manilla
+    100112: lateral_manilla 1
+    100114: lateral_manilla 2
+    100116: lateral_manilla 3
+    100118: lateral_manilla 4
+    100120: lateral_manilla 5
+    100122: lateral_manilla 6
+    100124: lateral_manilla 7
+    100126: lateral_manilla 8
+    100128: lateral_manilla 9
+    100130: lateral_manilla1
+    100132: lateral_manilla1 1
+    100134: lateral_manilla1 2
+    100136: lateral_manilla1 3
+    100138: lateral_manilla1 4
+    100140: lateral_manilla1 5
+    100142: lateral_manilla1 6
+    100144: lateral_manilla1 7
+    100146: lateral_manilla1 8
+    100148: lateral_manilla1 9
+    100150: manillaGrupo
+    100152: manillaGrupo 1
+    100154: manillaGrupo 2
+    100156: manillaGrupo 3
+    100158: manillaGrupo 4
+    100160: manillaGrupo1
+    100162: manillaGrupo1 1
+    100164: manillaGrupo1 2
+    100166: manillaGrupo1 3
+    100168: manillaGrupo1 4
+    100170: pCube48
+    100172: pCube48 1
+    100174: pCube48 2
+    100176: pCube48 3
+    100178: pCube48 4
+    100180: pCube48 5
+    100182: pCube48 6
+    100184: pCube48 7
+    100186: pCube48 8
+    100188: pCube48 9
+    100190: pCube49
+    100192: pCube49 1
+    100194: pCube49 2
+    100196: pCube49 3
+    100198: pCube49 4
+    100200: pCube49 5
+    100202: pCube49 6
+    100204: pCube49 7
+    100206: pCube49 8
+    100208: pCube49 9
+    100210: pCylinder1
+    100212: pCylinder1 1
+    100214: pCylinder1 2
+    100216: pCylinder1 3
+    100218: pCylinder1 4
+    100220: pCylinder1 5
+    100222: pCylinder1 6
+    100224: pCylinder1 7
+    100226: pCylinder1 8
+    100228: pCylinder1 9
+    100230: puerta
+    100232: puerta 1
+    100234: puerta 2
+    100236: puerta 3
+    100238: puerta 4
+    100240: puerta_1
+    100242: puerta_2
+    100244: puerta_3
+    100246: puerta_4
+    100248: puerta_5
+    100250: puertas
+    400000: barraInferiorSup
+    400002: barraInferiorSup 1
+    400004: barraInferiorSup 2
+    400006: barraInferiorSup 3
+    400008: barraInferiorSup 4
+    400010: barras_separadoras_1
+    400012: barras_separadoras_2
+    400014: barras_separadoras_3
+    400016: barras_separadoras_4
+    400018: barras_separadoras_5
+    400020: barras_separadoras_6
+    400022: barrasSeparadoras
+    400024: barraSuperiorSup
+    400026: barraSuperiorSup 1
+    400028: barraSuperiorSup 2
+    400030: barraSuperiorSup 3
+    400032: barraSuperiorSup 4
+    400034: cristal_superior_1
+    400036: cristal_superior_2
+    400038: cristal_superior_3
+    400040: cristal_superior_4
+    400042: cristal_superior_5
+    400044: cristales
+    400046: cristales 1
+    400048: cristales 2
+    400050: cristales 3
+    400052: cristales 4
+    400054: cristales1
+    400056: cristales1 1
+    400058: cristales1 2
+    400060: cristales1 3
+    400062: cristales1 4
+    400064: cristalesSuperiores
+    400066: cuerpo
+    400068: espejos_dentro
+    400070: espejos_dentro 1
+    400072: espejos_dentro 2
+    400074: espejos_dentro 3
+    400076: espejos_dentro 4
+    400078: espejos_fuera
+    400080: espejos_fuera 1
+    400082: espejos_fuera 2
+    400084: espejos_fuera 3
+    400086: espejos_fuera 4
+    400088: //RootNode
+    400090: granManilla
+    400092: granManilla 1
+    400094: granManilla 2
+    400096: granManilla 3
+    400098: granManilla 4
+    400100: granManilla 5
+    400102: granManilla 6
+    400104: granManilla 7
+    400106: granManilla 8
+    400108: granManilla 9
+    400110: lateral_manilla
+    400112: lateral_manilla 1
+    400114: lateral_manilla 2
+    400116: lateral_manilla 3
+    400118: lateral_manilla 4
+    400120: lateral_manilla 5
+    400122: lateral_manilla 6
+    400124: lateral_manilla 7
+    400126: lateral_manilla 8
+    400128: lateral_manilla 9
+    400130: lateral_manilla1
+    400132: lateral_manilla1 1
+    400134: lateral_manilla1 2
+    400136: lateral_manilla1 3
+    400138: lateral_manilla1 4
+    400140: lateral_manilla1 5
+    400142: lateral_manilla1 6
+    400144: lateral_manilla1 7
+    400146: lateral_manilla1 8
+    400148: lateral_manilla1 9
+    400150: manillaGrupo
+    400152: manillaGrupo 1
+    400154: manillaGrupo 2
+    400156: manillaGrupo 3
+    400158: manillaGrupo 4
+    400160: manillaGrupo1
+    400162: manillaGrupo1 1
+    400164: manillaGrupo1 2
+    400166: manillaGrupo1 3
+    400168: manillaGrupo1 4
+    400170: pCube48
+    400172: pCube48 1
+    400174: pCube48 2
+    400176: pCube48 3
+    400178: pCube48 4
+    400180: pCube48 5
+    400182: pCube48 6
+    400184: pCube48 7
+    400186: pCube48 8
+    400188: pCube48 9
+    400190: pCube49
+    400192: pCube49 1
+    400194: pCube49 2
+    400196: pCube49 3
+    400198: pCube49 4
+    400200: pCube49 5
+    400202: pCube49 6
+    400204: pCube49 7
+    400206: pCube49 8
+    400208: pCube49 9
+    400210: pCylinder1
+    400212: pCylinder1 1
+    400214: pCylinder1 2
+    400216: pCylinder1 3
+    400218: pCylinder1 4
+    400220: pCylinder1 5
+    400222: pCylinder1 6
+    400224: pCylinder1 7
+    400226: pCylinder1 8
+    400228: pCylinder1 9
+    400230: puerta
+    400232: puerta 1
+    400234: puerta 2
+    400236: puerta 3
+    400238: puerta 4
+    400240: puerta_1
+    400242: puerta_2
+    400244: puerta_3
+    400246: puerta_4
+    400248: puerta_5
+    400250: puertas
+    2300000: barraInferiorSup
+    2300002: barraInferiorSup 1
+    2300004: barraInferiorSup 2
+    2300006: barraInferiorSup 3
+    2300008: barraInferiorSup 4
+    2300010: barras_separadoras_1
+    2300012: barras_separadoras_2
+    2300014: barras_separadoras_3
+    2300016: barras_separadoras_4
+    2300018: barras_separadoras_5
+    2300020: barras_separadoras_6
+    2300022: barraSuperiorSup
+    2300024: barraSuperiorSup 1
+    2300026: barraSuperiorSup 2
+    2300028: barraSuperiorSup 3
+    2300030: barraSuperiorSup 4
+    2300032: cristales
+    2300034: cristales 1
+    2300036: cristales 2
+    2300038: cristales 3
+    2300040: cristales 4
+    2300042: cristales1
+    2300044: cristales1 1
+    2300046: cristales1 2
+    2300048: cristales1 3
+    2300050: cristales1 4
+    2300052: espejos_dentro
+    2300054: espejos_dentro 1
+    2300056: espejos_dentro 2
+    2300058: espejos_dentro 3
+    2300060: espejos_dentro 4
+    2300062: espejos_fuera
+    2300064: espejos_fuera 1
+    2300066: espejos_fuera 2
+    2300068: espejos_fuera 3
+    2300070: espejos_fuera 4
+    2300072: lateral_manilla
+    2300074: lateral_manilla 1
+    2300076: lateral_manilla 2
+    2300078: lateral_manilla 3
+    2300080: lateral_manilla 4
+    2300082: lateral_manilla 5
+    2300084: lateral_manilla 6
+    2300086: lateral_manilla 7
+    2300088: lateral_manilla 8
+    2300090: lateral_manilla 9
+    2300092: lateral_manilla1
+    2300094: lateral_manilla1 1
+    2300096: lateral_manilla1 2
+    2300098: lateral_manilla1 3
+    2300100: lateral_manilla1 4
+    2300102: lateral_manilla1 5
+    2300104: lateral_manilla1 6
+    2300106: lateral_manilla1 7
+    2300108: lateral_manilla1 8
+    2300110: lateral_manilla1 9
+    2300112: pCube48
+    2300114: pCube48 1
+    2300116: pCube48 2
+    2300118: pCube48 3
+    2300120: pCube48 4
+    2300122: pCube48 5
+    2300124: pCube48 6
+    2300126: pCube48 7
+    2300128: pCube48 8
+    2300130: pCube48 9
+    2300132: pCube49
+    2300134: pCube49 1
+    2300136: pCube49 2
+    2300138: pCube49 3
+    2300140: pCube49 4
+    2300142: pCube49 5
+    2300144: pCube49 6
+    2300146: pCube49 7
+    2300148: pCube49 8
+    2300150: pCube49 9
+    2300152: pCylinder1
+    2300154: pCylinder1 1
+    2300156: pCylinder1 2
+    2300158: pCylinder1 3
+    2300160: pCylinder1 4
+    2300162: pCylinder1 5
+    2300164: pCylinder1 6
+    2300166: pCylinder1 7
+    2300168: pCylinder1 8
+    2300170: pCylinder1 9
+    2300172: puerta
+    2300174: puerta 1
+    2300176: puerta 2
+    2300178: puerta 3
+    2300180: puerta 4
+    3300000: barraInferiorSup
+    3300002: barraInferiorSup 1
+    3300004: barraInferiorSup 2
+    3300006: barraInferiorSup 3
+    3300008: barraInferiorSup 4
+    3300010: barras_separadoras_1
+    3300012: barras_separadoras_2
+    3300014: barras_separadoras_3
+    3300016: barras_separadoras_4
+    3300018: barras_separadoras_5
+    3300020: barras_separadoras_6
+    3300022: barraSuperiorSup
+    3300024: barraSuperiorSup 1
+    3300026: barraSuperiorSup 2
+    3300028: barraSuperiorSup 3
+    3300030: barraSuperiorSup 4
+    3300032: cristales
+    3300034: cristales 1
+    3300036: cristales 2
+    3300038: cristales 3
+    3300040: cristales 4
+    3300042: cristales1
+    3300044: cristales1 1
+    3300046: cristales1 2
+    3300048: cristales1 3
+    3300050: cristales1 4
+    3300052: espejos_dentro
+    3300054: espejos_dentro 1
+    3300056: espejos_dentro 2
+    3300058: espejos_dentro 3
+    3300060: espejos_dentro 4
+    3300062: espejos_fuera
+    3300064: espejos_fuera 1
+    3300066: espejos_fuera 2
+    3300068: espejos_fuera 3
+    3300070: espejos_fuera 4
+    3300072: lateral_manilla
+    3300074: lateral_manilla 1
+    3300076: lateral_manilla 2
+    3300078: lateral_manilla 3
+    3300080: lateral_manilla 4
+    3300082: lateral_manilla 5
+    3300084: lateral_manilla 6
+    3300086: lateral_manilla 7
+    3300088: lateral_manilla 8
+    3300090: lateral_manilla 9
+    3300092: lateral_manilla1
+    3300094: lateral_manilla1 1
+    3300096: lateral_manilla1 2
+    3300098: lateral_manilla1 3
+    3300100: lateral_manilla1 4
+    3300102: lateral_manilla1 5
+    3300104: lateral_manilla1 6
+    3300106: lateral_manilla1 7
+    3300108: lateral_manilla1 8
+    3300110: lateral_manilla1 9
+    3300112: pCube48
+    3300114: pCube48 1
+    3300116: pCube48 2
+    3300118: pCube48 3
+    3300120: pCube48 4
+    3300122: pCube48 5
+    3300124: pCube48 6
+    3300126: pCube48 7
+    3300128: pCube48 8
+    3300130: pCube48 9
+    3300132: pCube49
+    3300134: pCube49 1
+    3300136: pCube49 2
+    3300138: pCube49 3
+    3300140: pCube49 4
+    3300142: pCube49 5
+    3300144: pCube49 6
+    3300146: pCube49 7
+    3300148: pCube49 8
+    3300150: pCube49 9
+    3300152: pCylinder1
+    3300154: pCylinder1 1
+    3300156: pCylinder1 2
+    3300158: pCylinder1 3
+    3300160: pCylinder1 4
+    3300162: pCylinder1 5
+    3300164: pCylinder1 6
+    3300166: pCylinder1 7
+    3300168: pCylinder1 8
+    3300170: pCylinder1 9
+    3300172: puerta
+    3300174: puerta 1
+    3300176: puerta 2
+    3300178: puerta 3
+    3300180: puerta 4
+    4300000: espejos_fuera
+    4300002: espejos_dentro
+    4300004: barraInferiorSup
+    4300006: barraSuperiorSup
+    4300008: espejos_fuera
+    4300010: espejos_dentro
+    4300012: barraInferiorSup
+    4300014: barraSuperiorSup
+    4300016: espejos_fuera
+    4300018: espejos_dentro
+    4300020: barraInferiorSup
+    4300022: barraSuperiorSup
+    4300024: espejos_fuera
+    4300026: espejos_dentro
+    4300028: barraInferiorSup
+    4300030: barraSuperiorSup
+    4300032: espejos_fuera
+    4300034: espejos_dentro
+    4300036: barraInferiorSup
+    4300038: barraSuperiorSup
+    4300040: barras_separadoras_1
+    4300042: barras_separadoras_2
+    4300044: barras_separadoras_3
+    4300046: barras_separadoras_4
+    4300048: barras_separadoras_5
+    4300050: barras_separadoras_6
+    4300052: puerta
+    4300054: cristales
+    4300056: cristales1
+    4300058: lateral_manilla1
+    4300060: lateral_manilla
+    4300062: pCube48
+    4300064: pCylinder1
+    4300066: pCube49
+    4300068: lateral_manilla1
+    4300070: lateral_manilla
+    4300072: pCube48
+    4300074: pCylinder1
+    4300076: pCube49
+    4300078: puerta
+    4300080: cristales
+    4300082: cristales1
+    4300084: lateral_manilla1
+    4300086: lateral_manilla
+    4300088: pCube48
+    4300090: pCylinder1
+    4300092: pCube49
+    4300094: lateral_manilla1
+    4300096: lateral_manilla
+    4300098: pCube48
+    4300100: pCylinder1
+    4300102: pCube49
+    4300104: puerta
+    4300106: cristales
+    4300108: cristales1
+    4300110: lateral_manilla1
+    4300112: lateral_manilla
+    4300114: pCube48
+    4300116: pCylinder1
+    4300118: pCube49
+    4300120: lateral_manilla1
+    4300122: lateral_manilla
+    4300124: pCube48
+    4300126: pCylinder1
+    4300128: pCube49
+    4300130: puerta
+    4300132: cristales
+    4300134: cristales1
+    4300136: lateral_manilla1
+    4300138: lateral_manilla
+    4300140: pCube48
+    4300142: pCylinder1
+    4300144: pCube49
+    4300146: lateral_manilla1
+    4300148: lateral_manilla
+    4300150: pCube48
+    4300152: pCylinder1
+    4300154: pCube49
+    4300156: puerta
+    4300158: cristales
+    4300160: cristales1
+    4300162: lateral_manilla1
+    4300164: lateral_manilla
+    4300166: pCube48
+    4300168: pCylinder1
+    4300170: pCube49
+    4300172: lateral_manilla1
+    4300174: lateral_manilla
+    4300176: pCube48
+    4300178: pCylinder1
+    4300180: pCube49
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

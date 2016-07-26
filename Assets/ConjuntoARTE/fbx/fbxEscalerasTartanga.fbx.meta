@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: ec6417129221c4be69c917bb37fa3359
+timeCreated: 1467732203
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: barraEscalera
+    100002: barraEscalera1
+    100004: barraEscalera2
+    100006: barrasVerticalesCentrales
+    100008: escaleraInferior
+    100010: escaleraMedia
+    100012: escaleraSuperior
+    100014: //RootNode
+    100016: pCylinder1
+    100018: pCylinder1 1
+    100020: pCylinder1 2
+    100022: pCylinder10
+    100024: pCylinder2
+    100026: pCylinder2 1
+    100028: pCylinder2 2
+    100030: pCylinder3
+    100032: pCylinder3 1
+    100034: pCylinder4
+    100036: pCylinder5
+    100038: pCylinder6
+    100040: pCylinder7
+    100042: pCylinder8
+    100044: pCylinder9
+    100046: pPlane1
+    100048: pPlane10
+    100050: pPlane11
+    100052: pPlane12
+    100054: pPlane13
+    100056: pPlane14
+    100058: pPlane15
+    100060: pPlane16
+    100062: pPlane17
+    100064: pPlane18
+    100066: pPlane19
+    100068: pPlane2
+    100070: pPlane20
+    100072: pPlane21
+    100074: pPlane22
+    100076: pPlane23
+    100078: pPlane24
+    100080: pPlane3
+    100082: pPlane4
+    100084: pPlane5
+    100086: pPlane6
+    100088: pPlane7
+    100090: pPlane8
+    100092: pPlane9
+    100094: suelos
+    400000: barraEscalera
+    400002: barraEscalera1
+    400004: barraEscalera2
+    400006: barrasVerticalesCentrales
+    400008: escaleraInferior
+    400010: escaleraMedia
+    400012: escaleraSuperior
+    400014: //RootNode
+    400016: pCylinder1
+    400018: pCylinder1 1
+    400020: pCylinder1 2
+    400022: pCylinder10
+    400024: pCylinder2
+    400026: pCylinder2 1
+    400028: pCylinder2 2
+    400030: pCylinder3
+    400032: pCylinder3 1
+    400034: pCylinder4
+    400036: pCylinder5
+    400038: pCylinder6
+    400040: pCylinder7
+    400042: pCylinder8
+    400044: pCylinder9
+    400046: pPlane1
+    400048: pPlane10
+    400050: pPlane11
+    400052: pPlane12
+    400054: pPlane13
+    400056: pPlane14
+    400058: pPlane15
+    400060: pPlane16
+    400062: pPlane17
+    400064: pPlane18
+    400066: pPlane19
+    400068: pPlane2
+    400070: pPlane20
+    400072: pPlane21
+    400074: pPlane22
+    400076: pPlane23
+    400078: pPlane24
+    400080: pPlane3
+    400082: pPlane4
+    400084: pPlane5
+    400086: pPlane6
+    400088: pPlane7
+    400090: pPlane8
+    400092: pPlane9
+    400094: suelos
+    2300000: pCylinder1
+    2300002: pCylinder1 1
+    2300004: pCylinder1 2
+    2300006: pCylinder10
+    2300008: pCylinder2
+    2300010: pCylinder2 1
+    2300012: pCylinder2 2
+    2300014: pCylinder3
+    2300016: pCylinder3 1
+    2300018: pCylinder4
+    2300020: pCylinder5
+    2300022: pCylinder6
+    2300024: pCylinder7
+    2300026: pCylinder8
+    2300028: pCylinder9
+    2300030: pPlane1
+    2300032: pPlane10
+    2300034: pPlane11
+    2300036: pPlane12
+    2300038: pPlane13
+    2300040: pPlane14
+    2300042: pPlane15
+    2300044: pPlane16
+    2300046: pPlane17
+    2300048: pPlane18
+    2300050: pPlane19
+    2300052: pPlane2
+    2300054: pPlane20
+    2300056: pPlane21
+    2300058: pPlane22
+    2300060: pPlane23
+    2300062: pPlane24
+    2300064: pPlane3
+    2300066: pPlane4
+    2300068: pPlane5
+    2300070: pPlane6
+    2300072: pPlane7
+    2300074: pPlane8
+    2300076: pPlane9
+    3300000: pCylinder1
+    3300002: pCylinder1 1
+    3300004: pCylinder1 2
+    3300006: pCylinder10
+    3300008: pCylinder2
+    3300010: pCylinder2 1
+    3300012: pCylinder2 2
+    3300014: pCylinder3
+    3300016: pCylinder3 1
+    3300018: pCylinder4
+    3300020: pCylinder5
+    3300022: pCylinder6
+    3300024: pCylinder7
+    3300026: pCylinder8
+    3300028: pCylinder9
+    3300030: pPlane1
+    3300032: pPlane10
+    3300034: pPlane11
+    3300036: pPlane12
+    3300038: pPlane13
+    3300040: pPlane14
+    3300042: pPlane15
+    3300044: pPlane16
+    3300046: pPlane17
+    3300048: pPlane18
+    3300050: pPlane19
+    3300052: pPlane2
+    3300054: pPlane20
+    3300056: pPlane21
+    3300058: pPlane22
+    3300060: pPlane23
+    3300062: pPlane24
+    3300064: pPlane3
+    3300066: pPlane4
+    3300068: pPlane5
+    3300070: pPlane6
+    3300072: pPlane7
+    3300074: pPlane8
+    3300076: pPlane9
+    4300000: pPlane1
+    4300002: pPlane2
+    4300004: pPlane3
+    4300006: pPlane4
+    4300008: pPlane5
+    4300010: pPlane6
+    4300012: pPlane7
+    4300014: pPlane8
+    4300016: pPlane9
+    4300018: pPlane10
+    4300020: pPlane11
+    4300022: pPlane12
+    4300024: pPlane13
+    4300026: pPlane14
+    4300028: pPlane15
+    4300030: pPlane16
+    4300032: pPlane17
+    4300034: pPlane21
+    4300036: pPlane22
+    4300038: pPlane23
+    4300040: pPlane18
+    4300042: pPlane19
+    4300044: pPlane20
+    4300046: pPlane24
+    4300048: pCylinder1
+    4300050: pCylinder2
+    4300052: pCylinder1
+    4300054: pCylinder2
+    4300056: pCylinder3
+    4300058: pCylinder10
+    4300060: pCylinder9
+    4300062: pCylinder8
+    4300064: pCylinder7
+    4300066: pCylinder6
+    4300068: pCylinder5
+    4300070: pCylinder4
+    4300072: pCylinder1
+    4300074: pCylinder2
+    4300076: pCylinder3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

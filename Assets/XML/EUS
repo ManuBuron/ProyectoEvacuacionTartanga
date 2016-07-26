@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DialogosCollection>
+  <personas>
+  
+		 <mensajeP>
+			<nombre>PersonaTerraza</nombre>
+			<mensajeInicial>Ohartarazteko eskumako botoia sakatu</mensajeInicial>
+			<dialogo>Sute larrialdi baten gaude, berehala topagunera abiatu behar zara!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaWC</nombre>
+			<mensajeInicial>Ohartarazteko eskumako botoia sakatu</mensajeInicial>
+			<dialogo>Sute larrialdi baten gaude, berehala topagunera abiatu behar zara!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaCorriendo</nombre>
+			<mensajeInicial>Ohartarazteko eskumako botoia sakatu</mensajeInicial>
+			<dialogo>Ebakuazio baten korrika egitea debekatuta dago!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaDespistada</nombre>
+			<mensajeInicial>Ohartarazteko eskumako botoia sakatu</mensajeInicial>
+			<dialogo>Sute larrialdi baten gaude, berehala topagunera abiatu behar zara!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaRuidosa</nombre>
+			<mensajeInicial>Eskumako botoia sakatu ixil dezaten</mensajeInicial>
+			<dialogo>Isiltasuna, larrialdi baten aurrean garrasi egitea debekatuta dago!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaDesordenada</nombre>
+			<mensajeInicial>Eskumako botoia sakatu ilara ondo segi dezaten</mensajeInicial>
+			<dialogo>Ilaran jarri behar zara!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaAscensor</nombre>
+			<mensajeInicial>Ohartarazteko eskumako botoia sakatu</mensajeInicial>
+			<dialogo>Ezin dezakezu igogailua larrialdi baten erabili, topagunera abiatu!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>Profesor</nombre>
+			<mensajeInicial>Eskumako botoia sakatu ebakuatu dezaten</mensajeInicial>
+			<dialogo>Larrialdi atetik ateratzen joan!</dialogo>
+		</mensajeP>		
+				
+  </personas>
+  
+  <personasDialogo>
+  
+  		<mensajePD>
+			<nombre>PersonaMovil</nombre>
+			<dialogo>Mobila ahaiztu zait, bila joan naiteke?</dialogo>
+			<solucion1>Bai, joan zaitez!</solucion1>
+			<solucion2>Bai, neu lagunduko dizut!</solucion2>
+			<solucion3>Ez, topagunera joan zaitez!</solucion3>
+			<solucionCorrecta>3</solucionCorrecta>
+		</mensajePD>
+  
+  </personasDialogo>
+  
+  <objeto>
+  
+  		<mensajeOb>
+			<nombre>Obstaculo</nombre>
+			<mensajeInicial>Eskumako botoia sakatu kentzeko</mensajeInicial>
+		</mensajeOb>
+		
+		<mensajeOb>
+			<nombre>Puerta</nombre>
+			<mensajeInicial>Eskumako botoiari eman irekitzeko/itxitzeko</mensajeInicial>
+		</mensajeOb>
+		
+		<mensajeOb>
+			<nombre>Ventana</nombre>
+			<mensajeInicial>Eskumako botoiari eman itxitzeko</mensajeInicial>
+		</mensajeOb>
+  
+  </objeto>
+</DialogosCollection>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<MensajesMenu>
+  <Menu>
+	<Mensaje>
+		<nombre>Jugar</nombre>
+		<mensaje>Jugar</mensaje>
+	</Mensaje>
+	<Mensaje>
+		<nombre>Protocolo</nombre>
+		<mensaje>Protocolo</mensaje>
+	</Mensaje>
+	<Mensaje>
+		<nombre>Controles</nombre>
+		<mensaje>Controles</mensaje>
+	</Mensaje>
+	<Mensaje>
+		<nombre>Creditos</nombre>
+		<mensaje>Creditos</mensaje>
+	</Mensaje>
+	<Mensaje>
+		<nombre>Reanudar</nombre>
+		<mensaje>Reanudar</mensaje>
+	</Mensaje>
+  </Menu>
+</MensajesMenu>
+	

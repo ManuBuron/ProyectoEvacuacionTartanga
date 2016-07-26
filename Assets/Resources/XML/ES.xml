@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DialogosCollection>
+  <personas>
+  
+		 <mensajeP>
+			<nombre>PersonaTerraza</nombre>
+			<mensajeInicial>Haz click izquierdo para avisar</mensajeInicial>
+			<dialogo>Estamos en una evacuacion de incendio debes de ir al punto de encuentro!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaWC</nombre>
+			<mensajeInicial>Haz click izquierdo para avisar</mensajeInicial>
+			<dialogo>Estamos en una evacuacion de incendio debes de ir al punto de encuentro!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaCorriendo</nombre>
+			<mensajeInicial>Haz click izquierdo para avisar</mensajeInicial>
+			<dialogo>No esta permitido correr en una evacuacion!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaDespistada</nombre>
+			<mensajeInicial>Haz click izquierdo para avisar</mensajeInicial>
+			<dialogo>Estamos en una evacuacion de incendio debes de ir al punto de encuentro!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaRuidosa</nombre>
+			<mensajeInicial>Haz click izquierdo para mandar callar</mensajeInicial>
+			<dialogo>Silencio, en una situacion de emergencia no se puede gritar!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaDesordenada</nombre>
+			<mensajeInicial>Haz click izquierdo para ordenar la fila</mensajeInicial>
+			<dialogo>Debeis er en fila india!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaAscensor</nombre>
+			<mensajeInicial>Haz click izquierdo para avisar</mensajeInicial>
+			<dialogo>No puedes usar el ascensor en una emergencia, reunete en el punto de encuentro!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>Profesor</nombre>
+			<mensajeInicial>Haz click izquierdo para evacuar</mensajeInicial>
+			<dialogo>Id saliendo por las escaleras que os corresponden!</dialogo>
+		</mensajeP>
+				
+  </personas>
+  
+  <personasDialogo>
+  
+  		<mensajePD>
+			<nombre>PersonaMovil</nombre>
+			<dialogo>Me he dejado el movil en clase, ¿esta abierta?</dialogo>
+			<solucion1>Si, puedes ir!</solucion1>
+			<solucion2>Si, pero te acompaño!</solucion2>
+			<solucion3>No, dirigete al punto de encuentro!</solucion3>
+			<solucionCorrecta>3</solucionCorrecta>
+		</mensajePD>
+  
+  </personasDialogo>
+  
+  <objeto>
+  
+  		<mensajeOb>
+			<nombre>Obstaculo</nombre>
+			<mensajeInicial>Haz click izquierdo para quitar</mensajeInicial>
+		</mensajeOb>
+		
+		<mensajeOb>
+			<nombre>Puerta</nombre>
+			<mensajeInicial>Haz click izquierdo para abrir/cerrar</mensajeInicial>
+		</mensajeOb>
+		
+		<mensajeOb>
+			<nombre>Ventana</nombre>
+			<mensajeInicial>Haz click izquierdo para cerrar</mensajeInicial>
+		</mensajeOb>
+  
+  </objeto>
+</DialogosCollection>

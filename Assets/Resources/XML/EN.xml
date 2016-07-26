@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogosCollection>
+  <personas>
+  
+		 <mensajeP>
+			<nombre>PersonaTerraza</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>We are on a fire emergency you must go to the meeting point!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaWC</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>We are on a fire emergency you must go to the meeting point!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaCorriendo</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>It is not allowed to run in a fire emergency!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaDespistada</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>We are on a fire emergency you must go to the meeting point!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaRuidosa</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>Silence, it is not allowed to speak loud in a fire emergency!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaDesordenada</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>You must go in single file!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>PersonaAscensor</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>It is not allowed to use the lift in a fire emergency, you must go to the meeting point!</dialogo>
+		</mensajeP>
+		
+		<mensajeP>
+			<nombre>Profesor</nombre>
+			<mensajeInicial>click with the right button of the mousse</mensajeInicial>
+			<dialogo>Use the nearest emergency exit!</dialogo>
+		</mensajeP>		
+				
+  </personas>
+  
+ <personasDialogo>
+  
+  		<mensajePD>
+			<nombre>PersonaMovil</nombre>
+			<dialogo>I´ve forgotten my mobile, is open the classroom?</dialogo>
+			<solucion1>Yes, you can go!</solucion1>
+			<solucion2>Yes, I go with you!</solucion2>
+			<solucion3>No, you must go to the meeting point!</solucion3>
+			<solucionCorrecta>3</solucionCorrecta>
+		</mensajePD>
+  
+  </personasDialogo>
+  
+  <objeto>
+  
+  		<mensajeOb>
+			<nombre>Obstaculo</nombre>
+			<mensajeInicial>click right button to remove</mensajeInicial>
+		</mensajeOb>
+		
+		<mensajeOb>
+			<nombre>Puerta</nombre>
+			<mensajeInicial>click right button to open/close</mensajeInicial>
+		</mensajeOb>
+		
+		<mensajeOb>
+			<nombre>Ventana</nombre>
+			<mensajeInicial>click right button to close</mensajeInicial>
+		</mensajeOb>
+  
+  </objeto>
+</DialogosCollection>
