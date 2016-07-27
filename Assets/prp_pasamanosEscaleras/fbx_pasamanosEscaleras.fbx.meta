@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: e0c1d8a278a9ec140b494bc88cd49bbc
+timeCreated: 1466075663
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barra1
+    100002: barra2
+    100004: barra3
+    100006: barra_central
+    100008: barra_final
+    100010: barra_inicial
+    100012: //RootNode
+    100014: pasamanos
+    100016: pasamanos 1
+    100018: pasamanos1
+    100020: pasamanos2
+    100022: sujetaPata
+    100024: tacosNuevos
+    100026: tacosNuevos1
+    100028: tacosNuevos2
+    100030: tacosNuevos3
+    100032: tacosNuevos4
+    100034: tacosNuevos5
+    100036: tacosNuevos6
+    100038: tacosNuevos7
+    100040: tacosNuevos8
+    400000: barra1
+    400002: barra2
+    400004: barra3
+    400006: barra_central
+    400008: barra_final
+    400010: barra_inicial
+    400012: //RootNode
+    400014: pasamanos
+    400016: pasamanos 1
+    400018: pasamanos1
+    400020: pasamanos2
+    400022: sujetaPata
+    400024: tacosNuevos
+    400026: tacosNuevos1
+    400028: tacosNuevos2
+    400030: tacosNuevos3
+    400032: tacosNuevos4
+    400034: tacosNuevos5
+    400036: tacosNuevos6
+    400038: tacosNuevos7
+    400040: tacosNuevos8
+    2300000: barra1
+    2300002: barra2
+    2300004: barra3
+    2300006: pasamanos 1
+    2300008: pasamanos1
+    2300010: pasamanos2
+    2300012: sujetaPata
+    2300014: tacosNuevos
+    2300016: tacosNuevos1
+    2300018: tacosNuevos2
+    2300020: tacosNuevos3
+    2300022: tacosNuevos4
+    2300024: tacosNuevos5
+    2300026: tacosNuevos6
+    2300028: tacosNuevos7
+    2300030: tacosNuevos8
+    3300000: barra1
+    3300002: barra2
+    3300004: barra3
+    3300006: pasamanos 1
+    3300008: pasamanos1
+    3300010: pasamanos2
+    3300012: sujetaPata
+    3300014: tacosNuevos
+    3300016: tacosNuevos1
+    3300018: tacosNuevos2
+    3300020: tacosNuevos3
+    3300022: tacosNuevos4
+    3300024: tacosNuevos5
+    3300026: tacosNuevos6
+    3300028: tacosNuevos7
+    3300030: tacosNuevos8
+    4300000: barra3
+    4300002: tacosNuevos8
+    4300004: tacosNuevos7
+    4300006: tacosNuevos6
+    4300008: barra2
+    4300010: tacosNuevos3
+    4300012: tacosNuevos4
+    4300014: tacosNuevos5
+    4300016: sujetaPata
+    4300018: barra1
+    4300020: tacosNuevos2
+    4300022: tacosNuevos1
+    4300024: tacosNuevos
+    4300026: pasamanos
+    4300028: pasamanos1
+    4300030: pasamanos2
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

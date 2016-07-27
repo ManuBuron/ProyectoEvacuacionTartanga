@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 3e865ea3124071442ab11f916306b5af
+timeCreated: 1465408089
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chico
+    100002: chico_bn_cadera_der
+    100004: chico_bn_cadera_izq
+    100006: chico_bn_cara
+    100008: chico_bn_cia_der_01
+    100010: chico_bn_cia_der_02
+    100012: chico_bn_cia_der_03
+    100014: chico_bn_cia_izq_01
+    100016: chico_bn_cia_izq_02
+    100018: chico_bn_cia_izq_03
+    100020: chico_bn_codo_der
+    100022: chico_bn_codo_izq
+    100024: chico_bn_corazon_der_01
+    100026: chico_bn_corazon_der_02
+    100028: chico_bn_corazon_der_03
+    100030: chico_bn_corazon_izq_01
+    100032: chico_bn_corazon_izq_02
+    100034: chico_bn_corazon_izq_03
+    100036: chico_bn_coronilla
+    100038: chico_bn_cuello
+    100040: chico_bn_hombro_der
+    100042: chico_bn_hombro_izq
+    100044: chico_bn_indice_der_01
+    100046: chico_bn_indice_der_02
+    100048: chico_bn_indice_der_03
+    100050: chico_bn_indice_izq_01
+    100052: chico_bn_indice_izq_02
+    100054: chico_bn_indice_izq_03
+    100056: chico_bn_mano_der
+    100058: chico_bn_mano_izq
+    100060: chico_bn_pecho
+    100062: chico_bn_pie_der
+    100064: chico_bn_pie_izq
+    100066: chico_bn_pulgar_der_01
+    100068: chico_bn_pulgar_der_02
+    100070: chico_bn_pulgar_der_03
+    100072: chico_bn_pulgar_izq_01
+    100074: chico_bn_pulgar_izq_02
+    100076: chico_bn_pulgar_izq_03
+    100078: chico_bn_rodilla_der
+    100080: chico_bn_rodilla_izq
+    100082: chico_bn_spinebase
+    100084: chico_bn_spinemid
+    100086: chico_bn_talon_der
+    100088: chico_bn_talon_izq
+    100090: chico_bn_tobillo_der
+    100092: chico_bn_tobillo_izq
+    100094: chico_bn_upper_der
+    100096: chico_bn_upper_izq
+    100098: chico_bn_vago_der_01
+    100100: chico_bn_vago_der_02
+    100102: chico_bn_vago_der_03
+    100104: chico_bn_vago_izq_01
+    100106: chico_bn_vago_izq_02
+    100108: chico_bn_vago_izq_03
+    100110: //RootNode
+    400000: chico
+    400002: chico_bn_cadera_der
+    400004: chico_bn_cadera_izq
+    400006: chico_bn_cara
+    400008: chico_bn_cia_der_01
+    400010: chico_bn_cia_der_02
+    400012: chico_bn_cia_der_03
+    400014: chico_bn_cia_izq_01
+    400016: chico_bn_cia_izq_02
+    400018: chico_bn_cia_izq_03
+    400020: chico_bn_codo_der
+    400022: chico_bn_codo_izq
+    400024: chico_bn_corazon_der_01
+    400026: chico_bn_corazon_der_02
+    400028: chico_bn_corazon_der_03
+    400030: chico_bn_corazon_izq_01
+    400032: chico_bn_corazon_izq_02
+    400034: chico_bn_corazon_izq_03
+    400036: chico_bn_coronilla
+    400038: chico_bn_cuello
+    400040: chico_bn_hombro_der
+    400042: chico_bn_hombro_izq
+    400044: chico_bn_indice_der_01
+    400046: chico_bn_indice_der_02
+    400048: chico_bn_indice_der_03
+    400050: chico_bn_indice_izq_01
+    400052: chico_bn_indice_izq_02
+    400054: chico_bn_indice_izq_03
+    400056: chico_bn_mano_der
+    400058: chico_bn_mano_izq
+    400060: chico_bn_pecho
+    400062: chico_bn_pie_der
+    400064: chico_bn_pie_izq
+    400066: chico_bn_pulgar_der_01
+    400068: chico_bn_pulgar_der_02
+    400070: chico_bn_pulgar_der_03
+    400072: chico_bn_pulgar_izq_01
+    400074: chico_bn_pulgar_izq_02
+    400076: chico_bn_pulgar_izq_03
+    400078: chico_bn_rodilla_der
+    400080: chico_bn_rodilla_izq
+    400082: chico_bn_spinebase
+    400084: chico_bn_spinemid
+    400086: chico_bn_talon_der
+    400088: chico_bn_talon_izq
+    400090: chico_bn_tobillo_der
+    400092: chico_bn_tobillo_izq
+    400094: chico_bn_upper_der
+    400096: chico_bn_upper_izq
+    400098: chico_bn_vago_der_01
+    400100: chico_bn_vago_der_02
+    400102: chico_bn_vago_der_03
+    400104: chico_bn_vago_izq_01
+    400106: chico_bn_vago_izq_02
+    400108: chico_bn_vago_izq_03
+    400110: //RootNode
+    4300000: chico
+    9500000: //RootNode
+    13700000: chico
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: chico_bn_spinebase
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cadera_izq
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cadera_der
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_rodilla_izq
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_rodilla_der
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_tobillo_izq
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_tobillo_der
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_spinemid
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pecho
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_hombro_izq
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_hombro_der
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_upper_izq
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_upper_der
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_codo_izq
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_codo_der
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_mano_izq
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_mano_der
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pie_izq
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pie_der
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pulgar_izq_01
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pulgar_izq_02
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pulgar_izq_03
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_indice_izq_01
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_indice_izq_02
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_indice_izq_03
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_corazon_izq_01
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_corazon_izq_02
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_corazon_izq_03
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_vago_izq_01
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_vago_izq_02
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_vago_izq_03
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cia_izq_01
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cia_izq_02
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cia_izq_03
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pulgar_der_01
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pulgar_der_02
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_pulgar_der_03
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_indice_der_01
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_indice_der_02
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_indice_der_03
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_corazon_der_01
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_corazon_der_02
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_corazon_der_03
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_vago_der_01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_vago_der_02
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_vago_der_03
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cia_der_01
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cia_der_02
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cia_der_03
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cuello
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chico_bn_cara
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SKINBUENO(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chico
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chico_bn_spinebase
+      position: {x: .00159087894, y: .969266951, z: -.0125840027}
+      rotation: {x: .030997023, y: .0891762823, z: .326857388, w: .940346301}
+      scale: {x: .999999881, y: .999999821, z: 1}
+      transformModified: 1
+    - name: chico_bn_cadera_izq
+      position: {x: -.122363105, y: 1.42108544e-16, z: 2.220446e-18}
+      rotation: {x: .0720880032, y: .040614035, z: .377658725, w: .922240615}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: chico_bn_rodilla_izq
+      position: {x: -.435031652, y: -3.5527136e-17, z: 3.5527136e-17}
+      rotation: {x: -.73623091, y: -.136712834, z: -.0392153636, w: .661616027}
+      scale: {x: 1.00000024, y: 1, z: .999999762}
+      transformModified: 1
+    - name: chico_bn_talon_izq
+      position: {x: -.357113063, y: 0, z: -1.42108544e-16}
+      rotation: {x: .899896264, y: .361566842, z: -.0338426083, w: .241476581}
+      scale: {x: .999999762, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_tobillo_izq
+      position: {x: -.107456684, y: 6.21724896e-17, z: -1.06581408e-16}
+      rotation: {x: .048633568, y: .0773800462, z: -.467244267, w: .87939173}
+      scale: {x: 1.00000036, y: .999999821, z: 1}
+      transformModified: 1
+    - name: chico_bn_pie_izq
+      position: {x: -.16385074, y: -1.7763568e-17, z: 3.5527136e-17}
+      rotation: {x: -.024702277, y: -.679072618, z: -.0266702026, w: .73317045}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chico_bn_cadera_der
+      position: {x: .0228949729, y: -.114858128, z: .0354415998}
+      rotation: {x: .839226007, y: .47281605, z: .101787239, w: .248564065}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_rodilla_der
+      position: {x: -.435031772, y: 2.48689959e-16, z: 1.59872109e-16}
+      rotation: {x: .736231923, y: .136713117, z: -.0392149389, w: .661615014}
+      scale: {x: 1, y: .99999994, z: .999999642}
+      transformModified: 1
+    - name: chico_bn_talon_der
+      position: {x: -.357112944, y: 0, z: 7.1054272e-17}
+      rotation: {x: -.899895787, y: -.361566097, z: -.0338428728, w: .241479024}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: chico_bn_tobillo_der
+      position: {x: -.107457057, y: -1.68753898e-16, z: 1.06581408e-16}
+      rotation: {x: -.0486370958, y: -.0773852915, z: -.467244446, w: .879390955}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_pie_der
+      position: {x: -.163850516, y: -5.3290704e-17, z: -7.1054272e-17}
+      rotation: {x: .679073811, y: -.0247022584, z: .733169377, w: .0266700201}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: chico_bn_spinemid
+      position: {x: .110553548, y: .153908581, z: .0372152962}
+      rotation: {x: .272193909, y: -.714627564, z: -.553407729, w: .330087751}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_pecho
+      position: {x: -.212469175, y: -1.77635673e-16, z: -2.45706232e-16}
+      rotation: {x: -.0925431624, y: .00911651459, z: .0752962604, w: -.992815733}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_cuello
+      position: {x: -.183365494, y: 3.5527136e-17, z: 4.9960034e-18}
+      rotation: {x: .974041343, y: -.210339487, z: .0158167463, w: .0821621045}
+      scale: {x: .99999994, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: chico_bn_cara
+      position: {x: -.10788922, y: 7.1054272e-17, z: 5.14726702e-17}
+      rotation: {x: .961849093, y: -.273580849, z: -2.98023224e-08, w: -1.04308128e-07}
+      scale: {x: .999999821, y: .999999464, z: .999999404}
+      transformModified: 1
+    - name: chico_bn_coronilla
+      position: {x: -.191973224, y: 3.5527136e-17, z: -8.43769488e-17}
+      rotation: {x: -.460762739, y: .536374748, z: .46076256, w: .536374629}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: chico_bn_hombro_izq
+      position: {x: .0265164841, y: -.019484479, z: -.102261811}
+      rotation: {x: .21353431, y: -.682433188, z: .522294343, w: .464646935}
+      scale: {x: .999999762, y: 1, z: .999999821}
+      transformModified: 1
+    - name: chico_bn_upper_izq
+      position: {x: -.149636045, y: .0356499888, z: 2.76547212e-06}
+      rotation: {x: .0142520247, y: .0713871121, z: -.715867281, w: .694431245}
+      scale: {x: .999999762, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_codo_izq
+      position: {x: -.113062821, y: -.233578786, z: -.0300557744}
+      rotation: {x: .268002868, y: .135087699, z: .494079143, w: .815972865}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: chico_bn_mano_izq
+      position: {x: -.254691005, y: 4.26325632e-16, z: -2.13162816e-16}
+      rotation: {x: .422999352, y: .404736727, z: -.185613915, w: .789181411}
+      scale: {x: 1.00000012, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_pulgar_izq_01
+      position: {x: -.0582330599, y: 1.42108544e-16, z: 2.84217088e-16}
+      rotation: {x: .00129202672, y: -.19813019, z: .0982317328, w: .975240111}
+      scale: {x: .999999762, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: chico_bn_pulgar_izq_02
+      position: {x: -.0349797234, y: 1.42108544e-16, z: 1.42108544e-16}
+      rotation: {x: .041946169, y: .00513503514, z: .034775693, w: .998501301}
+      scale: {x: .999999702, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_pulgar_izq_03
+      position: {x: -.0358426236, y: 2.48689959e-16, z: -7.1054272e-17}
+      rotation: {x: -.470244884, y: -.684463918, z: -.315475017, w: .459188998}
+      scale: {x: .999999881, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_indice_izq_01
+      position: {x: -.0664995536, y: -.0611366108, z: -.0474625118}
+      rotation: {x: -.0778336823, y: -.219070867, z: .394468188, w: .88901341}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_indice_izq_02
+      position: {x: -.0436679535, y: -7.1054272e-17, z: -1.42108544e-16}
+      rotation: {x: .280119866, y: .0356628671, z: .00426426763, w: .959292829}
+      scale: {x: 1, y: .999999821, z: 1}
+      transformModified: 1
+    - name: chico_bn_indice_izq_03
+      position: {x: -.0368978232, y: 1.77635673e-16, z: 0}
+      rotation: {x: -.473979443, y: -.781855643, z: -.209966436, w: .346351445}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: chico_bn_corazon_izq_01
+      position: {x: -.0522798337, y: -.0881173313, z: -.0420953296}
+      rotation: {x: -.0600653924, y: -.187734306, z: .416030973, w: .887731016}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_corazon_izq_02
+      position: {x: -.0475840643, y: -2.13162816e-16, z: 1.42108544e-16}
+      rotation: {x: .277109981, y: .0369260907, z: -.0112466449, w: .960062504}
+      scale: {x: 1.00000024, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_corazon_izq_03
+      position: {x: -.038604103, y: -2.6645352e-17, z: -2.84217088e-16}
+      rotation: {x: -.515860438, y: -.749156654, z: -.235653698, w: .342227429}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_vago_izq_01
+      position: {x: -.0392547362, y: -.102792859, z: -.027138792}
+      rotation: {x: -.0152423196, y: -.148595437, z: .449919343, w: .880488276}
+      scale: {x: .999999881, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_vago_izq_02
+      position: {x: -.0532715842, y: 2.04281027e-16, z: 0}
+      rotation: {x: .224933684, y: .0126362909, z: -.0311442781, w: .973794281}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_vago_izq_03
+      position: {x: -.0332566388, y: 0, z: -2.84217088e-16}
+      rotation: {x: -.456533641, y: -.780006588, z: -.216186866, w: .36936444}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: chico_bn_cia_izq_01
+      position: {x: -.0250707492, y: -.108466893, z: -.00820791349}
+      rotation: {x: .550865173, y: .185915202, z: .453750789, w: .675346851}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_cia_izq_02
+      position: {x: -.0436439998, y: -1.42108544e-16, z: 9.76996256e-17}
+      rotation: {x: -.388534784, y: -.0305255465, z: -.0171674117, w: .920768261}
+      scale: {x: 1, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: chico_bn_cia_izq_03
+      position: {x: -.0271499678, y: 8.88178367e-17, z: -7.1054272e-17}
+      rotation: {x: -.485176116, y: -.781587064, z: -.206784189, w: .333115906}
+      scale: {x: .999999762, y: 1, z: .999999762}
+      transformModified: 1
+    - name: chico_bn_hombro_der
+      position: {x: .0265126247, y: -.0194828343, z: .102261998}
+      rotation: {x: .682430089, y: .213542938, z: .464654505, w: -.522288084}
+      scale: {x: 1, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_upper_der
+      position: {x: .14964059, y: -.0356470197, z: -2.76031869e-06}
+      rotation: {x: .014228018, y: .0697753653, z: -.719276547, w: .691064477}
+      scale: {x: .999999881, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: chico_bn_codo_der
+      position: {x: .11044962, y: .233580187, z: .0288944114}
+      rotation: {x: -.130379438, y: .254532903, z: -.818956614, w: .497518092}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_mano_der
+      position: {x: -.257245213, y: 0, z: -2.13162816e-16}
+      rotation: {x: -.428334564, y: -.416725755, z: -.177072987, w: .781993866}
+      scale: {x: .99999994, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_pulgar_der_01
+      position: {x: -.0582329035, y: 2.84217088e-16, z: -3.55271347e-16}
+      rotation: {x: -.0012212689, y: .197682336, z: .0982873663, w: .975325525}
+      scale: {x: 1, y: 1, z: .999999762}
+      transformModified: 1
+    - name: chico_bn_pulgar_der_02
+      position: {x: -.0349798314, y: -3.55271347e-16, z: 0}
+      rotation: {x: -.0419555455, y: -.00513947569, z: .0347764827, w: .998500824}
+      scale: {x: .99999994, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_pulgar_der_03
+      position: {x: -.0358431004, y: -1.06581408e-16, z: 0}
+      rotation: {x: .684468508, y: -.470248997, z: .459180951, w: .315470338}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: chico_bn_indice_der_01
+      position: {x: -.0664993525, y: -.0611369684, z: .0474618748}
+      rotation: {x: .0778452605, y: .219073772, z: .394465536, w: .889012754}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: chico_bn_indice_der_02
+      position: {x: -.043667458, y: 7.1054272e-17, z: 2.13162816e-16}
+      rotation: {x: -.280141741, y: -.0356634445, z: .00426388206, w: .959286511}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_indice_der_03
+      position: {x: -.0368977934, y: 0, z: 7.1054272e-17}
+      rotation: {x: .781860232, y: -.473982126, z: .346341342, w: .209960192}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chico_bn_corazon_der_01
+      position: {x: -.0522795245, y: -.0881175399, z: .0420945249}
+      rotation: {x: .0600740686, y: .187735274, z: .416030645, w: .8877303}
+      scale: {x: 1.00000012, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: chico_bn_corazon_der_02
+      position: {x: -.0475837216, y: -3.5527136e-17, z: 2.13162816e-16}
+      rotation: {x: -.277106196, y: -.0369241238, z: -.011243511, w: .960063696}
+      scale: {x: 1, y: 1.00000024, z: .999999821}
+      transformModified: 1
+    - name: chico_bn_corazon_der_03
+      position: {x: -.0386044271, y: 1.59872109e-16, z: -2.84217088e-16}
+      rotation: {x: .749149203, y: -.515862048, z: .342235446, w: .235662282}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: chico_bn_vago_der_01
+      position: {x: -.0392538905, y: -.102792673, z: .0271382891}
+      rotation: {x: .0152338389, y: .148586079, z: .449922949, w: .880488217}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_vago_der_02
+      position: {x: -.0532720461, y: 1.68753898e-16, z: 0}
+      rotation: {x: -.224913746, y: -.0126361148, z: -.0311467573, w: .973798811}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_vago_der_03
+      position: {x: -.03325608, y: -1.77635673e-16, z: 2.13162816e-16}
+      rotation: {x: .780004025, y: -.456530809, z: .369371206, w: .216190457}
+      scale: {x: 1.00000024, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: chico_bn_cia_der_01
+      position: {x: -.0250699371, y: -.108466566, z: .00820738263}
+      rotation: {x: -.550862134, y: -.185919821, z: .453749388, w: .675348997}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: chico_bn_cia_der_02
+      position: {x: -.0436438397, y: -2.48689959e-16, z: 3.99680272e-17}
+      rotation: {x: .388549507, y: .0305271745, z: -.0171643347, w: .920762122}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: chico_bn_cia_der_03
+      position: {x: -.0271504391, y: -1.7763568e-17, z: 2.13162816e-16}
+      rotation: {x: .781575799, y: -.485182703, z: .333125353, w: .206795633}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
