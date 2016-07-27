@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 59fe50d56221ab24b827babfd54819d9
+timeCreated: 1464100700
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: baldas
+    100002: baldas_1_1
+    100004: baldas_1_2
+    100006: baldas_2_1
+    100008: baldas_2_2
+    100010: baldas_3_1
+    100012: baldas_3_2
+    100014: baldas_4_1
+    100016: baldas_4_2
+    100018: baldas_5_1
+    100020: baldas_5_2
+    100022: centrales1
+    100024: centrales2
+    100026: esqueleto
+    100028: //RootNode
+    100030: laterales_1
+    100032: laterales_2
+    100034: laterales_3
+    100036: laterales_4
+    400000: baldas
+    400002: baldas_1_1
+    400004: baldas_1_2
+    400006: baldas_2_1
+    400008: baldas_2_2
+    400010: baldas_3_1
+    400012: baldas_3_2
+    400014: baldas_4_1
+    400016: baldas_4_2
+    400018: baldas_5_1
+    400020: baldas_5_2
+    400022: centrales1
+    400024: centrales2
+    400026: esqueleto
+    400028: //RootNode
+    400030: laterales_1
+    400032: laterales_2
+    400034: laterales_3
+    400036: laterales_4
+    2300000: baldas_1_1
+    2300002: baldas_1_2
+    2300004: baldas_2_1
+    2300006: baldas_2_2
+    2300008: baldas_3_1
+    2300010: baldas_3_2
+    2300012: baldas_4_1
+    2300014: baldas_4_2
+    2300016: baldas_5_1
+    2300018: baldas_5_2
+    2300020: centrales1
+    2300022: centrales2
+    2300024: laterales_1
+    2300026: laterales_2
+    2300028: laterales_3
+    2300030: laterales_4
+    3300000: baldas_1_1
+    3300002: baldas_1_2
+    3300004: baldas_2_1
+    3300006: baldas_2_2
+    3300008: baldas_3_1
+    3300010: baldas_3_2
+    3300012: baldas_4_1
+    3300014: baldas_4_2
+    3300016: baldas_5_1
+    3300018: baldas_5_2
+    3300020: centrales1
+    3300022: centrales2
+    3300024: laterales_1
+    3300026: laterales_2
+    3300028: laterales_3
+    3300030: laterales_4
+    4300000: laterales_1
+    4300002: centrales1
+    4300004: laterales_2
+    4300006: laterales_3
+    4300008: laterales_4
+    4300010: centrales2
+    4300012: baldas_1_1
+    4300014: baldas_1_2
+    4300016: baldas_2_1
+    4300018: baldas_2_2
+    4300020: baldas_3_1
+    4300022: baldas_3_2
+    4300024: baldas_4_1
+    4300026: baldas_4_2
+    4300028: baldas_5_1
+    4300030: baldas_5_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

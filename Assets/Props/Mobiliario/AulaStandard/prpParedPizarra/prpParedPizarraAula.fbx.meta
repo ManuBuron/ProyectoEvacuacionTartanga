@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 0b734af428f44b041ae7fa1073c9b777
+timeCreated: 1463676464
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Altavoz
+    100002: boca
+    100004: CajaBlanca
+    100006: enganche
+    100008: Extintor
+    100010: gatillo1
+    100012: gatillo2
+    100014: Gr_Altavoz
+    100016: interruptor
+    100018: Pizarra
+    100020: placaExtintor
+    100022: //RootNode
+    100024: RAC
+    400000: Altavoz
+    400002: boca
+    400004: CajaBlanca
+    400006: enganche
+    400008: Extintor
+    400010: gatillo1
+    400012: gatillo2
+    400014: Gr_Altavoz
+    400016: interruptor
+    400018: Pizarra
+    400020: placaExtintor
+    400022: //RootNode
+    400024: RAC
+    2300000: Altavoz
+    2300002: boca
+    2300004: CajaBlanca
+    2300006: enganche
+    2300008: Extintor
+    2300010: gatillo1
+    2300012: gatillo2
+    2300014: interruptor
+    2300016: Pizarra
+    2300018: placaExtintor
+    2300020: RAC
+    3300000: Altavoz
+    3300002: boca
+    3300004: CajaBlanca
+    3300006: enganche
+    3300008: Extintor
+    3300010: gatillo1
+    3300012: gatillo2
+    3300014: interruptor
+    3300016: Pizarra
+    3300018: placaExtintor
+    3300020: RAC
+    4300000: interruptor
+    4300002: placaExtintor
+    4300004: Pizarra
+    4300006: RAC
+    4300008: Extintor
+    4300010: boca
+    4300012: gatillo1
+    4300014: gatillo2
+    4300016: CajaBlanca
+    4300018: enganche
+    4300020: Altavoz
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

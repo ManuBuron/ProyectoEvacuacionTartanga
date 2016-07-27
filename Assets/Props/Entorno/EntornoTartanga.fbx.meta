@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 042e2ded651145944aba71cecdf1d9a7
+timeCreated: 1463676464
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antena1
+    100002: Antena2
+    100004: backFabricas
+    100006: backonstrucciones
+    100008: backonstrucciones2
+    100010: BerjaEntradaTartanga
+    100012: BerjaEntradaTartanga1
+    100014: BerjaInstituto
+    100016: BerjaInstituto1
+    100018: CasitaEsquin
+    100020: CasitaEsquin1
+    100022: CasitaEsquin2
+    100024: ConstruccionMonte
+    100026: edif7
+    100028: Edificio1
+    100030: Edificios
+    100032: EdifTrasero1
+    100034: EdifTrasero3
+    100036: EdifTrasero4
+    100038: EdifTrasero5
+    100040: EdifTrasero6
+    100042: EdifTrasero7
+    100044: //RootNode
+    100046: Fabrica
+    100048: Fabrica1
+    100050: Fabrica2
+    100052: Fabrica3
+    100054: Fabrica3 1
+    100056: FabricaFrente
+    100058: Fabricas
+    100060: FabricCube
+    100062: FondoFabricas1
+    100064: FondoFabricas2
+    100066: InstitutoB
+    100068: Insttituto2
+    100070: Polideportivo
+    100072: polySurface2
+    100074: polySurface3
+    100076: SueloPlano
+    100078: TejadoFabrica3
+    100080: Terreno
+    100082: Terreno 1
+    100084: transform1
+    100086: transform2
+    100088: VallaParking
+    100090: Viviendas1
+    100092: Viviendas2
+    400000: Antena1
+    400002: Antena2
+    400004: backFabricas
+    400006: backonstrucciones
+    400008: backonstrucciones2
+    400010: BerjaEntradaTartanga
+    400012: BerjaEntradaTartanga1
+    400014: BerjaInstituto
+    400016: BerjaInstituto1
+    400018: CasitaEsquin
+    400020: CasitaEsquin1
+    400022: CasitaEsquin2
+    400024: ConstruccionMonte
+    400026: edif7
+    400028: Edificio1
+    400030: Edificios
+    400032: EdifTrasero1
+    400034: EdifTrasero3
+    400036: EdifTrasero4
+    400038: EdifTrasero5
+    400040: EdifTrasero6
+    400042: EdifTrasero7
+    400044: //RootNode
+    400046: Fabrica
+    400048: Fabrica1
+    400050: Fabrica2
+    400052: Fabrica3
+    400054: Fabrica3 1
+    400056: FabricaFrente
+    400058: Fabricas
+    400060: FabricCube
+    400062: FondoFabricas1
+    400064: FondoFabricas2
+    400066: InstitutoB
+    400068: Insttituto2
+    400070: Polideportivo
+    400072: polySurface2
+    400074: polySurface3
+    400076: SueloPlano
+    400078: TejadoFabrica3
+    400080: Terreno
+    400082: Terreno 1
+    400084: transform1
+    400086: transform2
+    400088: VallaParking
+    400090: Viviendas1
+    400092: Viviendas2
+    2300000: Antena1
+    2300002: Antena2
+    2300004: backFabricas
+    2300006: backonstrucciones
+    2300008: backonstrucciones2
+    2300010: BerjaEntradaTartanga
+    2300012: BerjaEntradaTartanga1
+    2300014: BerjaInstituto
+    2300016: BerjaInstituto1
+    2300018: CasitaEsquin2
+    2300020: ConstruccionMonte
+    2300022: Edificio1
+    2300024: EdifTrasero1
+    2300026: EdifTrasero3
+    2300028: EdifTrasero4
+    2300030: EdifTrasero6
+    2300032: EdifTrasero7
+    2300034: Fabrica
+    2300036: Fabrica1
+    2300038: Fabrica2
+    2300040: Fabrica3
+    2300042: Fabrica3 1
+    2300044: FabricCube
+    2300046: FondoFabricas1
+    2300048: FondoFabricas2
+    2300050: InstitutoB
+    2300052: Insttituto2
+    2300054: Polideportivo
+    2300056: SueloPlano
+    2300058: TejadoFabrica3
+    2300060: Terreno 1
+    2300062: VallaParking
+    2300064: Viviendas1
+    2300066: Viviendas2
+    3300000: Antena1
+    3300002: Antena2
+    3300004: backFabricas
+    3300006: backonstrucciones
+    3300008: backonstrucciones2
+    3300010: BerjaEntradaTartanga
+    3300012: BerjaEntradaTartanga1
+    3300014: BerjaInstituto
+    3300016: BerjaInstituto1
+    3300018: CasitaEsquin2
+    3300020: ConstruccionMonte
+    3300022: Edificio1
+    3300024: EdifTrasero1
+    3300026: EdifTrasero3
+    3300028: EdifTrasero4
+    3300030: EdifTrasero6
+    3300032: EdifTrasero7
+    3300034: Fabrica
+    3300036: Fabrica1
+    3300038: Fabrica2
+    3300040: Fabrica3
+    3300042: Fabrica3 1
+    3300044: FabricCube
+    3300046: FondoFabricas1
+    3300048: FondoFabricas2
+    3300050: InstitutoB
+    3300052: Insttituto2
+    3300054: Polideportivo
+    3300056: SueloPlano
+    3300058: TejadoFabrica3
+    3300060: Terreno 1
+    3300062: VallaParking
+    3300064: Viviendas1
+    3300066: Viviendas2
+    4300000: CasitaEsquin2
+    4300002: Fabrica3
+    4300004: Edificio1
+    4300006: Viviendas2
+    4300008: Viviendas1
+    4300010: Polideportivo
+    4300012: Insttituto2
+    4300014: BerjaEntradaTartanga1
+    4300016: BerjaEntradaTartanga
+    4300018: Antena1
+    4300020: Antena2
+    4300022: BerjaInstituto
+    4300024: InstitutoB
+    4300026: BerjaInstituto1
+    4300028: Fabrica1
+    4300030: Fabrica3
+    4300032: TejadoFabrica3
+    4300034: Fabrica2
+    4300036: FabricCube
+    4300038: EdifTrasero1
+    4300040: EdifTrasero3
+    4300042: EdifTrasero6
+    4300044: Fabrica
+    4300046: EdifTrasero4
+    4300048: EdifTrasero7
+    4300050: VallaParking
+    4300052: SueloPlano
+    4300054: Terreno
+    4300056: backFabricas
+    4300058: FondoFabricas1
+    4300060: FondoFabricas2
+    4300062: ConstruccionMonte
+    4300064: backonstrucciones
+    4300066: backonstrucciones2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

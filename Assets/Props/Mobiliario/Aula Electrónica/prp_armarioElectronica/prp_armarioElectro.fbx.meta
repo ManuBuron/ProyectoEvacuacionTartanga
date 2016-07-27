@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 882a534eb0829bb4aa5891ebb4ca825e
+timeCreated: 1463594260
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: balda1
+    100002: balda2
+    100004: balda3
+    100006: baldas
+    100008: baseArmario
+    100010: libros
+    100012: libros1
+    100014: libros15
+    100016: libros2
+    100018: //RootNode
+    100020: puerta_inferior
+    100022: puerta_inferior1
+    100024: puertas_superiores
+    100026: puertas_superiores1
+    400000: balda1
+    400002: balda2
+    400004: balda3
+    400006: baldas
+    400008: baseArmario
+    400010: libros
+    400012: libros1
+    400014: libros15
+    400016: libros2
+    400018: //RootNode
+    400020: puerta_inferior
+    400022: puerta_inferior1
+    400024: puertas_superiores
+    400026: puertas_superiores1
+    2300000: balda1
+    2300002: balda2
+    2300004: balda3
+    2300006: baseArmario
+    2300008: libros1
+    2300010: libros15
+    2300012: libros2
+    2300014: puerta_inferior
+    2300016: puerta_inferior1
+    2300018: puertas_superiores
+    2300020: puertas_superiores1
+    3300000: balda1
+    3300002: balda2
+    3300004: balda3
+    3300006: baseArmario
+    3300008: libros1
+    3300010: libros15
+    3300012: libros2
+    3300014: puerta_inferior
+    3300016: puerta_inferior1
+    3300018: puertas_superiores
+    3300020: puertas_superiores1
+    4300000: puertas_superiores
+    4300002: puertas_superiores1
+    4300004: puerta_inferior
+    4300006: puerta_inferior1
+    4300008: balda3
+    4300010: balda2
+    4300012: balda1
+    4300014: libros15
+    4300016: libros1
+    4300018: libros2
+    4300020: baseArmario
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

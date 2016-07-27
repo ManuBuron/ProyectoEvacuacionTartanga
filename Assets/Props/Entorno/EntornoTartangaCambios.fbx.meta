@@ -1,0 +1,3566 @@
+fileFormatVersion: 2
+guid: c9a9e120fad04874b8947be7a2c44891
+timeCreated: 1464623342
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alimentacion
+    100002: ascensor
+    100004: aula303
+    100006: aula303_manilla1
+    100008: aula303_manilla1_2
+    100010: aula303_manilla2
+    100012: aula303_manilla_2_2
+    100014: aula303_manillaDentro
+    100016: aula303_manillaFuera
+    100018: aula303_marcos
+    100020: aula303_marcos1
+    100022: aula303_marcos2
+    100024: aula303_pared
+    100026: aula303_puerta
+    100028: aula303_ventana1
+    100030: aula303_ventana1_2
+    100032: aula303_ventana1_3
+    100034: aula303_ventana2
+    100036: aula303_ventana2_2
+    100038: aula303_ventana2_3
+    100040: aula303_ventana_abrible1
+    100042: aula303_ventana_abrible1_2
+    100044: aula303_ventana_abrible2
+    100046: aula303_ventana_abrible2_2
+    100048: aula303_ventanal
+    100050: aula304
+    100052: aula304_manilla1
+    100054: aula304_manilla1_2
+    100056: aula304_manilla2
+    100058: aula304_manilla_2_2
+    100060: aula304_manillaDentro
+    100062: aula304_manillaFuera
+    100064: aula304_marcos
+    100066: aula304_marcos1
+    100068: aula304_marcos2
+    100070: aula304_pared
+    100072: aula304_puerta
+    100074: aula304_ventana1
+    100076: aula304_ventana1_2
+    100078: aula304_ventana1_3
+    100080: aula304_ventana2
+    100082: aula304_ventana2_2
+    100084: aula304_ventana2_3
+    100086: aula304_ventana_abrible1
+    100088: aula304_ventana_abrible1_2
+    100090: aula304_ventana_abrible2
+    100092: aula304_ventana_abrible2_2
+    100094: aula304_ventanal
+    100096: aula305
+    100098: aula305_manilla1
+    100100: aula305_manilla1_2
+    100102: aula305_manilla2
+    100104: aula305_manilla_2_2
+    100106: aula305_manillaDentro
+    100108: aula305_manillaFuera
+    100110: aula305_marcos
+    100112: aula305_marcos1
+    100114: aula305_marcos2
+    100116: aula305_pared
+    100118: aula305_puerta
+    100120: aula305_ventana1
+    100122: aula305_ventana1_2
+    100124: aula305_ventana1_3
+    100126: aula305_ventana2
+    100128: aula305_ventana2_2
+    100130: aula305_ventana2_3
+    100132: aula305_ventana_abrible1
+    100134: aula305_ventana_abrible1_2
+    100136: aula305_ventana_abrible2
+    100138: aula305_ventana_abrible2_2
+    100140: aula305_ventanal
+    100142: aula306
+    100144: aula306_manilla1
+    100146: aula306_manilla1_2
+    100148: aula306_manilla2
+    100150: aula306_manilla_2_2
+    100152: aula306_manillaDentro
+    100154: aula306_manillaFuera
+    100156: aula306_marcos
+    100158: aula306_marcos1
+    100160: aula306_marcos2
+    100162: aula306_pared
+    100164: aula306_puerta
+    100166: aula306_ventana1
+    100168: aula306_ventana1_2
+    100170: aula306_ventana1_3
+    100172: aula306_ventana2
+    100174: aula306_ventana2_2
+    100176: aula306_ventana2_3
+    100178: aula306_ventana_abrible1
+    100180: aula306_ventana_abrible1_2
+    100182: aula306_ventana_abrible2
+    100184: aula306_ventana_abrible2_2
+    100186: aula306_ventanal
+    100188: aula307
+    100190: aula307_manilla1
+    100192: aula307_manilla1_2
+    100194: aula307_manilla2
+    100196: aula307_manilla_2_2
+    100198: aula307_manillaDentro
+    100200: aula307_manillaFuera
+    100202: aula307_marcos
+    100204: aula307_marcos1
+    100206: aula307_marcos2
+    100208: aula307_pared
+    100210: aula307_puerta
+    100212: aula307_ventana1
+    100214: aula307_ventana1_2
+    100216: aula307_ventana1_3
+    100218: aula307_ventana2
+    100220: aula307_ventana2_2
+    100222: aula307_ventana2_3
+    100224: aula307_ventana_abrible1
+    100226: aula307_ventana_abrible1_2
+    100228: aula307_ventana_abrible2
+    100230: aula307_ventana_abrible2_2
+    100232: aula307_ventanal
+    100234: aula308
+    100236: aula308_manilla1
+    100238: aula308_manilla1_2
+    100240: aula308_manilla2
+    100242: aula308_manilla_2_2
+    100244: aula308_manillaDentro
+    100246: aula308_manillaFuera
+    100248: aula308_marcos
+    100250: aula308_marcos1
+    100252: aula308_marcos2
+    100254: aula308_pared
+    100256: aula308_puerta
+    100258: aula308_ventana1
+    100260: aula308_ventana1_2
+    100262: aula308_ventana1_3
+    100264: aula308_ventana2
+    100266: aula308_ventana2_2
+    100268: aula308_ventana2_3
+    100270: aula308_ventana_abrible1
+    100272: aula308_ventana_abrible1_2
+    100274: aula308_ventana_abrible2
+    100276: aula308_ventana_abrible2_2
+    100278: aula308_ventanal
+    100280: aula309
+    100282: aula309_manilla1
+    100284: aula309_manilla1_2
+    100286: aula309_manilla2
+    100288: aula309_manilla_2_2
+    100290: aula309_manillaDentro
+    100292: aula309_manillaFuera
+    100294: aula309_marcos
+    100296: aula309_marcos1
+    100298: aula309_marcos2
+    100300: aula309_pared
+    100302: aula309_puerta
+    100304: aula309_ventana1
+    100306: aula309_ventana1_2
+    100308: aula309_ventana1_3
+    100310: aula309_ventana2
+    100312: aula309_ventana2_2
+    100314: aula309_ventana2_3
+    100316: aula309_ventana_abrible1
+    100318: aula309_ventana_abrible1_2
+    100320: aula309_ventana_abrible2
+    100322: aula309_ventana_abrible2_2
+    100324: aula309_ventanal
+    100326: aula310
+    100328: aula310_manilla1
+    100330: aula310_manilla1_2
+    100332: aula310_manilla2
+    100334: aula310_manilla_2_2
+    100336: aula310_manillaDentro
+    100338: aula310_manillaFuera
+    100340: aula310_marcos
+    100342: aula310_marcos1
+    100344: aula310_marcos2
+    100346: aula310_pared
+    100348: aula310_puerta
+    100350: aula310_ventana1
+    100352: aula310_ventana1_2
+    100354: aula310_ventana1_3
+    100356: aula310_ventana2
+    100358: aula310_ventana2_2
+    100360: aula310_ventana2_3
+    100362: aula310_ventana_abrible1
+    100364: aula310_ventana_abrible1_2
+    100366: aula310_ventana_abrible2
+    100368: aula310_ventana_abrible2_2
+    100370: aula310_ventanal
+    100372: aula311
+    100374: aula311_manilla1
+    100376: aula311_manilla2
+    100378: aula311_manillaDentro
+    100380: aula311_manillaFuera
+    100382: aula311_marcoPuerta
+    100384: aula311_marcos1
+    100386: aula311_marcos2
+    100388: aula311_pared
+    100390: aula311_puerta
+    100392: aula311_ventana1
+    100394: aula311_ventana2
+    100396: aula311_ventana_abrible1
+    100398: aula311_ventana_abrible2
+    100400: aula311_ventanal
+    100402: aula312
+    100404: aula312_manilla1
+    100406: aula312_manilla1_2
+    100408: aula312_manilla2
+    100410: aula312_manilla_2_2
+    100412: aula312_manillaDentro
+    100414: aula312_manillaFuera
+    100416: aula312_marcos
+    100418: aula312_marcos1
+    100420: aula312_marcos2
+    100422: aula312_pared
+    100424: aula312_puerta
+    100426: aula312_ventana1
+    100428: aula312_ventana1_2
+    100430: aula312_ventana1_3
+    100432: aula312_ventana2
+    100434: aula312_ventana2_2
+    100436: aula312_ventana2_3
+    100438: aula312_ventana_abrible1
+    100440: aula312_ventana_abrible1_2
+    100442: aula312_ventana_abrible2
+    100444: aula312_ventana_abrible2_2
+    100446: aula312_ventanal
+    100448: aula313
+    100450: aula313_manilla1
+    100452: aula313_manilla1_2
+    100454: aula313_manilla2
+    100456: aula313_manilla_2_2
+    100458: aula313_manillaDentro
+    100460: aula313_manillaFuera
+    100462: aula313_marcos
+    100464: aula313_marcos1
+    100466: aula313_marcos2
+    100468: aula313_pared
+    100470: aula313_puerta
+    100472: aula313_ventana1
+    100474: aula313_ventana1_2
+    100476: aula313_ventana1_3
+    100478: aula313_ventana2
+    100480: aula313_ventana2_2
+    100482: aula313_ventana2_3
+    100484: aula313_ventana_abrible1
+    100486: aula313_ventana_abrible1_2
+    100488: aula313_ventana_abrible2
+    100490: aula313_ventana_abrible2_2
+    100492: aula313_ventanal
+    100494: aula314
+    100496: aula314_manilla1
+    100498: aula314_manilla1_2
+    100500: aula314_manilla2
+    100502: aula314_manilla_2_2
+    100504: aula314_manillaDentro
+    100506: aula314_manillaFuera
+    100508: aula314_marcos
+    100510: aula314_marcos1
+    100512: aula314_marcos2
+    100514: aula314_pared
+    100516: aula314_puerta
+    100518: aula314_ventana1
+    100520: aula314_ventana1_2
+    100522: aula314_ventana1_3
+    100524: aula314_ventana2
+    100526: aula314_ventana2_2
+    100528: aula314_ventana2_3
+    100530: aula314_ventana_abrible1
+    100532: aula314_ventana_abrible1_2
+    100534: aula314_ventana_abrible2
+    100536: aula314_ventana_abrible2_2
+    100538: aula314_ventanal
+    100540: aula315
+    100542: aula315_manilla1
+    100544: aula315_manilla1_2
+    100546: aula315_manilla2
+    100548: aula315_manilla_2_2
+    100550: aula315_manillaDentro
+    100552: aula315_manillaFuera
+    100554: aula315_marcos
+    100556: aula315_marcos1
+    100558: aula315_marcos2
+    100560: aula315_pared
+    100562: aula315_puerta
+    100564: aula315_ventana1
+    100566: aula315_ventana1_2
+    100568: aula315_ventana1_3
+    100570: aula315_ventana2
+    100572: aula315_ventana2_2
+    100574: aula315_ventana2_3
+    100576: aula315_ventana_abrible1
+    100578: aula315_ventana_abrible1_2
+    100580: aula315_ventana_abrible2
+    100582: aula315_ventana_abrible2_2
+    100584: aula315_ventanal
+    100586: aula316
+    100588: aula316_manilla1
+    100590: aula316_manilla1_2
+    100592: aula316_manilla2
+    100594: aula316_manilla_2_2
+    100596: aula316_manillaDentro
+    100598: aula316_manillaFuera
+    100600: aula316_marcos
+    100602: aula316_marcos1
+    100604: aula316_marcos2
+    100606: aula316_pared
+    100608: aula316_puerta
+    100610: aula316_ventana1
+    100612: aula316_ventana1_2
+    100614: aula316_ventana1_3
+    100616: aula316_ventana2
+    100618: aula316_ventana2_2
+    100620: aula316_ventana2_3
+    100622: aula316_ventana_abrible1
+    100624: aula316_ventana_abrible1_2
+    100626: aula316_ventana_abrible2
+    100628: aula316_ventana_abrible2_2
+    100630: aula316_ventanal
+    100632: aula317
+    100634: aula317_manilla1
+    100636: aula317_manilla1_2
+    100638: aula317_manilla2
+    100640: aula317_manilla_2_2
+    100642: aula317_manillaDentro
+    100644: aula317_manillaFuera
+    100646: aula317_marcos
+    100648: aula317_marcos1
+    100650: aula317_marcos2
+    100652: aula317_pared
+    100654: aula317_puerta
+    100656: aula317_ventana1
+    100658: aula317_ventana1_2
+    100660: aula317_ventana1_3
+    100662: aula317_ventana2
+    100664: aula317_ventana2_2
+    100666: aula317_ventana2_3
+    100668: aula317_ventana_abrible1
+    100670: aula317_ventana_abrible1_2
+    100672: aula317_ventana_abrible2
+    100674: aula317_ventana_abrible2_2
+    100676: aula317_ventanal
+    100678: aula318
+    100680: aula318_manilla1
+    100682: aula318_manilla1_2
+    100684: aula318_manilla2
+    100686: aula318_manilla_2_2
+    100688: aula318_manillaDentro
+    100690: aula318_manillaFuera
+    100692: aula318_marcos
+    100694: aula318_marcos1
+    100696: aula318_marcos2
+    100698: aula318_pared
+    100700: aula318_puerta
+    100702: aula318_ventana1
+    100704: aula318_ventana1_2
+    100706: aula318_ventana1_3
+    100708: aula318_ventana2
+    100710: aula318_ventana2_2
+    100712: aula318_ventana2_3
+    100714: aula318_ventana_abrible1
+    100716: aula318_ventana_abrible1_2
+    100718: aula318_ventana_abrible2
+    100720: aula318_ventana_abrible2_2
+    100722: aula318_ventanal
+    100724: aula319
+    100726: aula319_manilla1
+    100728: aula319_manilla1_2
+    100730: aula319_manilla2
+    100732: aula319_manilla_2_2
+    100734: aula319_manillaDentro
+    100736: aula319_manillaFuera
+    100738: aula319_marcos
+    100740: aula319_marcos1
+    100742: aula319_marcos2
+    100744: aula319_pared
+    100746: aula319_puerta
+    100748: aula319_ventana1
+    100750: aula319_ventana1_2
+    100752: aula319_ventana1_3
+    100754: aula319_ventana2
+    100756: aula319_ventana2_2
+    100758: aula319_ventana2_3
+    100760: aula319_ventana_abrible1
+    100762: aula319_ventana_abrible1_2
+    100764: aula319_ventana_abrible2
+    100766: aula319_ventana_abrible2_2
+    100768: aula319_ventanal
+    100770: aula320
+    100772: aula320_manilla1
+    100774: aula320_manilla1_2
+    100776: aula320_manilla2
+    100778: aula320_manilla3
+    100780: aula320_manilla4
+    100782: aula320_manilla_2_2
+    100784: aula320_manilla_3_2
+    100786: aula320_manilla_4_2
+    100788: aula320_manillaDentro
+    100790: aula320_manillaDentro2
+    100792: aula320_manillaFuera
+    100794: aula320_manillaFuera2
+    100796: aula320_marcos
+    100798: aula320_marcos1
+    100800: aula320_marcos2
+    100802: aula320_marcos3
+    100804: aula320_marcos4
+    100806: aula320_pared
+    100808: aula320_puerta
+    100810: aula320_puerta2
+    100812: aula320_ventana1
+    100814: aula320_ventana1_2
+    100816: aula320_ventana1_3
+    100818: aula320_ventana2
+    100820: aula320_ventana2_2
+    100822: aula320_ventana2_3
+    100824: aula320_ventana3
+    100826: aula320_ventana3_2
+    100828: aula320_ventana3_3
+    100830: aula320_ventana4
+    100832: aula320_ventana4_2
+    100834: aula320_ventana4_3
+    100836: aula320_ventana_abrible1
+    100838: aula320_ventana_abrible1_2
+    100840: aula320_ventana_abrible2
+    100842: aula320_ventana_abrible2_2
+    100844: aula320_ventana_abrible3
+    100846: aula320_ventana_abrible3_2
+    100848: aula320_ventana_abrible4
+    100850: aula320_ventana_abrible4_2
+    100852: aula320_ventanal
+    100854: aula321
+    100856: aula321_manilla1
+    100858: aula321_manilla1_2
+    100860: aula321_manilla2
+    100862: aula321_manilla3
+    100864: aula321_manilla4
+    100866: aula321_manilla_2_2
+    100868: aula321_manilla_3_2
+    100870: aula321_manilla_4_2
+    100872: aula321_manillaDentro
+    100874: aula321_manillaDentro2
+    100876: aula321_manillaFuera
+    100878: aula321_manillaFuera2
+    100880: aula321_marcos
+    100882: aula321_marcos1
+    100884: aula321_marcos2
+    100886: aula321_marcos3
+    100888: aula321_marcos4
+    100890: aula321_pared
+    100892: aula321_puerta
+    100894: aula321_puerta2
+    100896: aula321_ventana1
+    100898: aula321_ventana1_2
+    100900: aula321_ventana1_3
+    100902: aula321_ventana2
+    100904: aula321_ventana2_2
+    100906: aula321_ventana2_3
+    100908: aula321_ventana3
+    100910: aula321_ventana3_2
+    100912: aula321_ventana3_3
+    100914: aula321_ventana4
+    100916: aula321_ventana4_2
+    100918: aula321_ventana4_3
+    100920: aula321_ventana_abrible1
+    100922: aula321_ventana_abrible1_2
+    100924: aula321_ventana_abrible2
+    100926: aula321_ventana_abrible2_2
+    100928: aula321_ventana_abrible3
+    100930: aula321_ventana_abrible3_2
+    100932: aula321_ventana_abrible4
+    100934: aula321_ventana_abrible4_2
+    100936: aula321_ventanal
+    100938: BlockingExterior
+    100940: blockingTartangaInterior
+    100942: columna_planta_3
+    100944: columna_planta_4
+    100946: columna_planta_5
+    100948: electronica
+    100950: //RootNode
+    100952: envolventeP3
+    100954: escalerasExteriores
+    100956: escalerilla_teatro
+    100958: escenario_teatro
+    100960: escExt_T3
+    100962: group1
+    100964: habitaciones_planta_3
+    100966: huecoEscalerasExteriores
+    100968: Modulo_Escaleras_este
+    100970: Modulo_Escaleras_oeste
+    100972: modulos_pasillo_planta_3
+    100974: objetos_de_pasillo
+    100976: paredes_alimentacion
+    100978: paredes_electronica
+    100980: paredes_escalera_este
+    100982: paredes_escaleras_oeste
+    100984: paredes_planta_1
+    100986: paredes_planta_3
+    100988: paredes_planta_baja
+    100990: paredes_teatro
+    100992: paredTrasera
+    100994: pasamanos_este
+    100996: pasamanos_oeste
+    100998: pasillo_310
+    101000: pasillo_311
+    101002: pasillo_312_309
+    101004: pasillo_313_308
+    101006: pasillo_314_307
+    101008: pasillo_315_306
+    101010: pasillo_316_305
+    101012: pasillo_317_304
+    101014: pasillo_318_303
+    101016: pasillo_319
+    101018: pasillo_320_321
+    101020: pasillo_320_321_2
+    101022: pasillo_planta_baja
+    101024: pasillo_wc
+    101026: pasted__cristal
+    101028: pasted__cristal 1
+    101030: pasted__cristal 10
+    101032: pasted__cristal 11
+    101034: pasted__cristal 12
+    101036: pasted__cristal 13
+    101038: pasted__cristal 14
+    101040: pasted__cristal 15
+    101042: pasted__cristal 16
+    101044: pasted__cristal 2
+    101046: pasted__cristal 3
+    101048: pasted__cristal 4
+    101050: pasted__cristal 5
+    101052: pasted__cristal 6
+    101054: pasted__cristal 7
+    101056: pasted__cristal 8
+    101058: pasted__cristal 9
+    101060: pasted__cristal1
+    101062: pasted__cristal1 1
+    101064: pasted__cristal1 10
+    101066: pasted__cristal1 11
+    101068: pasted__cristal1 12
+    101070: pasted__cristal1 13
+    101072: pasted__cristal1 14
+    101074: pasted__cristal1 15
+    101076: pasted__cristal1 16
+    101078: pasted__cristal1 2
+    101080: pasted__cristal1 3
+    101082: pasted__cristal1 4
+    101084: pasted__cristal1 5
+    101086: pasted__cristal1 6
+    101088: pasted__cristal1 7
+    101090: pasted__cristal1 8
+    101092: pasted__cristal1 9
+    101094: pasted__cristal2
+    101096: pasted__cristal2 1
+    101098: pasted__cristal2 10
+    101100: pasted__cristal2 11
+    101102: pasted__cristal2 12
+    101104: pasted__cristal2 13
+    101106: pasted__cristal2 14
+    101108: pasted__cristal2 15
+    101110: pasted__cristal2 16
+    101112: pasted__cristal2 2
+    101114: pasted__cristal2 3
+    101116: pasted__cristal2 4
+    101118: pasted__cristal2 5
+    101120: pasted__cristal2 6
+    101122: pasted__cristal2 7
+    101124: pasted__cristal2 8
+    101126: pasted__cristal2 9
+    101128: pasted__manilla
+    101130: pasted__manilla 1
+    101132: pasted__manilla 10
+    101134: pasted__manilla 11
+    101136: pasted__manilla 12
+    101138: pasted__manilla 13
+    101140: pasted__manilla 14
+    101142: pasted__manilla 15
+    101144: pasted__manilla 16
+    101146: pasted__manilla 17
+    101148: pasted__manilla 18
+    101150: pasted__manilla 19
+    101152: pasted__manilla 2
+    101154: pasted__manilla 20
+    101156: pasted__manilla 21
+    101158: pasted__manilla 22
+    101160: pasted__manilla 23
+    101162: pasted__manilla 24
+    101164: pasted__manilla 25
+    101166: pasted__manilla 26
+    101168: pasted__manilla 27
+    101170: pasted__manilla 28
+    101172: pasted__manilla 29
+    101174: pasted__manilla 3
+    101176: pasted__manilla 30
+    101178: pasted__manilla 31
+    101180: pasted__manilla 32
+    101182: pasted__manilla 33
+    101184: pasted__manilla 4
+    101186: pasted__manilla 5
+    101188: pasted__manilla 6
+    101190: pasted__manilla 7
+    101192: pasted__manilla 8
+    101194: pasted__manilla 9
+    101196: pasted__manilla2
+    101198: pasted__manilla2 1
+    101200: pasted__manilla2 2
+    101202: pasted__manilla2 3
+    101204: pasted__manilla2 4
+    101206: pasted__ventana
+    101208: pasted__ventana 1
+    101210: pasted__ventana 10
+    101212: pasted__ventana 11
+    101214: pasted__ventana 12
+    101216: pasted__ventana 13
+    101218: pasted__ventana 14
+    101220: pasted__ventana 15
+    101222: pasted__ventana 16
+    101224: pasted__ventana 2
+    101226: pasted__ventana 3
+    101228: pasted__ventana 4
+    101230: pasted__ventana 5
+    101232: pasted__ventana 6
+    101234: pasted__ventana 7
+    101236: pasted__ventana 8
+    101238: pasted__ventana 9
+    101240: pasted__ventana1
+    101242: pasted__ventana1 1
+    101244: pasted__ventana1 10
+    101246: pasted__ventana1 11
+    101248: pasted__ventana1 12
+    101250: pasted__ventana1 13
+    101252: pasted__ventana1 14
+    101254: pasted__ventana1 15
+    101256: pasted__ventana1 16
+    101258: pasted__ventana1 2
+    101260: pasted__ventana1 3
+    101262: pasted__ventana1 4
+    101264: pasted__ventana1 5
+    101266: pasted__ventana1 6
+    101268: pasted__ventana1 7
+    101270: pasted__ventana1 8
+    101272: pasted__ventana1 9
+    101274: pasted__ventana2
+    101276: pasted__ventana2 1
+    101278: pasted__ventana2 2
+    101280: pasted__ventana2 3
+    101282: pasted__ventana2 4
+    101284: pasted__ventana2 5
+    101286: pasted__ventana2 6
+    101288: pasted__ventana3
+    101290: pasted__ventana3 1
+    101292: pasted__ventana3 2
+    101294: pasted__ventana3 3
+    101296: pasted__ventana3 4
+    101298: pasted__ventanaMarco14
+    101300: pasted__ventanaMarco15
+    101302: pasted__ventanaMarco16
+    101304: pasted__ventanaMarco17
+    101306: pasted__ventanaMarco18
+    101308: pasted__ventanaMarco19
+    101310: pasted__ventanaMarco20
+    101312: pasted__ventanaMarco21
+    101314: pasted__ventanaMarco22
+    101316: pasted__ventanaMarco23
+    101318: pasted__ventanaMarco24
+    101320: pasted__ventanaMarco25
+    101322: pasted__ventanaMarco26
+    101324: pasted__ventanaMarco27
+    101326: pasted__ventanaMarco28
+    101328: pasted__ventanaMarco29
+    101330: pasted__ventanaMarco30
+    101332: pilares
+    101334: pilarEscaleras1
+    101336: pilarEscaleras2
+    101338: planta_1
+    101340: Planta_1_y_2
+    101342: Planta_2
+    101344: Planta_3
+    101346: Planta_Baja
+    101348: puertaExteriorGranate
+    101350: puertaFinPasillo
+    101352: suelo_escaleras_este
+    101354: suelo_escaleras_oeste
+    101356: suelo_planta_1
+    101358: suelo_planta_2
+    101360: suelo_planta_3
+    101362: suelo_Planta_baja
+    101364: teatro
+    101366: techo_alimentacion
+    101368: techo_electronica
+    101370: techo_planta_1
+    101372: techo_planta_2
+    101374: techo_planta_3
+    101376: techo_planta_baja
+    101378: techo_teatro
+    101380: techo_y_suelo_planta_3
+    101382: techoExterior
+    101384: ventanaMarcoCuadrada
+    101386: ventanaMarcoCuadrada1
+    101388: ventanaMarcoCuadrada2
+    101390: ventanaMarcoCuadrada3
+    101392: ventanaMarcoCuadrada4
+    101394: ventanaMarcoEstrecha3
+    101396: ventanaMarcoEstrecha4
+    101398: ventanas_norte_planta_3
+    101400: ventanas_sur_planta_3
+    101402: VolEntrada
+    101404: VolExtEsc
+    101406: VolGimnasio
+    101408: VolLadEsc
+    101410: VolTrasero
+    101412: VolTraseroTerraza
+    101414: VolVerdeEsc
+    101416: wc_hombres
+    101418: wc_hombres_cristal
+    101420: wc_hombres_cristal_abrible
+    101422: wc_hombres_fregadero
+    101424: wc_hombres_manilla
+    101426: wc_hombres_manillaDentro
+    101428: wc_hombres_manillaFuera
+    101430: wc_hombres_marcoPuerta
+    101432: wc_hombres_marcos
+    101434: wc_hombres_pared
+    101436: wc_hombres_puerta
+    101438: wc_hombres_retretes
+    101440: wc_hombres_ventana_abrible
+    101442: wc_hombres_ventanal
+    101444: wc_mujeres
+    101446: wc_mujeres_cristal
+    101448: wc_mujeres_cristal_abrible
+    101450: wc_mujeres_fregadero
+    101452: wc_mujeres_manilla
+    101454: wc_mujeres_manillaDentro
+    101456: wc_mujeres_manillaFuera
+    101458: wc_mujeres_marcoPuerta
+    101460: wc_mujeres_marcos
+    101462: wc_mujeres_pared
+    101464: wc_mujeres_puerta
+    101466: wc_mujeres_retretes
+    101468: wc_mujeres_ventana_abrible
+    101470: wc_mujeres_ventanal
+    400000: alimentacion
+    400002: ascensor
+    400004: aula303
+    400006: aula303_manilla1
+    400008: aula303_manilla1_2
+    400010: aula303_manilla2
+    400012: aula303_manilla_2_2
+    400014: aula303_manillaDentro
+    400016: aula303_manillaFuera
+    400018: aula303_marcos
+    400020: aula303_marcos1
+    400022: aula303_marcos2
+    400024: aula303_pared
+    400026: aula303_puerta
+    400028: aula303_ventana1
+    400030: aula303_ventana1_2
+    400032: aula303_ventana1_3
+    400034: aula303_ventana2
+    400036: aula303_ventana2_2
+    400038: aula303_ventana2_3
+    400040: aula303_ventana_abrible1
+    400042: aula303_ventana_abrible1_2
+    400044: aula303_ventana_abrible2
+    400046: aula303_ventana_abrible2_2
+    400048: aula303_ventanal
+    400050: aula304
+    400052: aula304_manilla1
+    400054: aula304_manilla1_2
+    400056: aula304_manilla2
+    400058: aula304_manilla_2_2
+    400060: aula304_manillaDentro
+    400062: aula304_manillaFuera
+    400064: aula304_marcos
+    400066: aula304_marcos1
+    400068: aula304_marcos2
+    400070: aula304_pared
+    400072: aula304_puerta
+    400074: aula304_ventana1
+    400076: aula304_ventana1_2
+    400078: aula304_ventana1_3
+    400080: aula304_ventana2
+    400082: aula304_ventana2_2
+    400084: aula304_ventana2_3
+    400086: aula304_ventana_abrible1
+    400088: aula304_ventana_abrible1_2
+    400090: aula304_ventana_abrible2
+    400092: aula304_ventana_abrible2_2
+    400094: aula304_ventanal
+    400096: aula305
+    400098: aula305_manilla1
+    400100: aula305_manilla1_2
+    400102: aula305_manilla2
+    400104: aula305_manilla_2_2
+    400106: aula305_manillaDentro
+    400108: aula305_manillaFuera
+    400110: aula305_marcos
+    400112: aula305_marcos1
+    400114: aula305_marcos2
+    400116: aula305_pared
+    400118: aula305_puerta
+    400120: aula305_ventana1
+    400122: aula305_ventana1_2
+    400124: aula305_ventana1_3
+    400126: aula305_ventana2
+    400128: aula305_ventana2_2
+    400130: aula305_ventana2_3
+    400132: aula305_ventana_abrible1
+    400134: aula305_ventana_abrible1_2
+    400136: aula305_ventana_abrible2
+    400138: aula305_ventana_abrible2_2
+    400140: aula305_ventanal
+    400142: aula306
+    400144: aula306_manilla1
+    400146: aula306_manilla1_2
+    400148: aula306_manilla2
+    400150: aula306_manilla_2_2
+    400152: aula306_manillaDentro
+    400154: aula306_manillaFuera
+    400156: aula306_marcos
+    400158: aula306_marcos1
+    400160: aula306_marcos2
+    400162: aula306_pared
+    400164: aula306_puerta
+    400166: aula306_ventana1
+    400168: aula306_ventana1_2
+    400170: aula306_ventana1_3
+    400172: aula306_ventana2
+    400174: aula306_ventana2_2
+    400176: aula306_ventana2_3
+    400178: aula306_ventana_abrible1
+    400180: aula306_ventana_abrible1_2
+    400182: aula306_ventana_abrible2
+    400184: aula306_ventana_abrible2_2
+    400186: aula306_ventanal
+    400188: aula307
+    400190: aula307_manilla1
+    400192: aula307_manilla1_2
+    400194: aula307_manilla2
+    400196: aula307_manilla_2_2
+    400198: aula307_manillaDentro
+    400200: aula307_manillaFuera
+    400202: aula307_marcos
+    400204: aula307_marcos1
+    400206: aula307_marcos2
+    400208: aula307_pared
+    400210: aula307_puerta
+    400212: aula307_ventana1
+    400214: aula307_ventana1_2
+    400216: aula307_ventana1_3
+    400218: aula307_ventana2
+    400220: aula307_ventana2_2
+    400222: aula307_ventana2_3
+    400224: aula307_ventana_abrible1
+    400226: aula307_ventana_abrible1_2
+    400228: aula307_ventana_abrible2
+    400230: aula307_ventana_abrible2_2
+    400232: aula307_ventanal
+    400234: aula308
+    400236: aula308_manilla1
+    400238: aula308_manilla1_2
+    400240: aula308_manilla2
+    400242: aula308_manilla_2_2
+    400244: aula308_manillaDentro
+    400246: aula308_manillaFuera
+    400248: aula308_marcos
+    400250: aula308_marcos1
+    400252: aula308_marcos2
+    400254: aula308_pared
+    400256: aula308_puerta
+    400258: aula308_ventana1
+    400260: aula308_ventana1_2
+    400262: aula308_ventana1_3
+    400264: aula308_ventana2
+    400266: aula308_ventana2_2
+    400268: aula308_ventana2_3
+    400270: aula308_ventana_abrible1
+    400272: aula308_ventana_abrible1_2
+    400274: aula308_ventana_abrible2
+    400276: aula308_ventana_abrible2_2
+    400278: aula308_ventanal
+    400280: aula309
+    400282: aula309_manilla1
+    400284: aula309_manilla1_2
+    400286: aula309_manilla2
+    400288: aula309_manilla_2_2
+    400290: aula309_manillaDentro
+    400292: aula309_manillaFuera
+    400294: aula309_marcos
+    400296: aula309_marcos1
+    400298: aula309_marcos2
+    400300: aula309_pared
+    400302: aula309_puerta
+    400304: aula309_ventana1
+    400306: aula309_ventana1_2
+    400308: aula309_ventana1_3
+    400310: aula309_ventana2
+    400312: aula309_ventana2_2
+    400314: aula309_ventana2_3
+    400316: aula309_ventana_abrible1
+    400318: aula309_ventana_abrible1_2
+    400320: aula309_ventana_abrible2
+    400322: aula309_ventana_abrible2_2
+    400324: aula309_ventanal
+    400326: aula310
+    400328: aula310_manilla1
+    400330: aula310_manilla1_2
+    400332: aula310_manilla2
+    400334: aula310_manilla_2_2
+    400336: aula310_manillaDentro
+    400338: aula310_manillaFuera
+    400340: aula310_marcos
+    400342: aula310_marcos1
+    400344: aula310_marcos2
+    400346: aula310_pared
+    400348: aula310_puerta
+    400350: aula310_ventana1
+    400352: aula310_ventana1_2
+    400354: aula310_ventana1_3
+    400356: aula310_ventana2
+    400358: aula310_ventana2_2
+    400360: aula310_ventana2_3
+    400362: aula310_ventana_abrible1
+    400364: aula310_ventana_abrible1_2
+    400366: aula310_ventana_abrible2
+    400368: aula310_ventana_abrible2_2
+    400370: aula310_ventanal
+    400372: aula311
+    400374: aula311_manilla1
+    400376: aula311_manilla2
+    400378: aula311_manillaDentro
+    400380: aula311_manillaFuera
+    400382: aula311_marcoPuerta
+    400384: aula311_marcos1
+    400386: aula311_marcos2
+    400388: aula311_pared
+    400390: aula311_puerta
+    400392: aula311_ventana1
+    400394: aula311_ventana2
+    400396: aula311_ventana_abrible1
+    400398: aula311_ventana_abrible2
+    400400: aula311_ventanal
+    400402: aula312
+    400404: aula312_manilla1
+    400406: aula312_manilla1_2
+    400408: aula312_manilla2
+    400410: aula312_manilla_2_2
+    400412: aula312_manillaDentro
+    400414: aula312_manillaFuera
+    400416: aula312_marcos
+    400418: aula312_marcos1
+    400420: aula312_marcos2
+    400422: aula312_pared
+    400424: aula312_puerta
+    400426: aula312_ventana1
+    400428: aula312_ventana1_2
+    400430: aula312_ventana1_3
+    400432: aula312_ventana2
+    400434: aula312_ventana2_2
+    400436: aula312_ventana2_3
+    400438: aula312_ventana_abrible1
+    400440: aula312_ventana_abrible1_2
+    400442: aula312_ventana_abrible2
+    400444: aula312_ventana_abrible2_2
+    400446: aula312_ventanal
+    400448: aula313
+    400450: aula313_manilla1
+    400452: aula313_manilla1_2
+    400454: aula313_manilla2
+    400456: aula313_manilla_2_2
+    400458: aula313_manillaDentro
+    400460: aula313_manillaFuera
+    400462: aula313_marcos
+    400464: aula313_marcos1
+    400466: aula313_marcos2
+    400468: aula313_pared
+    400470: aula313_puerta
+    400472: aula313_ventana1
+    400474: aula313_ventana1_2
+    400476: aula313_ventana1_3
+    400478: aula313_ventana2
+    400480: aula313_ventana2_2
+    400482: aula313_ventana2_3
+    400484: aula313_ventana_abrible1
+    400486: aula313_ventana_abrible1_2
+    400488: aula313_ventana_abrible2
+    400490: aula313_ventana_abrible2_2
+    400492: aula313_ventanal
+    400494: aula314
+    400496: aula314_manilla1
+    400498: aula314_manilla1_2
+    400500: aula314_manilla2
+    400502: aula314_manilla_2_2
+    400504: aula314_manillaDentro
+    400506: aula314_manillaFuera
+    400508: aula314_marcos
+    400510: aula314_marcos1
+    400512: aula314_marcos2
+    400514: aula314_pared
+    400516: aula314_puerta
+    400518: aula314_ventana1
+    400520: aula314_ventana1_2
+    400522: aula314_ventana1_3
+    400524: aula314_ventana2
+    400526: aula314_ventana2_2
+    400528: aula314_ventana2_3
+    400530: aula314_ventana_abrible1
+    400532: aula314_ventana_abrible1_2
+    400534: aula314_ventana_abrible2
+    400536: aula314_ventana_abrible2_2
+    400538: aula314_ventanal
+    400540: aula315
+    400542: aula315_manilla1
+    400544: aula315_manilla1_2
+    400546: aula315_manilla2
+    400548: aula315_manilla_2_2
+    400550: aula315_manillaDentro
+    400552: aula315_manillaFuera
+    400554: aula315_marcos
+    400556: aula315_marcos1
+    400558: aula315_marcos2
+    400560: aula315_pared
+    400562: aula315_puerta
+    400564: aula315_ventana1
+    400566: aula315_ventana1_2
+    400568: aula315_ventana1_3
+    400570: aula315_ventana2
+    400572: aula315_ventana2_2
+    400574: aula315_ventana2_3
+    400576: aula315_ventana_abrible1
+    400578: aula315_ventana_abrible1_2
+    400580: aula315_ventana_abrible2
+    400582: aula315_ventana_abrible2_2
+    400584: aula315_ventanal
+    400586: aula316
+    400588: aula316_manilla1
+    400590: aula316_manilla1_2
+    400592: aula316_manilla2
+    400594: aula316_manilla_2_2
+    400596: aula316_manillaDentro
+    400598: aula316_manillaFuera
+    400600: aula316_marcos
+    400602: aula316_marcos1
+    400604: aula316_marcos2
+    400606: aula316_pared
+    400608: aula316_puerta
+    400610: aula316_ventana1
+    400612: aula316_ventana1_2
+    400614: aula316_ventana1_3
+    400616: aula316_ventana2
+    400618: aula316_ventana2_2
+    400620: aula316_ventana2_3
+    400622: aula316_ventana_abrible1
+    400624: aula316_ventana_abrible1_2
+    400626: aula316_ventana_abrible2
+    400628: aula316_ventana_abrible2_2
+    400630: aula316_ventanal
+    400632: aula317
+    400634: aula317_manilla1
+    400636: aula317_manilla1_2
+    400638: aula317_manilla2
+    400640: aula317_manilla_2_2
+    400642: aula317_manillaDentro
+    400644: aula317_manillaFuera
+    400646: aula317_marcos
+    400648: aula317_marcos1
+    400650: aula317_marcos2
+    400652: aula317_pared
+    400654: aula317_puerta
+    400656: aula317_ventana1
+    400658: aula317_ventana1_2
+    400660: aula317_ventana1_3
+    400662: aula317_ventana2
+    400664: aula317_ventana2_2
+    400666: aula317_ventana2_3
+    400668: aula317_ventana_abrible1
+    400670: aula317_ventana_abrible1_2
+    400672: aula317_ventana_abrible2
+    400674: aula317_ventana_abrible2_2
+    400676: aula317_ventanal
+    400678: aula318
+    400680: aula318_manilla1
+    400682: aula318_manilla1_2
+    400684: aula318_manilla2
+    400686: aula318_manilla_2_2
+    400688: aula318_manillaDentro
+    400690: aula318_manillaFuera
+    400692: aula318_marcos
+    400694: aula318_marcos1
+    400696: aula318_marcos2
+    400698: aula318_pared
+    400700: aula318_puerta
+    400702: aula318_ventana1
+    400704: aula318_ventana1_2
+    400706: aula318_ventana1_3
+    400708: aula318_ventana2
+    400710: aula318_ventana2_2
+    400712: aula318_ventana2_3
+    400714: aula318_ventana_abrible1
+    400716: aula318_ventana_abrible1_2
+    400718: aula318_ventana_abrible2
+    400720: aula318_ventana_abrible2_2
+    400722: aula318_ventanal
+    400724: aula319
+    400726: aula319_manilla1
+    400728: aula319_manilla1_2
+    400730: aula319_manilla2
+    400732: aula319_manilla_2_2
+    400734: aula319_manillaDentro
+    400736: aula319_manillaFuera
+    400738: aula319_marcos
+    400740: aula319_marcos1
+    400742: aula319_marcos2
+    400744: aula319_pared
+    400746: aula319_puerta
+    400748: aula319_ventana1
+    400750: aula319_ventana1_2
+    400752: aula319_ventana1_3
+    400754: aula319_ventana2
+    400756: aula319_ventana2_2
+    400758: aula319_ventana2_3
+    400760: aula319_ventana_abrible1
+    400762: aula319_ventana_abrible1_2
+    400764: aula319_ventana_abrible2
+    400766: aula319_ventana_abrible2_2
+    400768: aula319_ventanal
+    400770: aula320
+    400772: aula320_manilla1
+    400774: aula320_manilla1_2
+    400776: aula320_manilla2
+    400778: aula320_manilla3
+    400780: aula320_manilla4
+    400782: aula320_manilla_2_2
+    400784: aula320_manilla_3_2
+    400786: aula320_manilla_4_2
+    400788: aula320_manillaDentro
+    400790: aula320_manillaDentro2
+    400792: aula320_manillaFuera
+    400794: aula320_manillaFuera2
+    400796: aula320_marcos
+    400798: aula320_marcos1
+    400800: aula320_marcos2
+    400802: aula320_marcos3
+    400804: aula320_marcos4
+    400806: aula320_pared
+    400808: aula320_puerta
+    400810: aula320_puerta2
+    400812: aula320_ventana1
+    400814: aula320_ventana1_2
+    400816: aula320_ventana1_3
+    400818: aula320_ventana2
+    400820: aula320_ventana2_2
+    400822: aula320_ventana2_3
+    400824: aula320_ventana3
+    400826: aula320_ventana3_2
+    400828: aula320_ventana3_3
+    400830: aula320_ventana4
+    400832: aula320_ventana4_2
+    400834: aula320_ventana4_3
+    400836: aula320_ventana_abrible1
+    400838: aula320_ventana_abrible1_2
+    400840: aula320_ventana_abrible2
+    400842: aula320_ventana_abrible2_2
+    400844: aula320_ventana_abrible3
+    400846: aula320_ventana_abrible3_2
+    400848: aula320_ventana_abrible4
+    400850: aula320_ventana_abrible4_2
+    400852: aula320_ventanal
+    400854: aula321
+    400856: aula321_manilla1
+    400858: aula321_manilla1_2
+    400860: aula321_manilla2
+    400862: aula321_manilla3
+    400864: aula321_manilla4
+    400866: aula321_manilla_2_2
+    400868: aula321_manilla_3_2
+    400870: aula321_manilla_4_2
+    400872: aula321_manillaDentro
+    400874: aula321_manillaDentro2
+    400876: aula321_manillaFuera
+    400878: aula321_manillaFuera2
+    400880: aula321_marcos
+    400882: aula321_marcos1
+    400884: aula321_marcos2
+    400886: aula321_marcos3
+    400888: aula321_marcos4
+    400890: aula321_pared
+    400892: aula321_puerta
+    400894: aula321_puerta2
+    400896: aula321_ventana1
+    400898: aula321_ventana1_2
+    400900: aula321_ventana1_3
+    400902: aula321_ventana2
+    400904: aula321_ventana2_2
+    400906: aula321_ventana2_3
+    400908: aula321_ventana3
+    400910: aula321_ventana3_2
+    400912: aula321_ventana3_3
+    400914: aula321_ventana4
+    400916: aula321_ventana4_2
+    400918: aula321_ventana4_3
+    400920: aula321_ventana_abrible1
+    400922: aula321_ventana_abrible1_2
+    400924: aula321_ventana_abrible2
+    400926: aula321_ventana_abrible2_2
+    400928: aula321_ventana_abrible3
+    400930: aula321_ventana_abrible3_2
+    400932: aula321_ventana_abrible4
+    400934: aula321_ventana_abrible4_2
+    400936: aula321_ventanal
+    400938: BlockingExterior
+    400940: blockingTartangaInterior
+    400942: columna_planta_3
+    400944: columna_planta_4
+    400946: columna_planta_5
+    400948: electronica
+    400950: //RootNode
+    400952: envolventeP3
+    400954: escalerasExteriores
+    400956: escalerilla_teatro
+    400958: escenario_teatro
+    400960: escExt_T3
+    400962: group1
+    400964: habitaciones_planta_3
+    400966: huecoEscalerasExteriores
+    400968: Modulo_Escaleras_este
+    400970: Modulo_Escaleras_oeste
+    400972: modulos_pasillo_planta_3
+    400974: objetos_de_pasillo
+    400976: paredes_alimentacion
+    400978: paredes_electronica
+    400980: paredes_escalera_este
+    400982: paredes_escaleras_oeste
+    400984: paredes_planta_1
+    400986: paredes_planta_3
+    400988: paredes_planta_baja
+    400990: paredes_teatro
+    400992: paredTrasera
+    400994: pasamanos_este
+    400996: pasamanos_oeste
+    400998: pasillo_310
+    401000: pasillo_311
+    401002: pasillo_312_309
+    401004: pasillo_313_308
+    401006: pasillo_314_307
+    401008: pasillo_315_306
+    401010: pasillo_316_305
+    401012: pasillo_317_304
+    401014: pasillo_318_303
+    401016: pasillo_319
+    401018: pasillo_320_321
+    401020: pasillo_320_321_2
+    401022: pasillo_planta_baja
+    401024: pasillo_wc
+    401026: pasted__cristal
+    401028: pasted__cristal 1
+    401030: pasted__cristal 10
+    401032: pasted__cristal 11
+    401034: pasted__cristal 12
+    401036: pasted__cristal 13
+    401038: pasted__cristal 14
+    401040: pasted__cristal 15
+    401042: pasted__cristal 16
+    401044: pasted__cristal 2
+    401046: pasted__cristal 3
+    401048: pasted__cristal 4
+    401050: pasted__cristal 5
+    401052: pasted__cristal 6
+    401054: pasted__cristal 7
+    401056: pasted__cristal 8
+    401058: pasted__cristal 9
+    401060: pasted__cristal1
+    401062: pasted__cristal1 1
+    401064: pasted__cristal1 10
+    401066: pasted__cristal1 11
+    401068: pasted__cristal1 12
+    401070: pasted__cristal1 13
+    401072: pasted__cristal1 14
+    401074: pasted__cristal1 15
+    401076: pasted__cristal1 16
+    401078: pasted__cristal1 2
+    401080: pasted__cristal1 3
+    401082: pasted__cristal1 4
+    401084: pasted__cristal1 5
+    401086: pasted__cristal1 6
+    401088: pasted__cristal1 7
+    401090: pasted__cristal1 8
+    401092: pasted__cristal1 9
+    401094: pasted__cristal2
+    401096: pasted__cristal2 1
+    401098: pasted__cristal2 10
+    401100: pasted__cristal2 11
+    401102: pasted__cristal2 12
+    401104: pasted__cristal2 13
+    401106: pasted__cristal2 14
+    401108: pasted__cristal2 15
+    401110: pasted__cristal2 16
+    401112: pasted__cristal2 2
+    401114: pasted__cristal2 3
+    401116: pasted__cristal2 4
+    401118: pasted__cristal2 5
+    401120: pasted__cristal2 6
+    401122: pasted__cristal2 7
+    401124: pasted__cristal2 8
+    401126: pasted__cristal2 9
+    401128: pasted__manilla
+    401130: pasted__manilla 1
+    401132: pasted__manilla 10
+    401134: pasted__manilla 11
+    401136: pasted__manilla 12
+    401138: pasted__manilla 13
+    401140: pasted__manilla 14
+    401142: pasted__manilla 15
+    401144: pasted__manilla 16
+    401146: pasted__manilla 17
+    401148: pasted__manilla 18
+    401150: pasted__manilla 19
+    401152: pasted__manilla 2
+    401154: pasted__manilla 20
+    401156: pasted__manilla 21
+    401158: pasted__manilla 22
+    401160: pasted__manilla 23
+    401162: pasted__manilla 24
+    401164: pasted__manilla 25
+    401166: pasted__manilla 26
+    401168: pasted__manilla 27
+    401170: pasted__manilla 28
+    401172: pasted__manilla 29
+    401174: pasted__manilla 3
+    401176: pasted__manilla 30
+    401178: pasted__manilla 31
+    401180: pasted__manilla 32
+    401182: pasted__manilla 33
+    401184: pasted__manilla 4
+    401186: pasted__manilla 5
+    401188: pasted__manilla 6
+    401190: pasted__manilla 7
+    401192: pasted__manilla 8
+    401194: pasted__manilla 9
+    401196: pasted__manilla2
+    401198: pasted__manilla2 1
+    401200: pasted__manilla2 2
+    401202: pasted__manilla2 3
+    401204: pasted__manilla2 4
+    401206: pasted__ventana
+    401208: pasted__ventana 1
+    401210: pasted__ventana 10
+    401212: pasted__ventana 11
+    401214: pasted__ventana 12
+    401216: pasted__ventana 13
+    401218: pasted__ventana 14
+    401220: pasted__ventana 15
+    401222: pasted__ventana 16
+    401224: pasted__ventana 2
+    401226: pasted__ventana 3
+    401228: pasted__ventana 4
+    401230: pasted__ventana 5
+    401232: pasted__ventana 6
+    401234: pasted__ventana 7
+    401236: pasted__ventana 8
+    401238: pasted__ventana 9
+    401240: pasted__ventana1
+    401242: pasted__ventana1 1
+    401244: pasted__ventana1 10
+    401246: pasted__ventana1 11
+    401248: pasted__ventana1 12
+    401250: pasted__ventana1 13
+    401252: pasted__ventana1 14
+    401254: pasted__ventana1 15
+    401256: pasted__ventana1 16
+    401258: pasted__ventana1 2
+    401260: pasted__ventana1 3
+    401262: pasted__ventana1 4
+    401264: pasted__ventana1 5
+    401266: pasted__ventana1 6
+    401268: pasted__ventana1 7
+    401270: pasted__ventana1 8
+    401272: pasted__ventana1 9
+    401274: pasted__ventana2
+    401276: pasted__ventana2 1
+    401278: pasted__ventana2 2
+    401280: pasted__ventana2 3
+    401282: pasted__ventana2 4
+    401284: pasted__ventana2 5
+    401286: pasted__ventana2 6
+    401288: pasted__ventana3
+    401290: pasted__ventana3 1
+    401292: pasted__ventana3 2
+    401294: pasted__ventana3 3
+    401296: pasted__ventana3 4
+    401298: pasted__ventanaMarco14
+    401300: pasted__ventanaMarco15
+    401302: pasted__ventanaMarco16
+    401304: pasted__ventanaMarco17
+    401306: pasted__ventanaMarco18
+    401308: pasted__ventanaMarco19
+    401310: pasted__ventanaMarco20
+    401312: pasted__ventanaMarco21
+    401314: pasted__ventanaMarco22
+    401316: pasted__ventanaMarco23
+    401318: pasted__ventanaMarco24
+    401320: pasted__ventanaMarco25
+    401322: pasted__ventanaMarco26
+    401324: pasted__ventanaMarco27
+    401326: pasted__ventanaMarco28
+    401328: pasted__ventanaMarco29
+    401330: pasted__ventanaMarco30
+    401332: pilares
+    401334: pilarEscaleras1
+    401336: pilarEscaleras2
+    401338: planta_1
+    401340: Planta_1_y_2
+    401342: Planta_2
+    401344: Planta_3
+    401346: Planta_Baja
+    401348: puertaExteriorGranate
+    401350: puertaFinPasillo
+    401352: suelo_escaleras_este
+    401354: suelo_escaleras_oeste
+    401356: suelo_planta_1
+    401358: suelo_planta_2
+    401360: suelo_planta_3
+    401362: suelo_Planta_baja
+    401364: teatro
+    401366: techo_alimentacion
+    401368: techo_electronica
+    401370: techo_planta_1
+    401372: techo_planta_2
+    401374: techo_planta_3
+    401376: techo_planta_baja
+    401378: techo_teatro
+    401380: techo_y_suelo_planta_3
+    401382: techoExterior
+    401384: ventanaMarcoCuadrada
+    401386: ventanaMarcoCuadrada1
+    401388: ventanaMarcoCuadrada2
+    401390: ventanaMarcoCuadrada3
+    401392: ventanaMarcoCuadrada4
+    401394: ventanaMarcoEstrecha3
+    401396: ventanaMarcoEstrecha4
+    401398: ventanas_norte_planta_3
+    401400: ventanas_sur_planta_3
+    401402: VolEntrada
+    401404: VolExtEsc
+    401406: VolGimnasio
+    401408: VolLadEsc
+    401410: VolTrasero
+    401412: VolTraseroTerraza
+    401414: VolVerdeEsc
+    401416: wc_hombres
+    401418: wc_hombres_cristal
+    401420: wc_hombres_cristal_abrible
+    401422: wc_hombres_fregadero
+    401424: wc_hombres_manilla
+    401426: wc_hombres_manillaDentro
+    401428: wc_hombres_manillaFuera
+    401430: wc_hombres_marcoPuerta
+    401432: wc_hombres_marcos
+    401434: wc_hombres_pared
+    401436: wc_hombres_puerta
+    401438: wc_hombres_retretes
+    401440: wc_hombres_ventana_abrible
+    401442: wc_hombres_ventanal
+    401444: wc_mujeres
+    401446: wc_mujeres_cristal
+    401448: wc_mujeres_cristal_abrible
+    401450: wc_mujeres_fregadero
+    401452: wc_mujeres_manilla
+    401454: wc_mujeres_manillaDentro
+    401456: wc_mujeres_manillaFuera
+    401458: wc_mujeres_marcoPuerta
+    401460: wc_mujeres_marcos
+    401462: wc_mujeres_pared
+    401464: wc_mujeres_puerta
+    401466: wc_mujeres_retretes
+    401468: wc_mujeres_ventana_abrible
+    401470: wc_mujeres_ventanal
+    2300000: ascensor
+    2300002: aula303_manilla1
+    2300004: aula303_manilla1_2
+    2300006: aula303_manilla2
+    2300008: aula303_manilla_2_2
+    2300010: aula303_manillaDentro
+    2300012: aula303_manillaFuera
+    2300014: aula303_marcos
+    2300016: aula303_marcos1
+    2300018: aula303_marcos2
+    2300020: aula303_pared
+    2300022: aula303_puerta
+    2300024: aula303_ventana1
+    2300026: aula303_ventana1_2
+    2300028: aula303_ventana1_3
+    2300030: aula303_ventana2
+    2300032: aula303_ventana2_2
+    2300034: aula303_ventana2_3
+    2300036: aula303_ventana_abrible1
+    2300038: aula303_ventana_abrible1_2
+    2300040: aula303_ventana_abrible2
+    2300042: aula303_ventana_abrible2_2
+    2300044: aula304_manilla1
+    2300046: aula304_manilla1_2
+    2300048: aula304_manilla2
+    2300050: aula304_manilla_2_2
+    2300052: aula304_manillaDentro
+    2300054: aula304_manillaFuera
+    2300056: aula304_marcos
+    2300058: aula304_marcos1
+    2300060: aula304_marcos2
+    2300062: aula304_pared
+    2300064: aula304_puerta
+    2300066: aula304_ventana1
+    2300068: aula304_ventana1_2
+    2300070: aula304_ventana1_3
+    2300072: aula304_ventana2
+    2300074: aula304_ventana2_2
+    2300076: aula304_ventana2_3
+    2300078: aula304_ventana_abrible1
+    2300080: aula304_ventana_abrible1_2
+    2300082: aula304_ventana_abrible2
+    2300084: aula304_ventana_abrible2_2
+    2300086: aula305_manilla1
+    2300088: aula305_manilla1_2
+    2300090: aula305_manilla2
+    2300092: aula305_manilla_2_2
+    2300094: aula305_manillaDentro
+    2300096: aula305_manillaFuera
+    2300098: aula305_marcos
+    2300100: aula305_marcos1
+    2300102: aula305_marcos2
+    2300104: aula305_pared
+    2300106: aula305_puerta
+    2300108: aula305_ventana1
+    2300110: aula305_ventana1_2
+    2300112: aula305_ventana1_3
+    2300114: aula305_ventana2
+    2300116: aula305_ventana2_2
+    2300118: aula305_ventana2_3
+    2300120: aula305_ventana_abrible1
+    2300122: aula305_ventana_abrible1_2
+    2300124: aula305_ventana_abrible2
+    2300126: aula305_ventana_abrible2_2
+    2300128: aula306_manilla1
+    2300130: aula306_manilla1_2
+    2300132: aula306_manilla2
+    2300134: aula306_manilla_2_2
+    2300136: aula306_manillaDentro
+    2300138: aula306_manillaFuera
+    2300140: aula306_marcos
+    2300142: aula306_marcos1
+    2300144: aula306_marcos2
+    2300146: aula306_pared
+    2300148: aula306_puerta
+    2300150: aula306_ventana1
+    2300152: aula306_ventana1_2
+    2300154: aula306_ventana1_3
+    2300156: aula306_ventana2
+    2300158: aula306_ventana2_2
+    2300160: aula306_ventana2_3
+    2300162: aula306_ventana_abrible1
+    2300164: aula306_ventana_abrible1_2
+    2300166: aula306_ventana_abrible2
+    2300168: aula306_ventana_abrible2_2
+    2300170: aula307_manilla1
+    2300172: aula307_manilla1_2
+    2300174: aula307_manilla2
+    2300176: aula307_manilla_2_2
+    2300178: aula307_manillaDentro
+    2300180: aula307_manillaFuera
+    2300182: aula307_marcos
+    2300184: aula307_marcos1
+    2300186: aula307_marcos2
+    2300188: aula307_pared
+    2300190: aula307_puerta
+    2300192: aula307_ventana1
+    2300194: aula307_ventana1_2
+    2300196: aula307_ventana1_3
+    2300198: aula307_ventana2
+    2300200: aula307_ventana2_2
+    2300202: aula307_ventana2_3
+    2300204: aula307_ventana_abrible1
+    2300206: aula307_ventana_abrible1_2
+    2300208: aula307_ventana_abrible2
+    2300210: aula307_ventana_abrible2_2
+    2300212: aula308_manilla1
+    2300214: aula308_manilla1_2
+    2300216: aula308_manilla2
+    2300218: aula308_manilla_2_2
+    2300220: aula308_manillaDentro
+    2300222: aula308_manillaFuera
+    2300224: aula308_marcos
+    2300226: aula308_marcos1
+    2300228: aula308_marcos2
+    2300230: aula308_pared
+    2300232: aula308_puerta
+    2300234: aula308_ventana1
+    2300236: aula308_ventana1_2
+    2300238: aula308_ventana1_3
+    2300240: aula308_ventana2
+    2300242: aula308_ventana2_2
+    2300244: aula308_ventana2_3
+    2300246: aula308_ventana_abrible1
+    2300248: aula308_ventana_abrible1_2
+    2300250: aula308_ventana_abrible2
+    2300252: aula308_ventana_abrible2_2
+    2300254: aula309_manilla1
+    2300256: aula309_manilla1_2
+    2300258: aula309_manilla2
+    2300260: aula309_manilla_2_2
+    2300262: aula309_manillaDentro
+    2300264: aula309_manillaFuera
+    2300266: aula309_marcos
+    2300268: aula309_marcos1
+    2300270: aula309_marcos2
+    2300272: aula309_pared
+    2300274: aula309_puerta
+    2300276: aula309_ventana1
+    2300278: aula309_ventana1_2
+    2300280: aula309_ventana1_3
+    2300282: aula309_ventana2
+    2300284: aula309_ventana2_2
+    2300286: aula309_ventana2_3
+    2300288: aula309_ventana_abrible1
+    2300290: aula309_ventana_abrible1_2
+    2300292: aula309_ventana_abrible2
+    2300294: aula309_ventana_abrible2_2
+    2300296: aula310_manilla1
+    2300298: aula310_manilla1_2
+    2300300: aula310_manilla2
+    2300302: aula310_manilla_2_2
+    2300304: aula310_manillaDentro
+    2300306: aula310_manillaFuera
+    2300308: aula310_marcos
+    2300310: aula310_marcos1
+    2300312: aula310_marcos2
+    2300314: aula310_pared
+    2300316: aula310_puerta
+    2300318: aula310_ventana1
+    2300320: aula310_ventana1_2
+    2300322: aula310_ventana1_3
+    2300324: aula310_ventana2
+    2300326: aula310_ventana2_2
+    2300328: aula310_ventana2_3
+    2300330: aula310_ventana_abrible1
+    2300332: aula310_ventana_abrible1_2
+    2300334: aula310_ventana_abrible2
+    2300336: aula310_ventana_abrible2_2
+    2300338: aula311_manilla1
+    2300340: aula311_manilla2
+    2300342: aula311_manillaDentro
+    2300344: aula311_manillaFuera
+    2300346: aula311_marcoPuerta
+    2300348: aula311_marcos1
+    2300350: aula311_marcos2
+    2300352: aula311_pared
+    2300354: aula311_puerta
+    2300356: aula311_ventana1
+    2300358: aula311_ventana2
+    2300360: aula311_ventana_abrible1
+    2300362: aula311_ventana_abrible2
+    2300364: aula312_manilla1
+    2300366: aula312_manilla1_2
+    2300368: aula312_manilla2
+    2300370: aula312_manilla_2_2
+    2300372: aula312_manillaDentro
+    2300374: aula312_manillaFuera
+    2300376: aula312_marcos
+    2300378: aula312_marcos1
+    2300380: aula312_marcos2
+    2300382: aula312_pared
+    2300384: aula312_puerta
+    2300386: aula312_ventana1
+    2300388: aula312_ventana1_2
+    2300390: aula312_ventana1_3
+    2300392: aula312_ventana2
+    2300394: aula312_ventana2_2
+    2300396: aula312_ventana2_3
+    2300398: aula312_ventana_abrible1
+    2300400: aula312_ventana_abrible1_2
+    2300402: aula312_ventana_abrible2
+    2300404: aula312_ventana_abrible2_2
+    2300406: aula313_manilla1
+    2300408: aula313_manilla1_2
+    2300410: aula313_manilla2
+    2300412: aula313_manilla_2_2
+    2300414: aula313_manillaDentro
+    2300416: aula313_manillaFuera
+    2300418: aula313_marcos
+    2300420: aula313_marcos1
+    2300422: aula313_marcos2
+    2300424: aula313_pared
+    2300426: aula313_puerta
+    2300428: aula313_ventana1
+    2300430: aula313_ventana1_2
+    2300432: aula313_ventana1_3
+    2300434: aula313_ventana2
+    2300436: aula313_ventana2_2
+    2300438: aula313_ventana2_3
+    2300440: aula313_ventana_abrible1
+    2300442: aula313_ventana_abrible1_2
+    2300444: aula313_ventana_abrible2
+    2300446: aula313_ventana_abrible2_2
+    2300448: aula314_manilla1
+    2300450: aula314_manilla1_2
+    2300452: aula314_manilla2
+    2300454: aula314_manilla_2_2
+    2300456: aula314_manillaDentro
+    2300458: aula314_manillaFuera
+    2300460: aula314_marcos
+    2300462: aula314_marcos1
+    2300464: aula314_marcos2
+    2300466: aula314_pared
+    2300468: aula314_puerta
+    2300470: aula314_ventana1
+    2300472: aula314_ventana1_2
+    2300474: aula314_ventana1_3
+    2300476: aula314_ventana2
+    2300478: aula314_ventana2_2
+    2300480: aula314_ventana2_3
+    2300482: aula314_ventana_abrible1
+    2300484: aula314_ventana_abrible1_2
+    2300486: aula314_ventana_abrible2
+    2300488: aula314_ventana_abrible2_2
+    2300490: aula315_manilla1
+    2300492: aula315_manilla1_2
+    2300494: aula315_manilla2
+    2300496: aula315_manilla_2_2
+    2300498: aula315_manillaDentro
+    2300500: aula315_manillaFuera
+    2300502: aula315_marcos
+    2300504: aula315_marcos1
+    2300506: aula315_marcos2
+    2300508: aula315_pared
+    2300510: aula315_puerta
+    2300512: aula315_ventana1
+    2300514: aula315_ventana1_2
+    2300516: aula315_ventana1_3
+    2300518: aula315_ventana2
+    2300520: aula315_ventana2_2
+    2300522: aula315_ventana2_3
+    2300524: aula315_ventana_abrible1
+    2300526: aula315_ventana_abrible1_2
+    2300528: aula315_ventana_abrible2
+    2300530: aula315_ventana_abrible2_2
+    2300532: aula316_manilla1
+    2300534: aula316_manilla1_2
+    2300536: aula316_manilla2
+    2300538: aula316_manilla_2_2
+    2300540: aula316_manillaDentro
+    2300542: aula316_manillaFuera
+    2300544: aula316_marcos
+    2300546: aula316_marcos1
+    2300548: aula316_marcos2
+    2300550: aula316_pared
+    2300552: aula316_puerta
+    2300554: aula316_ventana1
+    2300556: aula316_ventana1_2
+    2300558: aula316_ventana1_3
+    2300560: aula316_ventana2
+    2300562: aula316_ventana2_2
+    2300564: aula316_ventana2_3
+    2300566: aula316_ventana_abrible1
+    2300568: aula316_ventana_abrible1_2
+    2300570: aula316_ventana_abrible2
+    2300572: aula316_ventana_abrible2_2
+    2300574: aula317_manilla1
+    2300576: aula317_manilla1_2
+    2300578: aula317_manilla2
+    2300580: aula317_manilla_2_2
+    2300582: aula317_manillaDentro
+    2300584: aula317_manillaFuera
+    2300586: aula317_marcos
+    2300588: aula317_marcos1
+    2300590: aula317_marcos2
+    2300592: aula317_pared
+    2300594: aula317_puerta
+    2300596: aula317_ventana1
+    2300598: aula317_ventana1_2
+    2300600: aula317_ventana1_3
+    2300602: aula317_ventana2
+    2300604: aula317_ventana2_2
+    2300606: aula317_ventana2_3
+    2300608: aula317_ventana_abrible1
+    2300610: aula317_ventana_abrible1_2
+    2300612: aula317_ventana_abrible2
+    2300614: aula317_ventana_abrible2_2
+    2300616: aula318_manilla1
+    2300618: aula318_manilla1_2
+    2300620: aula318_manilla2
+    2300622: aula318_manilla_2_2
+    2300624: aula318_manillaDentro
+    2300626: aula318_manillaFuera
+    2300628: aula318_marcos
+    2300630: aula318_marcos1
+    2300632: aula318_marcos2
+    2300634: aula318_pared
+    2300636: aula318_puerta
+    2300638: aula318_ventana1
+    2300640: aula318_ventana1_2
+    2300642: aula318_ventana1_3
+    2300644: aula318_ventana2
+    2300646: aula318_ventana2_2
+    2300648: aula318_ventana2_3
+    2300650: aula318_ventana_abrible1
+    2300652: aula318_ventana_abrible1_2
+    2300654: aula318_ventana_abrible2
+    2300656: aula318_ventana_abrible2_2
+    2300658: aula319_manilla1
+    2300660: aula319_manilla1_2
+    2300662: aula319_manilla2
+    2300664: aula319_manilla_2_2
+    2300666: aula319_manillaDentro
+    2300668: aula319_manillaFuera
+    2300670: aula319_marcos
+    2300672: aula319_marcos1
+    2300674: aula319_marcos2
+    2300676: aula319_pared
+    2300678: aula319_puerta
+    2300680: aula319_ventana1
+    2300682: aula319_ventana1_2
+    2300684: aula319_ventana1_3
+    2300686: aula319_ventana2
+    2300688: aula319_ventana2_2
+    2300690: aula319_ventana2_3
+    2300692: aula319_ventana_abrible1
+    2300694: aula319_ventana_abrible1_2
+    2300696: aula319_ventana_abrible2
+    2300698: aula319_ventana_abrible2_2
+    2300700: aula320_manilla1
+    2300702: aula320_manilla1_2
+    2300704: aula320_manilla2
+    2300706: aula320_manilla3
+    2300708: aula320_manilla4
+    2300710: aula320_manilla_2_2
+    2300712: aula320_manilla_3_2
+    2300714: aula320_manilla_4_2
+    2300716: aula320_manillaDentro
+    2300718: aula320_manillaDentro2
+    2300720: aula320_manillaFuera
+    2300722: aula320_manillaFuera2
+    2300724: aula320_marcos
+    2300726: aula320_marcos1
+    2300728: aula320_marcos2
+    2300730: aula320_marcos3
+    2300732: aula320_marcos4
+    2300734: aula320_pared
+    2300736: aula320_puerta
+    2300738: aula320_puerta2
+    2300740: aula320_ventana1
+    2300742: aula320_ventana1_2
+    2300744: aula320_ventana1_3
+    2300746: aula320_ventana2
+    2300748: aula320_ventana2_2
+    2300750: aula320_ventana2_3
+    2300752: aula320_ventana3
+    2300754: aula320_ventana3_2
+    2300756: aula320_ventana3_3
+    2300758: aula320_ventana4
+    2300760: aula320_ventana4_2
+    2300762: aula320_ventana4_3
+    2300764: aula320_ventana_abrible1
+    2300766: aula320_ventana_abrible1_2
+    2300768: aula320_ventana_abrible2
+    2300770: aula320_ventana_abrible2_2
+    2300772: aula320_ventana_abrible3
+    2300774: aula320_ventana_abrible3_2
+    2300776: aula320_ventana_abrible4
+    2300778: aula320_ventana_abrible4_2
+    2300780: aula321_manilla1
+    2300782: aula321_manilla1_2
+    2300784: aula321_manilla2
+    2300786: aula321_manilla3
+    2300788: aula321_manilla4
+    2300790: aula321_manilla_2_2
+    2300792: aula321_manilla_3_2
+    2300794: aula321_manilla_4_2
+    2300796: aula321_manillaDentro
+    2300798: aula321_manillaDentro2
+    2300800: aula321_manillaFuera
+    2300802: aula321_manillaFuera2
+    2300804: aula321_marcos
+    2300806: aula321_marcos1
+    2300808: aula321_marcos2
+    2300810: aula321_marcos3
+    2300812: aula321_marcos4
+    2300814: aula321_pared
+    2300816: aula321_puerta
+    2300818: aula321_puerta2
+    2300820: aula321_ventana1
+    2300822: aula321_ventana1_2
+    2300824: aula321_ventana1_3
+    2300826: aula321_ventana2
+    2300828: aula321_ventana2_2
+    2300830: aula321_ventana2_3
+    2300832: aula321_ventana3
+    2300834: aula321_ventana3_2
+    2300836: aula321_ventana3_3
+    2300838: aula321_ventana4
+    2300840: aula321_ventana4_2
+    2300842: aula321_ventana4_3
+    2300844: aula321_ventana_abrible1
+    2300846: aula321_ventana_abrible1_2
+    2300848: aula321_ventana_abrible2
+    2300850: aula321_ventana_abrible2_2
+    2300852: aula321_ventana_abrible3
+    2300854: aula321_ventana_abrible3_2
+    2300856: aula321_ventana_abrible4
+    2300858: aula321_ventana_abrible4_2
+    2300860: columna_planta_3
+    2300862: columna_planta_4
+    2300864: columna_planta_5
+    2300866: envolventeP3
+    2300868: escalerasExteriores
+    2300870: escalerilla_teatro
+    2300872: escenario_teatro
+    2300874: escExt_T3
+    2300876: huecoEscalerasExteriores
+    2300878: objetos_de_pasillo
+    2300880: paredes_alimentacion
+    2300882: paredes_electronica
+    2300884: paredes_escalera_este
+    2300886: paredes_escaleras_oeste
+    2300888: paredes_planta_1
+    2300890: paredes_planta_3
+    2300892: paredes_planta_baja
+    2300894: paredes_teatro
+    2300896: paredTrasera
+    2300898: pasamanos_este
+    2300900: pasamanos_oeste
+    2300902: pasillo_310
+    2300904: pasillo_311
+    2300906: pasillo_312_309
+    2300908: pasillo_313_308
+    2300910: pasillo_314_307
+    2300912: pasillo_315_306
+    2300914: pasillo_316_305
+    2300916: pasillo_317_304
+    2300918: pasillo_318_303
+    2300920: pasillo_319
+    2300922: pasillo_320_321
+    2300924: pasillo_320_321_2
+    2300926: pasillo_wc
+    2300928: pasted__cristal
+    2300930: pasted__cristal 1
+    2300932: pasted__cristal 10
+    2300934: pasted__cristal 11
+    2300936: pasted__cristal 12
+    2300938: pasted__cristal 13
+    2300940: pasted__cristal 14
+    2300942: pasted__cristal 15
+    2300944: pasted__cristal 16
+    2300946: pasted__cristal 2
+    2300948: pasted__cristal 3
+    2300950: pasted__cristal 4
+    2300952: pasted__cristal 5
+    2300954: pasted__cristal 6
+    2300956: pasted__cristal 7
+    2300958: pasted__cristal 8
+    2300960: pasted__cristal 9
+    2300962: pasted__cristal1
+    2300964: pasted__cristal1 1
+    2300966: pasted__cristal1 10
+    2300968: pasted__cristal1 11
+    2300970: pasted__cristal1 12
+    2300972: pasted__cristal1 13
+    2300974: pasted__cristal1 14
+    2300976: pasted__cristal1 15
+    2300978: pasted__cristal1 16
+    2300980: pasted__cristal1 2
+    2300982: pasted__cristal1 3
+    2300984: pasted__cristal1 4
+    2300986: pasted__cristal1 5
+    2300988: pasted__cristal1 6
+    2300990: pasted__cristal1 7
+    2300992: pasted__cristal1 8
+    2300994: pasted__cristal1 9
+    2300996: pasted__cristal2
+    2300998: pasted__cristal2 1
+    2301000: pasted__cristal2 10
+    2301002: pasted__cristal2 11
+    2301004: pasted__cristal2 12
+    2301006: pasted__cristal2 13
+    2301008: pasted__cristal2 14
+    2301010: pasted__cristal2 15
+    2301012: pasted__cristal2 16
+    2301014: pasted__cristal2 2
+    2301016: pasted__cristal2 3
+    2301018: pasted__cristal2 4
+    2301020: pasted__cristal2 5
+    2301022: pasted__cristal2 6
+    2301024: pasted__cristal2 7
+    2301026: pasted__cristal2 8
+    2301028: pasted__cristal2 9
+    2301030: pasted__manilla
+    2301032: pasted__manilla 1
+    2301034: pasted__manilla 10
+    2301036: pasted__manilla 11
+    2301038: pasted__manilla 12
+    2301040: pasted__manilla 13
+    2301042: pasted__manilla 14
+    2301044: pasted__manilla 15
+    2301046: pasted__manilla 16
+    2301048: pasted__manilla 17
+    2301050: pasted__manilla 18
+    2301052: pasted__manilla 19
+    2301054: pasted__manilla 2
+    2301056: pasted__manilla 20
+    2301058: pasted__manilla 21
+    2301060: pasted__manilla 22
+    2301062: pasted__manilla 23
+    2301064: pasted__manilla 24
+    2301066: pasted__manilla 25
+    2301068: pasted__manilla 26
+    2301070: pasted__manilla 27
+    2301072: pasted__manilla 28
+    2301074: pasted__manilla 29
+    2301076: pasted__manilla 3
+    2301078: pasted__manilla 30
+    2301080: pasted__manilla 31
+    2301082: pasted__manilla 32
+    2301084: pasted__manilla 33
+    2301086: pasted__manilla 4
+    2301088: pasted__manilla 5
+    2301090: pasted__manilla 6
+    2301092: pasted__manilla 7
+    2301094: pasted__manilla 8
+    2301096: pasted__manilla 9
+    2301098: pasted__manilla2
+    2301100: pasted__manilla2 1
+    2301102: pasted__manilla2 2
+    2301104: pasted__manilla2 3
+    2301106: pasted__manilla2 4
+    2301108: pasted__ventana
+    2301110: pasted__ventana 1
+    2301112: pasted__ventana 10
+    2301114: pasted__ventana 11
+    2301116: pasted__ventana 12
+    2301118: pasted__ventana 13
+    2301120: pasted__ventana 14
+    2301122: pasted__ventana 15
+    2301124: pasted__ventana 16
+    2301126: pasted__ventana 2
+    2301128: pasted__ventana 3
+    2301130: pasted__ventana 4
+    2301132: pasted__ventana 5
+    2301134: pasted__ventana 6
+    2301136: pasted__ventana 7
+    2301138: pasted__ventana 8
+    2301140: pasted__ventana 9
+    2301142: pasted__ventana1
+    2301144: pasted__ventana1 1
+    2301146: pasted__ventana1 10
+    2301148: pasted__ventana1 11
+    2301150: pasted__ventana1 12
+    2301152: pasted__ventana1 13
+    2301154: pasted__ventana1 14
+    2301156: pasted__ventana1 15
+    2301158: pasted__ventana1 16
+    2301160: pasted__ventana1 2
+    2301162: pasted__ventana1 3
+    2301164: pasted__ventana1 4
+    2301166: pasted__ventana1 5
+    2301168: pasted__ventana1 6
+    2301170: pasted__ventana1 7
+    2301172: pasted__ventana1 8
+    2301174: pasted__ventana1 9
+    2301176: pasted__ventana2
+    2301178: pasted__ventana2 1
+    2301180: pasted__ventana2 2
+    2301182: pasted__ventana2 3
+    2301184: pasted__ventana2 4
+    2301186: pasted__ventana2 5
+    2301188: pasted__ventana2 6
+    2301190: pasted__ventana3
+    2301192: pasted__ventana3 1
+    2301194: pasted__ventana3 2
+    2301196: pasted__ventana3 3
+    2301198: pasted__ventana3 4
+    2301200: pasted__ventanaMarco14
+    2301202: pasted__ventanaMarco15
+    2301204: pasted__ventanaMarco16
+    2301206: pasted__ventanaMarco17
+    2301208: pasted__ventanaMarco18
+    2301210: pasted__ventanaMarco19
+    2301212: pasted__ventanaMarco20
+    2301214: pasted__ventanaMarco21
+    2301216: pasted__ventanaMarco22
+    2301218: pasted__ventanaMarco23
+    2301220: pasted__ventanaMarco24
+    2301222: pasted__ventanaMarco25
+    2301224: pasted__ventanaMarco26
+    2301226: pasted__ventanaMarco27
+    2301228: pasted__ventanaMarco28
+    2301230: pasted__ventanaMarco29
+    2301232: pasted__ventanaMarco30
+    2301234: pilares
+    2301236: pilarEscaleras1
+    2301238: pilarEscaleras2
+    2301240: puertaExteriorGranate
+    2301242: puertaFinPasillo
+    2301244: suelo_escaleras_este
+    2301246: suelo_escaleras_oeste
+    2301248: suelo_planta_1
+    2301250: suelo_planta_2
+    2301252: suelo_planta_3
+    2301254: suelo_Planta_baja
+    2301256: techo_alimentacion
+    2301258: techo_electronica
+    2301260: techo_planta_1
+    2301262: techo_planta_2
+    2301264: techo_planta_3
+    2301266: techo_planta_baja
+    2301268: techo_teatro
+    2301270: techoExterior
+    2301272: ventanaMarcoCuadrada
+    2301274: ventanaMarcoCuadrada1
+    2301276: ventanaMarcoCuadrada2
+    2301278: ventanaMarcoCuadrada3
+    2301280: ventanaMarcoCuadrada4
+    2301282: ventanaMarcoEstrecha3
+    2301284: ventanaMarcoEstrecha4
+    2301286: VolEntrada
+    2301288: VolExtEsc
+    2301290: VolGimnasio
+    2301292: VolLadEsc
+    2301294: VolTrasero
+    2301296: VolTraseroTerraza
+    2301298: VolVerdeEsc
+    2301300: wc_hombres_cristal
+    2301302: wc_hombres_cristal_abrible
+    2301304: wc_hombres_fregadero
+    2301306: wc_hombres_manilla
+    2301308: wc_hombres_manillaDentro
+    2301310: wc_hombres_manillaFuera
+    2301312: wc_hombres_marcoPuerta
+    2301314: wc_hombres_marcos
+    2301316: wc_hombres_pared
+    2301318: wc_hombres_puerta
+    2301320: wc_hombres_retretes
+    2301322: wc_hombres_ventana_abrible
+    2301324: wc_mujeres_cristal
+    2301326: wc_mujeres_cristal_abrible
+    2301328: wc_mujeres_fregadero
+    2301330: wc_mujeres_manilla
+    2301332: wc_mujeres_manillaDentro
+    2301334: wc_mujeres_manillaFuera
+    2301336: wc_mujeres_marcoPuerta
+    2301338: wc_mujeres_marcos
+    2301340: wc_mujeres_pared
+    2301342: wc_mujeres_puerta
+    2301344: wc_mujeres_retretes
+    2301346: wc_mujeres_ventana_abrible
+    3300000: ascensor
+    3300002: aula303_manilla1
+    3300004: aula303_manilla1_2
+    3300006: aula303_manilla2
+    3300008: aula303_manilla_2_2
+    3300010: aula303_manillaDentro
+    3300012: aula303_manillaFuera
+    3300014: aula303_marcos
+    3300016: aula303_marcos1
+    3300018: aula303_marcos2
+    3300020: aula303_pared
+    3300022: aula303_puerta
+    3300024: aula303_ventana1
+    3300026: aula303_ventana1_2
+    3300028: aula303_ventana1_3
+    3300030: aula303_ventana2
+    3300032: aula303_ventana2_2
+    3300034: aula303_ventana2_3
+    3300036: aula303_ventana_abrible1
+    3300038: aula303_ventana_abrible1_2
+    3300040: aula303_ventana_abrible2
+    3300042: aula303_ventana_abrible2_2
+    3300044: aula304_manilla1
+    3300046: aula304_manilla1_2
+    3300048: aula304_manilla2
+    3300050: aula304_manilla_2_2
+    3300052: aula304_manillaDentro
+    3300054: aula304_manillaFuera
+    3300056: aula304_marcos
+    3300058: aula304_marcos1
+    3300060: aula304_marcos2
+    3300062: aula304_pared
+    3300064: aula304_puerta
+    3300066: aula304_ventana1
+    3300068: aula304_ventana1_2
+    3300070: aula304_ventana1_3
+    3300072: aula304_ventana2
+    3300074: aula304_ventana2_2
+    3300076: aula304_ventana2_3
+    3300078: aula304_ventana_abrible1
+    3300080: aula304_ventana_abrible1_2
+    3300082: aula304_ventana_abrible2
+    3300084: aula304_ventana_abrible2_2
+    3300086: aula305_manilla1
+    3300088: aula305_manilla1_2
+    3300090: aula305_manilla2
+    3300092: aula305_manilla_2_2
+    3300094: aula305_manillaDentro
+    3300096: aula305_manillaFuera
+    3300098: aula305_marcos
+    3300100: aula305_marcos1
+    3300102: aula305_marcos2
+    3300104: aula305_pared
+    3300106: aula305_puerta
+    3300108: aula305_ventana1
+    3300110: aula305_ventana1_2
+    3300112: aula305_ventana1_3
+    3300114: aula305_ventana2
+    3300116: aula305_ventana2_2
+    3300118: aula305_ventana2_3
+    3300120: aula305_ventana_abrible1
+    3300122: aula305_ventana_abrible1_2
+    3300124: aula305_ventana_abrible2
+    3300126: aula305_ventana_abrible2_2
+    3300128: aula306_manilla1
+    3300130: aula306_manilla1_2
+    3300132: aula306_manilla2
+    3300134: aula306_manilla_2_2
+    3300136: aula306_manillaDentro
+    3300138: aula306_manillaFuera
+    3300140: aula306_marcos
+    3300142: aula306_marcos1
+    3300144: aula306_marcos2
+    3300146: aula306_pared
+    3300148: aula306_puerta
+    3300150: aula306_ventana1
+    3300152: aula306_ventana1_2
+    3300154: aula306_ventana1_3
+    3300156: aula306_ventana2
+    3300158: aula306_ventana2_2
+    3300160: aula306_ventana2_3
+    3300162: aula306_ventana_abrible1
+    3300164: aula306_ventana_abrible1_2
+    3300166: aula306_ventana_abrible2
+    3300168: aula306_ventana_abrible2_2
+    3300170: aula307_manilla1
+    3300172: aula307_manilla1_2
+    3300174: aula307_manilla2
+    3300176: aula307_manilla_2_2
+    3300178: aula307_manillaDentro
+    3300180: aula307_manillaFuera
+    3300182: aula307_marcos
+    3300184: aula307_marcos1
+    3300186: aula307_marcos2
+    3300188: aula307_pared
+    3300190: aula307_puerta
+    3300192: aula307_ventana1
+    3300194: aula307_ventana1_2
+    3300196: aula307_ventana1_3
+    3300198: aula307_ventana2
+    3300200: aula307_ventana2_2
+    3300202: aula307_ventana2_3
+    3300204: aula307_ventana_abrible1
+    3300206: aula307_ventana_abrible1_2
+    3300208: aula307_ventana_abrible2
+    3300210: aula307_ventana_abrible2_2
+    3300212: aula308_manilla1
+    3300214: aula308_manilla1_2
+    3300216: aula308_manilla2
+    3300218: aula308_manilla_2_2
+    3300220: aula308_manillaDentro
+    3300222: aula308_manillaFuera
+    3300224: aula308_marcos
+    3300226: aula308_marcos1
+    3300228: aula308_marcos2
+    3300230: aula308_pared
+    3300232: aula308_puerta
+    3300234: aula308_ventana1
+    3300236: aula308_ventana1_2
+    3300238: aula308_ventana1_3
+    3300240: aula308_ventana2
+    3300242: aula308_ventana2_2
+    3300244: aula308_ventana2_3
+    3300246: aula308_ventana_abrible1
+    3300248: aula308_ventana_abrible1_2
+    3300250: aula308_ventana_abrible2
+    3300252: aula308_ventana_abrible2_2
+    3300254: aula309_manilla1
+    3300256: aula309_manilla1_2
+    3300258: aula309_manilla2
+    3300260: aula309_manilla_2_2
+    3300262: aula309_manillaDentro
+    3300264: aula309_manillaFuera
+    3300266: aula309_marcos
+    3300268: aula309_marcos1
+    3300270: aula309_marcos2
+    3300272: aula309_pared
+    3300274: aula309_puerta
+    3300276: aula309_ventana1
+    3300278: aula309_ventana1_2
+    3300280: aula309_ventana1_3
+    3300282: aula309_ventana2
+    3300284: aula309_ventana2_2
+    3300286: aula309_ventana2_3
+    3300288: aula309_ventana_abrible1
+    3300290: aula309_ventana_abrible1_2
+    3300292: aula309_ventana_abrible2
+    3300294: aula309_ventana_abrible2_2
+    3300296: aula310_manilla1
+    3300298: aula310_manilla1_2
+    3300300: aula310_manilla2
+    3300302: aula310_manilla_2_2
+    3300304: aula310_manillaDentro
+    3300306: aula310_manillaFuera
+    3300308: aula310_marcos
+    3300310: aula310_marcos1
+    3300312: aula310_marcos2
+    3300314: aula310_pared
+    3300316: aula310_puerta
+    3300318: aula310_ventana1
+    3300320: aula310_ventana1_2
+    3300322: aula310_ventana1_3
+    3300324: aula310_ventana2
+    3300326: aula310_ventana2_2
+    3300328: aula310_ventana2_3
+    3300330: aula310_ventana_abrible1
+    3300332: aula310_ventana_abrible1_2
+    3300334: aula310_ventana_abrible2
+    3300336: aula310_ventana_abrible2_2
+    3300338: aula311_manilla1
+    3300340: aula311_manilla2
+    3300342: aula311_manillaDentro
+    3300344: aula311_manillaFuera
+    3300346: aula311_marcoPuerta
+    3300348: aula311_marcos1
+    3300350: aula311_marcos2
+    3300352: aula311_pared
+    3300354: aula311_puerta
+    3300356: aula311_ventana1
+    3300358: aula311_ventana2
+    3300360: aula311_ventana_abrible1
+    3300362: aula311_ventana_abrible2
+    3300364: aula312_manilla1
+    3300366: aula312_manilla1_2
+    3300368: aula312_manilla2
+    3300370: aula312_manilla_2_2
+    3300372: aula312_manillaDentro
+    3300374: aula312_manillaFuera
+    3300376: aula312_marcos
+    3300378: aula312_marcos1
+    3300380: aula312_marcos2
+    3300382: aula312_pared
+    3300384: aula312_puerta
+    3300386: aula312_ventana1
+    3300388: aula312_ventana1_2
+    3300390: aula312_ventana1_3
+    3300392: aula312_ventana2
+    3300394: aula312_ventana2_2
+    3300396: aula312_ventana2_3
+    3300398: aula312_ventana_abrible1
+    3300400: aula312_ventana_abrible1_2
+    3300402: aula312_ventana_abrible2
+    3300404: aula312_ventana_abrible2_2
+    3300406: aula313_manilla1
+    3300408: aula313_manilla1_2
+    3300410: aula313_manilla2
+    3300412: aula313_manilla_2_2
+    3300414: aula313_manillaDentro
+    3300416: aula313_manillaFuera
+    3300418: aula313_marcos
+    3300420: aula313_marcos1
+    3300422: aula313_marcos2
+    3300424: aula313_pared
+    3300426: aula313_puerta
+    3300428: aula313_ventana1
+    3300430: aula313_ventana1_2
+    3300432: aula313_ventana1_3
+    3300434: aula313_ventana2
+    3300436: aula313_ventana2_2
+    3300438: aula313_ventana2_3
+    3300440: aula313_ventana_abrible1
+    3300442: aula313_ventana_abrible1_2
+    3300444: aula313_ventana_abrible2
+    3300446: aula313_ventana_abrible2_2
+    3300448: aula314_manilla1
+    3300450: aula314_manilla1_2
+    3300452: aula314_manilla2
+    3300454: aula314_manilla_2_2
+    3300456: aula314_manillaDentro
+    3300458: aula314_manillaFuera
+    3300460: aula314_marcos
+    3300462: aula314_marcos1
+    3300464: aula314_marcos2
+    3300466: aula314_pared
+    3300468: aula314_puerta
+    3300470: aula314_ventana1
+    3300472: aula314_ventana1_2
+    3300474: aula314_ventana1_3
+    3300476: aula314_ventana2
+    3300478: aula314_ventana2_2
+    3300480: aula314_ventana2_3
+    3300482: aula314_ventana_abrible1
+    3300484: aula314_ventana_abrible1_2
+    3300486: aula314_ventana_abrible2
+    3300488: aula314_ventana_abrible2_2
+    3300490: aula315_manilla1
+    3300492: aula315_manilla1_2
+    3300494: aula315_manilla2
+    3300496: aula315_manilla_2_2
+    3300498: aula315_manillaDentro
+    3300500: aula315_manillaFuera
+    3300502: aula315_marcos
+    3300504: aula315_marcos1
+    3300506: aula315_marcos2
+    3300508: aula315_pared
+    3300510: aula315_puerta
+    3300512: aula315_ventana1
+    3300514: aula315_ventana1_2
+    3300516: aula315_ventana1_3
+    3300518: aula315_ventana2
+    3300520: aula315_ventana2_2
+    3300522: aula315_ventana2_3
+    3300524: aula315_ventana_abrible1
+    3300526: aula315_ventana_abrible1_2
+    3300528: aula315_ventana_abrible2
+    3300530: aula315_ventana_abrible2_2
+    3300532: aula316_manilla1
+    3300534: aula316_manilla1_2
+    3300536: aula316_manilla2
+    3300538: aula316_manilla_2_2
+    3300540: aula316_manillaDentro
+    3300542: aula316_manillaFuera
+    3300544: aula316_marcos
+    3300546: aula316_marcos1
+    3300548: aula316_marcos2
+    3300550: aula316_pared
+    3300552: aula316_puerta
+    3300554: aula316_ventana1
+    3300556: aula316_ventana1_2
+    3300558: aula316_ventana1_3
+    3300560: aula316_ventana2
+    3300562: aula316_ventana2_2
+    3300564: aula316_ventana2_3
+    3300566: aula316_ventana_abrible1
+    3300568: aula316_ventana_abrible1_2
+    3300570: aula316_ventana_abrible2
+    3300572: aula316_ventana_abrible2_2
+    3300574: aula317_manilla1
+    3300576: aula317_manilla1_2
+    3300578: aula317_manilla2
+    3300580: aula317_manilla_2_2
+    3300582: aula317_manillaDentro
+    3300584: aula317_manillaFuera
+    3300586: aula317_marcos
+    3300588: aula317_marcos1
+    3300590: aula317_marcos2
+    3300592: aula317_pared
+    3300594: aula317_puerta
+    3300596: aula317_ventana1
+    3300598: aula317_ventana1_2
+    3300600: aula317_ventana1_3
+    3300602: aula317_ventana2
+    3300604: aula317_ventana2_2
+    3300606: aula317_ventana2_3
+    3300608: aula317_ventana_abrible1
+    3300610: aula317_ventana_abrible1_2
+    3300612: aula317_ventana_abrible2
+    3300614: aula317_ventana_abrible2_2
+    3300616: aula318_manilla1
+    3300618: aula318_manilla1_2
+    3300620: aula318_manilla2
+    3300622: aula318_manilla_2_2
+    3300624: aula318_manillaDentro
+    3300626: aula318_manillaFuera
+    3300628: aula318_marcos
+    3300630: aula318_marcos1
+    3300632: aula318_marcos2
+    3300634: aula318_pared
+    3300636: aula318_puerta
+    3300638: aula318_ventana1
+    3300640: aula318_ventana1_2
+    3300642: aula318_ventana1_3
+    3300644: aula318_ventana2
+    3300646: aula318_ventana2_2
+    3300648: aula318_ventana2_3
+    3300650: aula318_ventana_abrible1
+    3300652: aula318_ventana_abrible1_2
+    3300654: aula318_ventana_abrible2
+    3300656: aula318_ventana_abrible2_2
+    3300658: aula319_manilla1
+    3300660: aula319_manilla1_2
+    3300662: aula319_manilla2
+    3300664: aula319_manilla_2_2
+    3300666: aula319_manillaDentro
+    3300668: aula319_manillaFuera
+    3300670: aula319_marcos
+    3300672: aula319_marcos1
+    3300674: aula319_marcos2
+    3300676: aula319_pared
+    3300678: aula319_puerta
+    3300680: aula319_ventana1
+    3300682: aula319_ventana1_2
+    3300684: aula319_ventana1_3
+    3300686: aula319_ventana2
+    3300688: aula319_ventana2_2
+    3300690: aula319_ventana2_3
+    3300692: aula319_ventana_abrible1
+    3300694: aula319_ventana_abrible1_2
+    3300696: aula319_ventana_abrible2
+    3300698: aula319_ventana_abrible2_2
+    3300700: aula320_manilla1
+    3300702: aula320_manilla1_2
+    3300704: aula320_manilla2
+    3300706: aula320_manilla3
+    3300708: aula320_manilla4
+    3300710: aula320_manilla_2_2
+    3300712: aula320_manilla_3_2
+    3300714: aula320_manilla_4_2
+    3300716: aula320_manillaDentro
+    3300718: aula320_manillaDentro2
+    3300720: aula320_manillaFuera
+    3300722: aula320_manillaFuera2
+    3300724: aula320_marcos
+    3300726: aula320_marcos1
+    3300728: aula320_marcos2
+    3300730: aula320_marcos3
+    3300732: aula320_marcos4
+    3300734: aula320_pared
+    3300736: aula320_puerta
+    3300738: aula320_puerta2
+    3300740: aula320_ventana1
+    3300742: aula320_ventana1_2
+    3300744: aula320_ventana1_3
+    3300746: aula320_ventana2
+    3300748: aula320_ventana2_2
+    3300750: aula320_ventana2_3
+    3300752: aula320_ventana3
+    3300754: aula320_ventana3_2
+    3300756: aula320_ventana3_3
+    3300758: aula320_ventana4
+    3300760: aula320_ventana4_2
+    3300762: aula320_ventana4_3
+    3300764: aula320_ventana_abrible1
+    3300766: aula320_ventana_abrible1_2
+    3300768: aula320_ventana_abrible2
+    3300770: aula320_ventana_abrible2_2
+    3300772: aula320_ventana_abrible3
+    3300774: aula320_ventana_abrible3_2
+    3300776: aula320_ventana_abrible4
+    3300778: aula320_ventana_abrible4_2
+    3300780: aula321_manilla1
+    3300782: aula321_manilla1_2
+    3300784: aula321_manilla2
+    3300786: aula321_manilla3
+    3300788: aula321_manilla4
+    3300790: aula321_manilla_2_2
+    3300792: aula321_manilla_3_2
+    3300794: aula321_manilla_4_2
+    3300796: aula321_manillaDentro
+    3300798: aula321_manillaDentro2
+    3300800: aula321_manillaFuera
+    3300802: aula321_manillaFuera2
+    3300804: aula321_marcos
+    3300806: aula321_marcos1
+    3300808: aula321_marcos2
+    3300810: aula321_marcos3
+    3300812: aula321_marcos4
+    3300814: aula321_pared
+    3300816: aula321_puerta
+    3300818: aula321_puerta2
+    3300820: aula321_ventana1
+    3300822: aula321_ventana1_2
+    3300824: aula321_ventana1_3
+    3300826: aula321_ventana2
+    3300828: aula321_ventana2_2
+    3300830: aula321_ventana2_3
+    3300832: aula321_ventana3
+    3300834: aula321_ventana3_2
+    3300836: aula321_ventana3_3
+    3300838: aula321_ventana4
+    3300840: aula321_ventana4_2
+    3300842: aula321_ventana4_3
+    3300844: aula321_ventana_abrible1
+    3300846: aula321_ventana_abrible1_2
+    3300848: aula321_ventana_abrible2
+    3300850: aula321_ventana_abrible2_2
+    3300852: aula321_ventana_abrible3
+    3300854: aula321_ventana_abrible3_2
+    3300856: aula321_ventana_abrible4
+    3300858: aula321_ventana_abrible4_2
+    3300860: columna_planta_3
+    3300862: columna_planta_4
+    3300864: columna_planta_5
+    3300866: envolventeP3
+    3300868: escalerasExteriores
+    3300870: escalerilla_teatro
+    3300872: escenario_teatro
+    3300874: escExt_T3
+    3300876: huecoEscalerasExteriores
+    3300878: objetos_de_pasillo
+    3300880: paredes_alimentacion
+    3300882: paredes_electronica
+    3300884: paredes_escalera_este
+    3300886: paredes_escaleras_oeste
+    3300888: paredes_planta_1
+    3300890: paredes_planta_3
+    3300892: paredes_planta_baja
+    3300894: paredes_teatro
+    3300896: paredTrasera
+    3300898: pasamanos_este
+    3300900: pasamanos_oeste
+    3300902: pasillo_310
+    3300904: pasillo_311
+    3300906: pasillo_312_309
+    3300908: pasillo_313_308
+    3300910: pasillo_314_307
+    3300912: pasillo_315_306
+    3300914: pasillo_316_305
+    3300916: pasillo_317_304
+    3300918: pasillo_318_303
+    3300920: pasillo_319
+    3300922: pasillo_320_321
+    3300924: pasillo_320_321_2
+    3300926: pasillo_wc
+    3300928: pasted__cristal
+    3300930: pasted__cristal 1
+    3300932: pasted__cristal 10
+    3300934: pasted__cristal 11
+    3300936: pasted__cristal 12
+    3300938: pasted__cristal 13
+    3300940: pasted__cristal 14
+    3300942: pasted__cristal 15
+    3300944: pasted__cristal 16
+    3300946: pasted__cristal 2
+    3300948: pasted__cristal 3
+    3300950: pasted__cristal 4
+    3300952: pasted__cristal 5
+    3300954: pasted__cristal 6
+    3300956: pasted__cristal 7
+    3300958: pasted__cristal 8
+    3300960: pasted__cristal 9
+    3300962: pasted__cristal1
+    3300964: pasted__cristal1 1
+    3300966: pasted__cristal1 10
+    3300968: pasted__cristal1 11
+    3300970: pasted__cristal1 12
+    3300972: pasted__cristal1 13
+    3300974: pasted__cristal1 14
+    3300976: pasted__cristal1 15
+    3300978: pasted__cristal1 16
+    3300980: pasted__cristal1 2
+    3300982: pasted__cristal1 3
+    3300984: pasted__cristal1 4
+    3300986: pasted__cristal1 5
+    3300988: pasted__cristal1 6
+    3300990: pasted__cristal1 7
+    3300992: pasted__cristal1 8
+    3300994: pasted__cristal1 9
+    3300996: pasted__cristal2
+    3300998: pasted__cristal2 1
+    3301000: pasted__cristal2 10
+    3301002: pasted__cristal2 11
+    3301004: pasted__cristal2 12
+    3301006: pasted__cristal2 13
+    3301008: pasted__cristal2 14
+    3301010: pasted__cristal2 15
+    3301012: pasted__cristal2 16
+    3301014: pasted__cristal2 2
+    3301016: pasted__cristal2 3
+    3301018: pasted__cristal2 4
+    3301020: pasted__cristal2 5
+    3301022: pasted__cristal2 6
+    3301024: pasted__cristal2 7
+    3301026: pasted__cristal2 8
+    3301028: pasted__cristal2 9
+    3301030: pasted__manilla
+    3301032: pasted__manilla 1
+    3301034: pasted__manilla 10
+    3301036: pasted__manilla 11
+    3301038: pasted__manilla 12
+    3301040: pasted__manilla 13
+    3301042: pasted__manilla 14
+    3301044: pasted__manilla 15
+    3301046: pasted__manilla 16
+    3301048: pasted__manilla 17
+    3301050: pasted__manilla 18
+    3301052: pasted__manilla 19
+    3301054: pasted__manilla 2
+    3301056: pasted__manilla 20
+    3301058: pasted__manilla 21
+    3301060: pasted__manilla 22
+    3301062: pasted__manilla 23
+    3301064: pasted__manilla 24
+    3301066: pasted__manilla 25
+    3301068: pasted__manilla 26
+    3301070: pasted__manilla 27
+    3301072: pasted__manilla 28
+    3301074: pasted__manilla 29
+    3301076: pasted__manilla 3
+    3301078: pasted__manilla 30
+    3301080: pasted__manilla 31
+    3301082: pasted__manilla 32
+    3301084: pasted__manilla 33
+    3301086: pasted__manilla 4
+    3301088: pasted__manilla 5
+    3301090: pasted__manilla 6
+    3301092: pasted__manilla 7
+    3301094: pasted__manilla 8
+    3301096: pasted__manilla 9
+    3301098: pasted__manilla2
+    3301100: pasted__manilla2 1
+    3301102: pasted__manilla2 2
+    3301104: pasted__manilla2 3
+    3301106: pasted__manilla2 4
+    3301108: pasted__ventana
+    3301110: pasted__ventana 1
+    3301112: pasted__ventana 10
+    3301114: pasted__ventana 11
+    3301116: pasted__ventana 12
+    3301118: pasted__ventana 13
+    3301120: pasted__ventana 14
+    3301122: pasted__ventana 15
+    3301124: pasted__ventana 16
+    3301126: pasted__ventana 2
+    3301128: pasted__ventana 3
+    3301130: pasted__ventana 4
+    3301132: pasted__ventana 5
+    3301134: pasted__ventana 6
+    3301136: pasted__ventana 7
+    3301138: pasted__ventana 8
+    3301140: pasted__ventana 9
+    3301142: pasted__ventana1
+    3301144: pasted__ventana1 1
+    3301146: pasted__ventana1 10
+    3301148: pasted__ventana1 11
+    3301150: pasted__ventana1 12
+    3301152: pasted__ventana1 13
+    3301154: pasted__ventana1 14
+    3301156: pasted__ventana1 15
+    3301158: pasted__ventana1 16
+    3301160: pasted__ventana1 2
+    3301162: pasted__ventana1 3
+    3301164: pasted__ventana1 4
+    3301166: pasted__ventana1 5
+    3301168: pasted__ventana1 6
+    3301170: pasted__ventana1 7
+    3301172: pasted__ventana1 8
+    3301174: pasted__ventana1 9
+    3301176: pasted__ventana2
+    3301178: pasted__ventana2 1
+    3301180: pasted__ventana2 2
+    3301182: pasted__ventana2 3
+    3301184: pasted__ventana2 4
+    3301186: pasted__ventana2 5
+    3301188: pasted__ventana2 6
+    3301190: pasted__ventana3
+    3301192: pasted__ventana3 1
+    3301194: pasted__ventana3 2
+    3301196: pasted__ventana3 3
+    3301198: pasted__ventana3 4
+    3301200: pasted__ventanaMarco14
+    3301202: pasted__ventanaMarco15
+    3301204: pasted__ventanaMarco16
+    3301206: pasted__ventanaMarco17
+    3301208: pasted__ventanaMarco18
+    3301210: pasted__ventanaMarco19
+    3301212: pasted__ventanaMarco20
+    3301214: pasted__ventanaMarco21
+    3301216: pasted__ventanaMarco22
+    3301218: pasted__ventanaMarco23
+    3301220: pasted__ventanaMarco24
+    3301222: pasted__ventanaMarco25
+    3301224: pasted__ventanaMarco26
+    3301226: pasted__ventanaMarco27
+    3301228: pasted__ventanaMarco28
+    3301230: pasted__ventanaMarco29
+    3301232: pasted__ventanaMarco30
+    3301234: pilares
+    3301236: pilarEscaleras1
+    3301238: pilarEscaleras2
+    3301240: puertaExteriorGranate
+    3301242: puertaFinPasillo
+    3301244: suelo_escaleras_este
+    3301246: suelo_escaleras_oeste
+    3301248: suelo_planta_1
+    3301250: suelo_planta_2
+    3301252: suelo_planta_3
+    3301254: suelo_Planta_baja
+    3301256: techo_alimentacion
+    3301258: techo_electronica
+    3301260: techo_planta_1
+    3301262: techo_planta_2
+    3301264: techo_planta_3
+    3301266: techo_planta_baja
+    3301268: techo_teatro
+    3301270: techoExterior
+    3301272: ventanaMarcoCuadrada
+    3301274: ventanaMarcoCuadrada1
+    3301276: ventanaMarcoCuadrada2
+    3301278: ventanaMarcoCuadrada3
+    3301280: ventanaMarcoCuadrada4
+    3301282: ventanaMarcoEstrecha3
+    3301284: ventanaMarcoEstrecha4
+    3301286: VolEntrada
+    3301288: VolExtEsc
+    3301290: VolGimnasio
+    3301292: VolLadEsc
+    3301294: VolTrasero
+    3301296: VolTraseroTerraza
+    3301298: VolVerdeEsc
+    3301300: wc_hombres_cristal
+    3301302: wc_hombres_cristal_abrible
+    3301304: wc_hombres_fregadero
+    3301306: wc_hombres_manilla
+    3301308: wc_hombres_manillaDentro
+    3301310: wc_hombres_manillaFuera
+    3301312: wc_hombres_marcoPuerta
+    3301314: wc_hombres_marcos
+    3301316: wc_hombres_pared
+    3301318: wc_hombres_puerta
+    3301320: wc_hombres_retretes
+    3301322: wc_hombres_ventana_abrible
+    3301324: wc_mujeres_cristal
+    3301326: wc_mujeres_cristal_abrible
+    3301328: wc_mujeres_fregadero
+    3301330: wc_mujeres_manilla
+    3301332: wc_mujeres_manillaDentro
+    3301334: wc_mujeres_manillaFuera
+    3301336: wc_mujeres_marcoPuerta
+    3301338: wc_mujeres_marcos
+    3301340: wc_mujeres_pared
+    3301342: wc_mujeres_puerta
+    3301344: wc_mujeres_retretes
+    3301346: wc_mujeres_ventana_abrible
+    4300000: pasted__ventanaMarco14
+    4300002: pasted__ventana
+    4300004: pasted__manilla
+    4300006: pasted__ventana1
+    4300008: pasted__manilla
+    4300010: pasted__cristal
+    4300012: pasted__cristal1
+    4300014: pasted__cristal2
+    4300016: ventanaMarcoCuadrada
+    4300018: pasted__ventana2
+    4300020: pasted__manilla2
+    4300022: pasted__ventana3
+    4300024: pasted__ventanaMarco15
+    4300026: pasted__ventana
+    4300028: pasted__manilla
+    4300030: pasted__ventana1
+    4300032: pasted__manilla
+    4300034: pasted__cristal
+    4300036: pasted__cristal1
+    4300038: pasted__cristal2
+    4300040: pasted__ventanaMarco16
+    4300042: pasted__ventana
+    4300044: pasted__manilla
+    4300046: pasted__ventana1
+    4300048: pasted__manilla
+    4300050: pasted__cristal
+    4300052: pasted__cristal1
+    4300054: pasted__cristal2
+    4300056: pasted__ventanaMarco17
+    4300058: pasted__ventana
+    4300060: pasted__manilla
+    4300062: pasted__ventana1
+    4300064: pasted__manilla
+    4300066: pasted__cristal
+    4300068: pasted__cristal1
+    4300070: pasted__cristal2
+    4300072: pasted__ventanaMarco18
+    4300074: pasted__ventana
+    4300076: pasted__manilla
+    4300078: pasted__ventana1
+    4300080: pasted__manilla
+    4300082: pasted__cristal
+    4300084: pasted__cristal1
+    4300086: pasted__cristal2
+    4300088: pasted__ventanaMarco19
+    4300090: pasted__ventana
+    4300092: pasted__manilla
+    4300094: pasted__ventana1
+    4300096: pasted__manilla
+    4300098: pasted__cristal
+    4300100: pasted__cristal1
+    4300102: pasted__cristal2
+    4300104: huecoEscalerasExteriores
+    4300106: escalerasExteriores
+    4300108: pilarEscaleras2
+    4300110: pilarEscaleras1
+    4300112: puertaFinPasillo
+    4300114: ascensor
+    4300116: pasted__ventanaMarco20
+    4300118: pasted__ventana
+    4300120: pasted__manilla
+    4300122: pasted__ventana1
+    4300124: pasted__manilla
+    4300126: pasted__cristal
+    4300128: pasted__cristal1
+    4300130: pasted__cristal2
+    4300132: puertaExteriorGranate
+    4300134: pasted__ventanaMarco21
+    4300136: pasted__ventana
+    4300138: pasted__manilla
+    4300140: pasted__ventana1
+    4300142: pasted__manilla
+    4300144: pasted__cristal
+    4300146: pasted__cristal1
+    4300148: pasted__cristal2
+    4300150: pasted__ventanaMarco22
+    4300152: pasted__ventana
+    4300154: pasted__manilla
+    4300156: pasted__ventana1
+    4300158: pasted__manilla
+    4300160: pasted__cristal
+    4300162: pasted__cristal1
+    4300164: pasted__cristal2
+    4300166: pasted__ventanaMarco23
+    4300168: pasted__ventana
+    4300170: pasted__manilla
+    4300172: pasted__ventana1
+    4300174: pasted__manilla
+    4300176: pasted__cristal
+    4300178: pasted__cristal1
+    4300180: pasted__cristal2
+    4300182: pasted__ventanaMarco24
+    4300184: pasted__ventana
+    4300186: pasted__manilla
+    4300188: pasted__ventana1
+    4300190: pasted__manilla
+    4300192: pasted__cristal
+    4300194: pasted__cristal1
+    4300196: pasted__cristal2
+    4300198: pasted__ventanaMarco25
+    4300200: pasted__ventana
+    4300202: pasted__manilla
+    4300204: pasted__ventana1
+    4300206: pasted__manilla
+    4300208: pasted__cristal
+    4300210: pasted__cristal1
+    4300212: pasted__cristal2
+    4300214: pasted__ventanaMarco26
+    4300216: pasted__ventana
+    4300218: pasted__manilla
+    4300220: pasted__ventana1
+    4300222: pasted__manilla
+    4300224: pasted__cristal
+    4300226: pasted__cristal1
+    4300228: pasted__cristal2
+    4300230: pasted__ventanaMarco27
+    4300232: pasted__ventana
+    4300234: pasted__manilla
+    4300236: pasted__ventana1
+    4300238: pasted__manilla
+    4300240: pasted__cristal
+    4300242: pasted__cristal1
+    4300244: pasted__cristal2
+    4300246: ventanaMarcoCuadrada1
+    4300248: pasted__ventana2
+    4300250: pasted__manilla2
+    4300252: pasted__ventana3
+    4300254: ventanaMarcoCuadrada2
+    4300256: pasted__ventana2
+    4300258: pasted__manilla2
+    4300260: pasted__ventana3
+    4300262: ventanaMarcoEstrecha3
+    4300264: pasted__ventana2
+    4300266: ventanaMarcoCuadrada3
+    4300268: pasted__ventana2
+    4300270: pasted__manilla2
+    4300272: pasted__ventana3
+    4300274: ventanaMarcoEstrecha4
+    4300276: pasted__ventana2
+    4300278: pasted__ventanaMarco28
+    4300280: pasted__ventana
+    4300282: pasted__manilla
+    4300284: pasted__ventana1
+    4300286: pasted__manilla
+    4300288: pasted__cristal
+    4300290: pasted__cristal1
+    4300292: pasted__cristal2
+    4300294: pasted__ventanaMarco29
+    4300296: pasted__ventana
+    4300298: pasted__manilla
+    4300300: pasted__ventana1
+    4300302: pasted__manilla
+    4300304: pasted__cristal
+    4300306: pasted__cristal1
+    4300308: pasted__cristal2
+    4300310: pasted__ventanaMarco30
+    4300312: pasted__ventana
+    4300314: pasted__manilla
+    4300316: pasted__ventana1
+    4300318: pasted__manilla
+    4300320: pasted__cristal
+    4300322: pasted__cristal1
+    4300324: pasted__cristal2
+    4300326: ventanaMarcoCuadrada4
+    4300328: pasted__ventana2
+    4300330: pasted__manilla2
+    4300332: pasted__ventana3
+    4300334: techoExterior
+    4300336: aula310_marcos1
+    4300338: aula310_ventana_abrible1
+    4300340: aula310_manilla1
+    4300342: aula310_ventana_abrible1_2
+    4300344: aula310_manilla1_2
+    4300346: aula310_ventana1
+    4300348: aula310_ventana1_2
+    4300350: aula310_ventana1_3
+    4300352: aula310_marcos2
+    4300354: aula310_ventana_abrible2
+    4300356: aula310_manilla2
+    4300358: aula310_ventana_abrible2_2
+    4300360: aula310_manilla_2_2
+    4300362: aula310_ventana2
+    4300364: aula310_ventana2_2
+    4300366: aula310_ventana2_3
+    4300368: aula309_marcos1
+    4300370: aula309_ventana_abrible1
+    4300372: aula309_manilla1
+    4300374: aula309_ventana_abrible1_2
+    4300376: aula309_manilla1_2
+    4300378: aula309_ventana1
+    4300380: aula309_ventana1_2
+    4300382: aula309_ventana1_3
+    4300384: aula309_marcos2
+    4300386: aula309_ventana_abrible2
+    4300388: aula309_manilla2
+    4300390: aula309_ventana_abrible2_2
+    4300392: aula309_manilla_2_2
+    4300394: aula309_ventana2
+    4300396: aula309_ventana2_2
+    4300398: aula309_ventana2_3
+    4300400: aula308_marcos1
+    4300402: aula308_ventana_abrible1
+    4300404: aula308_manilla1
+    4300406: aula308_ventana_abrible1_2
+    4300408: aula308_manilla1_2
+    4300410: aula308_ventana1
+    4300412: aula308_ventana1_2
+    4300414: aula308_ventana1_3
+    4300416: aula308_marcos2
+    4300418: aula308_ventana_abrible2
+    4300420: aula308_manilla2
+    4300422: aula308_ventana_abrible2_2
+    4300424: aula308_manilla_2_2
+    4300426: aula308_ventana2
+    4300428: aula308_ventana2_2
+    4300430: aula308_ventana2_3
+    4300432: aula307_marcos1
+    4300434: aula307_ventana_abrible1
+    4300436: aula307_manilla1
+    4300438: aula307_ventana_abrible1_2
+    4300440: aula307_manilla1_2
+    4300442: aula307_ventana1
+    4300444: aula307_ventana1_2
+    4300446: aula307_ventana1_3
+    4300448: aula307_marcos2
+    4300450: aula307_ventana_abrible2
+    4300452: aula307_manilla2
+    4300454: aula307_ventana_abrible2_2
+    4300456: aula307_manilla_2_2
+    4300458: aula307_ventana2
+    4300460: aula307_ventana2_2
+    4300462: aula307_ventana2_3
+    4300464: aula306_marcos1
+    4300466: aula306_ventana_abrible1
+    4300468: aula306_manilla1
+    4300470: aula306_ventana_abrible1_2
+    4300472: aula306_manilla1_2
+    4300474: aula306_ventana1
+    4300476: aula306_ventana1_2
+    4300478: aula306_ventana1_3
+    4300480: aula306_marcos2
+    4300482: aula306_ventana_abrible2
+    4300484: aula306_manilla2
+    4300486: aula306_ventana_abrible2_2
+    4300488: aula306_manilla_2_2
+    4300490: aula306_ventana2
+    4300492: aula306_ventana2_2
+    4300494: aula306_ventana2_3
+    4300496: aula305_marcos1
+    4300498: aula305_ventana_abrible1
+    4300500: aula305_manilla1
+    4300502: aula305_ventana_abrible1_2
+    4300504: aula305_manilla1_2
+    4300506: aula305_ventana1
+    4300508: aula305_ventana1_2
+    4300510: aula305_ventana1_3
+    4300512: aula305_marcos2
+    4300514: aula305_ventana_abrible2
+    4300516: aula305_manilla2
+    4300518: aula305_ventana_abrible2_2
+    4300520: aula305_manilla_2_2
+    4300522: aula305_ventana2
+    4300524: aula305_ventana2_2
+    4300526: aula305_ventana2_3
+    4300528: aula304_marcos1
+    4300530: aula304_ventana_abrible1
+    4300532: aula304_manilla1
+    4300534: aula304_ventana_abrible1_2
+    4300536: aula304_manilla1_2
+    4300538: aula304_ventana1
+    4300540: aula304_ventana1_2
+    4300542: aula304_ventana1_3
+    4300544: aula304_marcos2
+    4300546: aula304_ventana_abrible2
+    4300548: aula304_manilla2
+    4300550: aula304_ventana_abrible2_2
+    4300552: aula304_manilla_2_2
+    4300554: aula304_ventana2
+    4300556: aula304_ventana2_2
+    4300558: aula304_ventana2_3
+    4300560: aula303_marcos1
+    4300562: aula303_ventana_abrible1
+    4300564: aula303_manilla1
+    4300566: aula303_ventana_abrible1_2
+    4300568: aula303_manilla1_2
+    4300570: aula303_ventana1
+    4300572: aula303_ventana1_2
+    4300574: aula303_ventana1_3
+    4300576: aula303_marcos2
+    4300578: aula303_ventana_abrible2
+    4300580: aula303_manilla2
+    4300582: aula303_ventana_abrible2_2
+    4300584: aula303_manilla_2_2
+    4300586: aula303_ventana2
+    4300588: aula303_ventana2_2
+    4300590: aula303_ventana2_3
+    4300592: wc_hombres_marcos
+    4300594: wc_hombres_ventana_abrible
+    4300596: wc_hombres_cristal_abrible
+    4300598: wc_hombres_manilla
+    4300600: wc_hombres_cristal
+    4300602: wc_mujeres_marcos
+    4300604: wc_mujeres_ventana_abrible
+    4300606: wc_mujeres_cristal_abrible
+    4300608: wc_mujeres_manilla
+    4300610: wc_mujeres_cristal
+    4300612: aula321_marcos1
+    4300614: aula321_ventana_abrible1
+    4300616: aula321_manilla1
+    4300618: aula321_ventana_abrible1_2
+    4300620: aula321_manilla1_2
+    4300622: aula321_ventana1
+    4300624: aula321_ventana1_2
+    4300626: aula321_ventana1_3
+    4300628: aula321_marcos2
+    4300630: aula321_ventana_abrible2
+    4300632: aula321_manilla2
+    4300634: aula321_ventana_abrible2_2
+    4300636: aula321_manilla_2_2
+    4300638: aula321_ventana2
+    4300640: aula321_ventana2_2
+    4300642: aula321_ventana2_3
+    4300644: aula321_marcos3
+    4300646: aula321_ventana_abrible3
+    4300648: aula321_manilla3
+    4300650: aula321_ventana_abrible3_2
+    4300652: aula321_manilla_3_2
+    4300654: aula321_ventana3
+    4300656: aula321_ventana3_2
+    4300658: aula321_ventana3_3
+    4300660: aula321_marcos4
+    4300662: aula321_ventana_abrible4
+    4300664: aula321_manilla4
+    4300666: aula321_ventana_abrible4_2
+    4300668: aula321_manilla_4_2
+    4300670: aula321_ventana4
+    4300672: aula321_ventana4_2
+    4300674: aula321_ventana4_3
+    4300676: aula311_marcos1
+    4300678: aula311_ventana_abrible1
+    4300680: aula311_manilla1
+    4300682: aula311_ventana1
+    4300684: aula311_marcos2
+    4300686: aula311_ventana_abrible2
+    4300688: aula311_manilla2
+    4300690: aula311_ventana2
+    4300692: aula312_marcos1
+    4300694: aula312_ventana_abrible1
+    4300696: aula312_manilla1
+    4300698: aula312_ventana_abrible1_2
+    4300700: aula312_manilla1_2
+    4300702: aula312_ventana1
+    4300704: aula312_ventana1_2
+    4300706: aula312_ventana1_3
+    4300708: aula312_marcos2
+    4300710: aula312_ventana_abrible2
+    4300712: aula312_manilla2
+    4300714: aula312_ventana_abrible2_2
+    4300716: aula312_manilla_2_2
+    4300718: aula312_ventana2
+    4300720: aula312_ventana2_2
+    4300722: aula312_ventana2_3
+    4300724: aula313_marcos1
+    4300726: aula313_ventana_abrible1
+    4300728: aula313_manilla1
+    4300730: aula313_ventana_abrible1_2
+    4300732: aula313_manilla1_2
+    4300734: aula313_ventana1
+    4300736: aula313_ventana1_2
+    4300738: aula313_ventana1_3
+    4300740: aula313_marcos2
+    4300742: aula313_ventana_abrible2
+    4300744: aula313_manilla2
+    4300746: aula313_ventana_abrible2_2
+    4300748: aula313_manilla_2_2
+    4300750: aula313_ventana2
+    4300752: aula313_ventana2_2
+    4300754: aula313_ventana2_3
+    4300756: aula314_marcos1
+    4300758: aula314_ventana_abrible1
+    4300760: aula314_manilla1
+    4300762: aula314_ventana_abrible1_2
+    4300764: aula314_manilla1_2
+    4300766: aula314_ventana1
+    4300768: aula314_ventana1_2
+    4300770: aula314_ventana1_3
+    4300772: aula314_marcos2
+    4300774: aula314_ventana_abrible2
+    4300776: aula314_manilla2
+    4300778: aula314_ventana_abrible2_2
+    4300780: aula314_manilla_2_2
+    4300782: aula314_ventana2
+    4300784: aula314_ventana2_2
+    4300786: aula314_ventana2_3
+    4300788: aula315_marcos1
+    4300790: aula315_ventana_abrible1
+    4300792: aula315_manilla1
+    4300794: aula315_ventana_abrible1_2
+    4300796: aula315_manilla1_2
+    4300798: aula315_ventana1
+    4300800: aula315_ventana1_2
+    4300802: aula315_ventana1_3
+    4300804: aula315_marcos2
+    4300806: aula315_ventana_abrible2
+    4300808: aula315_manilla2
+    4300810: aula315_ventana_abrible2_2
+    4300812: aula315_manilla_2_2
+    4300814: aula315_ventana2
+    4300816: aula315_ventana2_2
+    4300818: aula315_ventana2_3
+    4300820: aula316_marcos1
+    4300822: aula316_ventana_abrible1
+    4300824: aula316_manilla1
+    4300826: aula316_ventana_abrible1_2
+    4300828: aula316_manilla1_2
+    4300830: aula316_ventana1
+    4300832: aula316_ventana1_2
+    4300834: aula316_ventana1_3
+    4300836: aula316_marcos2
+    4300838: aula316_ventana_abrible2
+    4300840: aula316_manilla2
+    4300842: aula316_ventana_abrible2_2
+    4300844: aula316_manilla_2_2
+    4300846: aula316_ventana2
+    4300848: aula316_ventana2_2
+    4300850: aula316_ventana2_3
+    4300852: aula317_marcos1
+    4300854: aula317_ventana_abrible1
+    4300856: aula317_manilla1
+    4300858: aula317_ventana_abrible1_2
+    4300860: aula317_manilla1_2
+    4300862: aula317_ventana1
+    4300864: aula317_ventana1_2
+    4300866: aula317_ventana1_3
+    4300868: aula317_marcos2
+    4300870: aula317_ventana_abrible2
+    4300872: aula317_manilla2
+    4300874: aula317_ventana_abrible2_2
+    4300876: aula317_manilla_2_2
+    4300878: aula317_ventana2
+    4300880: aula317_ventana2_2
+    4300882: aula317_ventana2_3
+    4300884: aula318_marcos1
+    4300886: aula318_ventana_abrible1
+    4300888: aula318_manilla1
+    4300890: aula318_ventana_abrible1_2
+    4300892: aula318_manilla1_2
+    4300894: aula318_ventana1
+    4300896: aula318_ventana1_2
+    4300898: aula318_ventana1_3
+    4300900: aula318_marcos2
+    4300902: aula318_ventana_abrible2
+    4300904: aula318_manilla2
+    4300906: aula318_ventana_abrible2_2
+    4300908: aula318_manilla_2_2
+    4300910: aula318_ventana2
+    4300912: aula318_ventana2_2
+    4300914: aula318_ventana2_3
+    4300916: aula319_marcos1
+    4300918: aula319_ventana_abrible1
+    4300920: aula319_manilla1
+    4300922: aula319_ventana_abrible1_2
+    4300924: aula319_manilla1_2
+    4300926: aula319_ventana1
+    4300928: aula319_ventana1_2
+    4300930: aula319_ventana1_3
+    4300932: aula319_marcos2
+    4300934: aula319_ventana_abrible2
+    4300936: aula319_manilla2
+    4300938: aula319_ventana_abrible2_2
+    4300940: aula319_manilla_2_2
+    4300942: aula319_ventana2
+    4300944: aula319_ventana2_2
+    4300946: aula319_ventana2_3
+    4300948: aula320_marcos1
+    4300950: aula320_ventana_abrible1
+    4300952: aula320_manilla1
+    4300954: aula320_ventana_abrible1_2
+    4300956: aula320_manilla1_2
+    4300958: aula320_ventana1
+    4300960: aula320_ventana1_2
+    4300962: aula320_ventana1_3
+    4300964: aula320_marcos2
+    4300966: aula320_ventana_abrible2
+    4300968: aula320_manilla2
+    4300970: aula320_ventana_abrible2_2
+    4300972: aula320_manilla_2_2
+    4300974: aula320_ventana2
+    4300976: aula320_ventana2_2
+    4300978: aula320_ventana2_3
+    4300980: aula320_marcos3
+    4300982: aula320_ventana_abrible3
+    4300984: aula320_manilla3
+    4300986: aula320_ventana_abrible3_2
+    4300988: aula320_manilla_3_2
+    4300990: aula320_ventana3
+    4300992: aula320_ventana3_2
+    4300994: aula320_ventana3_3
+    4300996: aula320_marcos4
+    4300998: aula320_ventana_abrible4
+    4301000: aula320_manilla4
+    4301002: aula320_ventana_abrible4_2
+    4301004: aula320_manilla_4_2
+    4301006: aula320_ventana4
+    4301008: aula320_ventana4_2
+    4301010: aula320_ventana4_3
+    4301012: escExt_T3
+    4301014: paredTrasera
+    4301016: VolExtEsc
+    4301018: VolEntrada
+    4301020: envolventeP3
+    4301022: VolVerdeEsc
+    4301024: VolLadEsc
+    4301026: VolGimnasio
+    4301028: VolTrasero
+    4301030: VolTraseroTerraza
+    4301032: pasamanos_este
+    4301034: paredes_escalera_este
+    4301036: suelo_escaleras_este
+    4301038: pasamanos_oeste
+    4301040: paredes_escaleras_oeste
+    4301042: suelo_escaleras_oeste
+    4301044: techo_planta_baja
+    4301046: suelo_Planta_baja
+    4301048: paredes_planta_baja
+    4301050: objetos_de_pasillo
+    4301052: escenario_teatro
+    4301054: escalerilla_teatro
+    4301056: techo_teatro
+    4301058: paredes_teatro
+    4301060: techo_electronica
+    4301062: paredes_electronica
+    4301064: techo_alimentacion
+    4301066: paredes_alimentacion
+    4301068: suelo_planta_1
+    4301070: techo_planta_1
+    4301072: paredes_planta_1
+    4301074: techo_planta_2
+    4301076: suelo_planta_2
+    4301078: paredes_planta_3
+    4301080: pilares
+    4301082: techo_planta_3
+    4301084: suelo_planta_3
+    4301086: aula311_pared
+    4301088: aula311_marcoPuerta
+    4301090: aula311_puerta
+    4301092: aula311_manillaDentro
+    4301094: aula311_manillaFuera
+    4301096: aula312_pared
+    4301098: aula312_marcos
+    4301100: aula312_puerta
+    4301102: aula312_manillaDentro
+    4301104: aula312_manillaFuera
+    4301106: aula313_pared
+    4301108: aula313_marcos
+    4301110: aula313_puerta
+    4301112: aula313_manillaDentro
+    4301114: aula313_manillaFuera
+    4301116: aula314_pared
+    4301118: aula314_marcos
+    4301120: aula314_puerta
+    4301122: aula314_manillaDentro
+    4301124: aula314_manillaFuera
+    4301126: aula315_pared
+    4301128: aula315_marcos
+    4301130: aula315_puerta
+    4301132: aula315_manillaDentro
+    4301134: aula315_manillaFuera
+    4301136: aula316_pared
+    4301138: aula316_marcos
+    4301140: aula316_puerta
+    4301142: aula316_manillaDentro
+    4301144: aula316_manillaFuera
+    4301146: aula317_pared
+    4301148: aula317_marcos
+    4301150: aula317_puerta
+    4301152: aula317_manillaDentro
+    4301154: aula317_manillaFuera
+    4301156: aula318_pared
+    4301158: aula318_marcos
+    4301160: aula318_puerta
+    4301162: aula318_manillaDentro
+    4301164: aula318_manillaFuera
+    4301166: aula319_pared
+    4301168: aula319_marcos
+    4301170: aula319_puerta
+    4301172: aula319_manillaDentro
+    4301174: aula319_manillaFuera
+    4301176: columna_planta_4
+    4301178: aula320_pared
+    4301180: aula320_marcos
+    4301182: aula320_puerta
+    4301184: aula320_manillaDentro
+    4301186: aula320_manillaFuera
+    4301188: aula320_puerta2
+    4301190: aula320_manillaDentro2
+    4301192: aula320_manillaFuera2
+    4301194: columna_planta_5
+    4301196: aula310_pared
+    4301198: aula310_marcos
+    4301200: aula310_puerta
+    4301202: aula310_manillaDentro
+    4301204: aula310_manillaFuera
+    4301206: aula309_pared
+    4301208: aula309_marcos
+    4301210: aula309_puerta
+    4301212: aula309_manillaDentro
+    4301214: aula309_manillaFuera
+    4301216: aula308_pared
+    4301218: aula308_marcos
+    4301220: aula308_puerta
+    4301222: aula308_manillaDentro
+    4301224: aula308_manillaFuera
+    4301226: aula307_pared
+    4301228: aula307_marcos
+    4301230: aula307_puerta
+    4301232: aula307_manillaDentro
+    4301234: aula307_manillaFuera
+    4301236: aula306_pared
+    4301238: aula306_marcos
+    4301240: aula306_puerta
+    4301242: aula306_manillaDentro
+    4301244: aula306_manillaFuera
+    4301246: aula305_pared
+    4301248: aula305_marcos
+    4301250: aula305_puerta
+    4301252: aula305_manillaDentro
+    4301254: aula305_manillaFuera
+    4301256: aula304_pared
+    4301258: aula304_marcos
+    4301260: aula304_puerta
+    4301262: aula304_manillaDentro
+    4301264: aula304_manillaFuera
+    4301266: aula303_pared
+    4301268: aula303_marcos
+    4301270: aula303_puerta
+    4301272: aula303_manillaDentro
+    4301274: aula303_manillaFuera
+    4301276: wc_hombres_pared
+    4301278: wc_hombres_fregadero
+    4301280: wc_hombres_retretes
+    4301282: wc_hombres_marcoPuerta
+    4301284: wc_hombres_puerta
+    4301286: wc_hombres_manillaFuera
+    4301288: wc_hombres_manillaDentro
+    4301290: wc_mujeres_pared
+    4301292: wc_mujeres_fregadero
+    4301294: wc_mujeres_retretes
+    4301296: wc_mujeres_marcoPuerta
+    4301298: wc_mujeres_puerta
+    4301300: wc_mujeres_manillaFuera
+    4301302: wc_mujeres_manillaDentro
+    4301304: aula321_pared
+    4301306: aula321_marcos
+    4301308: aula321_puerta
+    4301310: aula321_manillaDentro
+    4301312: aula321_manillaFuera
+    4301314: aula321_puerta2
+    4301316: aula321_manillaDentro2
+    4301318: aula321_manillaFuera2
+    4301320: pasillo_311
+    4301322: pasillo_310
+    4301324: pasillo_312_309
+    4301326: pasillo_313_308
+    4301328: pasillo_314_307
+    4301330: pasillo_315_306
+    4301332: pasillo_316_305
+    4301334: pasillo_317_304
+    4301336: pasillo_318_303
+    4301338: pasillo_319
+    4301340: columna_planta_3
+    4301342: pasillo_wc
+    4301344: pasillo_320_321
+    4301346: pasillo_320_321_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

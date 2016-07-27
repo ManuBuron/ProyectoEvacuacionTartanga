@@ -1,0 +1,32 @@
+# 
+# 
+
+newmtl LaptopUmbrela
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.450000 0.450000 0.450000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka laptop_umbrella_d.dds
+	map_Kd laptop_umbrella_d.dds
+	map_bump laptop_umbrella_n.dds
+
+newmtl screen
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka laptop_umbrellascreen_d.dds
+	map_Kd laptop_umbrellascreen_d.dds
+	map_d laptop_umbrellascreen_d.dds

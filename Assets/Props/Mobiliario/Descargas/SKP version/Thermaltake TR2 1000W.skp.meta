@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: a0f1e6d04bd843449b9a65629237028b
+timeCreated: 1466024696
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000310000003200000033000000340000003500000036000000370000003800000039000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b37cd924bb26b86d42a17016e3fc258a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.14946236, y: 0.27030304, z: -0.17834002}
+      lookAt: {x: 0.13373189, y: -0.012891187, z: 0.10485422}
+      up: {x: 0.4082483, y: 0.8164966, z: 0.4082483}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ATX PSU Bracket
+    100002: Corsair AX850
+    100004: Group 10
+    100006: Group 21
+    100008: Group 23
+    100010: Group 25
+    100012: Group 27
+    100014: Group 3
+    100016: Group 38
+    100018: Group 41
+    100020: Group 42
+    100022: Group 44
+    100024: Group 46
+    100026: Group 48
+    100028: Group 5
+    100030: Group 50
+    100032: Group 52
+    100034: Group 56
+    100036: Group 6
+    100038: Group 8
+    100040: Group#24
+    100042: Group#24 1
+    100044: Group#24 2
+    100046: San Ace 120mm Fan
+    100048: Silverstone STF45SF
+    100050: Silverstone STF45SF 1
+    100052: //RootNode
+    100054: Thermaltake TR2 1000W 1
+    400000: ATX PSU Bracket
+    400002: Corsair AX850
+    400004: Group 10
+    400006: Group 21
+    400008: Group 23
+    400010: Group 25
+    400012: Group 27
+    400014: Group 3
+    400016: Group 38
+    400018: Group 41
+    400020: Group 42
+    400022: Group 44
+    400024: Group 46
+    400026: Group 48
+    400028: Group 5
+    400030: Group 50
+    400032: Group 52
+    400034: Group 56
+    400036: Group 6
+    400038: Group 8
+    400040: Group#24
+    400042: Group#24 1
+    400044: Group#24 2
+    400046: San Ace 120mm Fan
+    400048: Silverstone STF45SF
+    400050: Silverstone STF45SF 1
+    400052: //RootNode
+    400054: Thermaltake TR2 1000W 1
+    2300000: ATX PSU Bracket
+    2300002: Corsair AX850
+    2300004: Group 10
+    2300006: Group 21
+    2300008: Group 23
+    2300010: Group 25
+    2300012: Group 27
+    2300014: Group 3
+    2300016: Group 38
+    2300018: Group 42
+    2300020: Group 44
+    2300022: Group 46
+    2300024: Group 48
+    2300026: Group 50
+    2300028: Group 52
+    2300030: Group 56
+    2300032: Group 6
+    2300034: Group 8
+    2300036: Group#24
+    2300038: Group#24 1
+    2300040: Group#24 2
+    2300042: Silverstone STF45SF 1
+    2300044: Thermaltake TR2 1000W 1
+    3300000: ATX PSU Bracket
+    3300002: Corsair AX850
+    3300004: Group 10
+    3300006: Group 21
+    3300008: Group 23
+    3300010: Group 25
+    3300012: Group 27
+    3300014: Group 3
+    3300016: Group 38
+    3300018: Group 42
+    3300020: Group 44
+    3300022: Group 46
+    3300024: Group 48
+    3300026: Group 50
+    3300028: Group 52
+    3300030: Group 56
+    3300032: Group 6
+    3300034: Group 8
+    3300036: Group#24
+    3300038: Group#24 1
+    3300040: Group#24 2
+    3300042: Silverstone STF45SF 1
+    3300044: Thermaltake TR2 1000W 1
+    4300000: Mesh Thermaltake TR2 1000W
+    4300002: Mesh Group 3
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group#24
+    4300010: Mesh Group 21
+    4300012: Mesh Group 23
+    4300014: Mesh Group 25
+    4300016: Mesh Group 27
+    4300018: Mesh Silverstone STF45SF
+    4300020: Mesh Group 38
+    4300022: Mesh Group 42
+    4300024: Mesh Group 44
+    4300026: Mesh Group 46
+    4300028: Mesh Group 48
+    4300030: Mesh Group 50
+    4300032: Mesh Group 52
+    4300034: Mesh ATX PSU Bracket
+    4300036: Mesh Group 56
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
